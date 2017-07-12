@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Data intro for librarians
+subtitle: An introduction to data and computing terminology
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://github.com/data-lessons/library-data-intro
+client: Carmi Cronje and James Baker
+category: Stable
+description: This Library Carpentry lesson introduces librarians to working with data. At the conclusion of the lesson you will&#58; understand terms, phrases, and concepts in software development and data science; identify and use best practice in data structures; use regular expressions in searches
 
 ---

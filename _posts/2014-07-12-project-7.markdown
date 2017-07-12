@@ -1,0 +1,15 @@
+---
+title: Tidy data for librarians
+subtitle: Good data organization is the foundation of much of our day-to-day work in libraries.
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: https://jezcope.github.io/library-spreadsheets/
+client: Jez Cope
+category: Alpha
+description: Good data organization is the foundation of much of our day-to-day work in libraries. Most librarians have data or do data entry in spreadsheets.
+
+---

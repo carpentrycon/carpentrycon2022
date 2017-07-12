@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Unix Shell
+subtitle: Introduces librarians to the Unix Shell
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://data-lessons.github.io/library-shell/
+client: Belinda Weaver and Tim Dennis
+category: Stable
+description: Introduces the Unix-style command line interface, allowing you to efficiently work with directories and files, and find and manipulate data.
 
 ---

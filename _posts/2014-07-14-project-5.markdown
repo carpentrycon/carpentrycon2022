@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: SQL for Librarians
+subtitle: Introduces relational database management system using SQLite.
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: https://data-lessons.github.io/library-sql/
+client: Elaine Wong and Janice Chan
+category: Beta
+description: This Library Carpentry lesson introduces librarians to relational database management system using SQLite. At the conclusion of the lesson you will&#58; understand what SQLite does; use SQLite to summarise and link databases.
 
 ---
