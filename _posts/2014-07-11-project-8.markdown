@@ -4,8 +4,8 @@ subtitle: Python is a general purpose programming language that supports rapid d
 layout: default
 modal-id: 8
 date: 2014-07-11
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: python.jpg
+thumbnail: python_thumbnail.jpg
 alt: image-alt
 project-date: https://jezcope.github.io/library-spreadsheets/
 client: Jez Cope

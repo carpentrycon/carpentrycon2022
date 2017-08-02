@@ -4,8 +4,8 @@ subtitle: Introduces librarians to the Unix Shell
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: shell.jpg
+thumbnail: shell_thumbnail.jpg
 alt: image-alt
 project-date: https://data-lessons.github.io/library-shell/
 client: Belinda Weaver and Tim Dennis

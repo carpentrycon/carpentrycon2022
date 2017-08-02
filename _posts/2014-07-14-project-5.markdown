@@ -4,8 +4,8 @@ subtitle: Introduces relational database management system using SQLite.
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: sql.jpg
+thumbnail: sql_thumbnail.jpg
 alt: image-alt
 project-date: https://data-lessons.github.io/library-sql/
 client: Elaine Wong and Janice Chan

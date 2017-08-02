@@ -4,8 +4,8 @@ subtitle: An introduction to cleaning and enhancing data in OpenRefine
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: open_refine.jpg
+thumbnail: open_refine_thumbnail.jpg
 alt: image-alt
 project-date: https://data-lessons.github.io/library-openrefine/
 client: Owen Stephens, Juliane Schneider, and Carmi Cronje

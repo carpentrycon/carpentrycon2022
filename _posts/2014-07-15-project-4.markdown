@@ -4,8 +4,8 @@ subtitle: Introduces the Git version control system and the GitHub collaboration
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: git.jpg
+thumbnail: git_thumbnail.jpg
 alt: image-alt
 project-date: https://data-lessons.github.io/library-git/
 client: Belinda Weaver and Jez Cope
