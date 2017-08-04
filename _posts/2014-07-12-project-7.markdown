@@ -4,8 +4,8 @@ subtitle: Good data organization is the foundation of much of our day-to-day wor
 layout: default
 modal-id: 7
 date: 2014-07-12
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: lc_logo.jpg
+thumbnail: lc_logo_thumbnail.jpg
 alt: image-alt
 project-date: https://jezcope.github.io/library-spreadsheets/
 client: Jez Cope

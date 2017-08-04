@@ -4,8 +4,8 @@ subtitle: An introduction to data and computing terminology
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+img: lc_logo.jpg
+thumbnail: lc_logo_thumbnail.jpg
 alt: image-alt
 project-date: https://github.com/data-lessons/library-data-intro
 client: Carmi Cronje and James Baker
