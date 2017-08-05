@@ -234,6 +234,17 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+/* LC logo - added by @richyvk */
+    div#logo img {
+        height: 100%;
+        width: auto;
+    }
+
+    div#logo a#logo-link {
+        height: 60px;
+        padding: 10px 0px 5px 0px;
+    }
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -262,6 +273,22 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    /* LC logo - added by @richyvk */
+    div#logo a#logo-link {
+        height: 140px;
+        margin-top: -70px;
+    }
+
+    div#logo img {
+        height: 100%;
+        width: auto;
+    }
+
+    .navbar-default.navbar-shrink div#logo a#logo-link {
+        height: 75px;
+        padding: 14px 0px 1px 0px;
     }
 }
 
@@ -854,7 +881,7 @@ ul.social-buttons li a:active {
     background: #{{ site.data.template.color.primary }};
 }
 
-img::selection {
+img::section {
     background: 0 0;
 }
 
@@ -864,9 +891,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
-}
-
-
-a#logo-link {
-    margin-top: -18px;
 }
