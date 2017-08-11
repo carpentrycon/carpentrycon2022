@@ -9,9 +9,9 @@ description: "We teach foundational computational and data science skills to res
 
 # Team names, titles and social links
 people:
-- name: Belinda Weaver
+- name: Jonah Duckles
   pic: 1
-  position: Community Development Lead
+  position: Executive Director
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Belinda Weaver
   pic: 2
-  position: Lead Marketer
+  position: Community Development Lead
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Maneesha Sane
   pic: 3
-  position: Lead Developer
+  position: Workshop Administrator
   social:
     - title: twitter
       url: #
@@ -47,7 +47,7 @@ social:
   - title: twitter
     url: http://twitter.com/cloudaus
   - title: github
-    url: https://github.com/LibraryCarpentry/
+    url: https://github.com/swcarpentry/
   - title: github
     url: https://github.com/swcarpentry
 
