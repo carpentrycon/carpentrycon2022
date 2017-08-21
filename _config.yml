@@ -44,11 +44,11 @@ people:
 social:
   - title: twitter
     url: http://twitter.com/swcarpentry
-  - title: twitter
+  - title: github
     url: https://github.com/swcarpentry/
   - title: facebook
     url: https://www.facebook.com/carpentries/
-  - slack
+  - title: slack
     url: https://swc-slack-invite.herokuapp.com/
 
 # Postal address (add as many lines as necessary)
