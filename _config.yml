@@ -25,11 +25,9 @@ people:
   position: Community Development Lead
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://twitter.com/cloudaus
+    - title: github
+      url: https://github.com/weaverbel
 
 - name: Maneesha Sane
   pic: 3
@@ -45,11 +43,13 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/cloudaus
-  - title: github
+    url: http://twitter.com/swcarpentry
+  - title: twitter
     url: https://github.com/swcarpentry/
-  - title: github
-    url: https://github.com/swcarpentry
+  - title: facebook
+    url: https://www.facebook.com/carpentries/
+  - slack
+    url: https://swc-slack-invite.herokuapp.com/
 
 # Postal address (add as many lines as necessary)
 address:
