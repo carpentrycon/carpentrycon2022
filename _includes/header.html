@@ -10,7 +10,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand page-scroll" id="logo-link" href="#page-top">
-                    <div id="logo">The Carpentries</a></div>
+                    <div id="logo"><img src="{{ "/img/logos/lc_logo_1.png" | prepend: site.baseurl }}" alt="Logo"></a></div>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -19,7 +19,7 @@
                     <li class="hidden">
                         <a href="#page-top"></a>
                     </li>
-                  <li>
+                   <li>
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                      <li>
@@ -36,7 +36,7 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a href="http://weaverbel.github.io/carpentriesblog">Blog</a>
+                        <a href="{{ "/blog/" | prepend: site.baseurl }}">Blog</a>
                     </li>
                 </ul>
             </div>
@@ -49,9 +49,9 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Computational and data skills for researchers</div>
-                <div class="intro-heading">Welcome to the Carpentries</div>
-                <a href="#services" class="page-scroll btn btn-xl">Find Out More</a>
+                <div class="intro-lead-in">Software skills for library professionals</div>
+                <div class="intro-heading">Welcome to library carpentry</div>
+                <a href="#services" class="page-scroll btn btn-xl">Learn More</a>
             </div>
         </div>
     </header>
@@ -60,4 +60,3 @@
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
  -->
-
