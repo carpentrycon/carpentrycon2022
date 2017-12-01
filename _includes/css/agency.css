@@ -324,7 +324,6 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
-    color: #003399;
 }
 
 @media(min-width:768px) {
@@ -344,6 +343,7 @@ header .intro-text .intro-heading {
     header .intro-text .intro-heading {
         margin-bottom: 50px;
         font-family: {{ site.data.template.font.primary }};
+        text-transform: uppercase;
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
