@@ -1,10 +1,10 @@
 url: https://weaverbel.github.io
-baseurl: /draft-site
+baseurl: /cc-draft
 
 # Site settings
-title: The Carpentries 
+title: CarpentryCon 2018 
 email: bweaver@carpentries.org
-description: "We teach foundational computational and data science skills to researchers"
+description: "The official website for CarpentryCon 2018 in Dublin"
 
 
 # Team names, titles and social links
