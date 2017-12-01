@@ -295,7 +295,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/cropped-blur_bootcamp_bg.png');
+    background-image: url('{{ site.baseurl }}/img/cc-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
