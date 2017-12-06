@@ -1,9 +1,9 @@
-url: https://weaverbel.github.io
-baseurl: /cc-draft
+url: https://carpentrycon.github.io
+baseurl: /
 
 # Site settings
 title: CarpentryCon 2018 
-email: bweaver@carpentries.org
+email: team@carpentries.org
 description: "The official website for CarpentryCon 2018 in Dublin"
 
 
