@@ -2,9 +2,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <meta name="language" content="en-EN"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta name="HandheldFriendly" content="true"/>
+
+    <!-- Twitter and open graph (Facebook) tags -->
+    <meta property="og:site_name" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  	<meta property="og:type" content="website"/>
+  	<meta property="og:description" content="{{ site.description }}"/>
+  	<meta property="og:locale" content="en-EN"/>
+  	<meta property="twitter:card" content="summary"/>
+  	<meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
+  	<meta property="twitter:description" content="{{ site.description }}"/>
+    <meta property="twitter:creator" content="@swcarpentry">
+    <meta property="twitter:site" content="{{ site.title }}">
+    <meta property="og:image" content="{{site.url}}/img/logos/minicarback.png" />
 
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
