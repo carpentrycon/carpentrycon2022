@@ -11,3 +11,7 @@ a:focus, a:hover {
     color: #23527c;
     text-decoration: underline;
 }
+
+a.btn {
+  text-decoration: none;
+}
