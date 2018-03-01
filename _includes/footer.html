@@ -2,21 +2,24 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Site licenced under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons CC-BY</a> licence.</span>
+                    <span class="copyright">This website is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         {% for network in site.social %}
-                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        <li>
+                          <a title="{{ network.title }}" href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                         </li>
                         {% endfor %}
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="https://github.com/swcarpentry/website">Site source</a>
+                        <li>
+                          <a title="Github repository" href="https://github.com/carpentrycon/carpentrycon2018">Site source</a>
                         </li>
-                        <li><a href="#">Terms of Use</a>
+                        <li>
+                          <a title="UCD estates map" href="http://map.ucdestates.ie/">UCD map</a>
                         </li>
                     </ul>
                 </div>
