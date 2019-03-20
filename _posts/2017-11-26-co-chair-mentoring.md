@@ -41,5 +41,5 @@ If you would like to be considered, please fill out [this short google form](htt
 - Collaborate with dedicated members of our community to mentor instructors and create a strong network.  
 - Assist with improving and creating new resources for our instructor and mentoring communities.  
 - Meet many other amazing Software and Data Carpentry instructors and instructors-in-training.  
-- Gain and practice skills in community organization.  
-- Learn more about how the Carpentries function as an organization. 
+- Gain and practice skills in community organisation.  
+- Learn more about how the Carpentries function as an organisation. 
