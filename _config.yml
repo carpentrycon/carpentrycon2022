@@ -3,8 +3,8 @@ baseurl: "/"
 
 # Site settings
 title: CarpentryCon 2020
-email: team@carpentries.org
-description: "The official website for CarpentryCon 20202"
+email: carpentrycon@carpentries.org
+description: "The official website for CarpentryCon 2020"
 
 
 # Team names, titles and social links
