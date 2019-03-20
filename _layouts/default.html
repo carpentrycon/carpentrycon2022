@@ -3,23 +3,21 @@
 
   {% include head.html %}
 
-
     <body id="page-top" class="index">
 
     {% include header.html %}
     {% include about.html %}
-    {% include services.html %}
-    {% include comp.html %}
-    {% include donor.html %}
-    {% include portfolio_grid.html %}
-    {% include program.html %}
-    {% include information.html %}
-    {% include accom.html %}
-    {% include map.html %}
+    {% include conference_format.html %}
+    {% comment %}{% include comp.html %}{% endcomment %}
+    {% comment %}{% include donor.html %}{% endcomment %}
+    {% include sponsorship_information.html %}
+    {% comment %} {% include program.html %}{% endcomment %}
+    {% comment %}{% include registration_information.html %}{% endcomment %}
+    {% comment %} {% include accom.html %}{% endcomment %}
+    {% comment %} {% include map.html %}{% endcomment %}
     {% include contact.html %}
     {% include footer.html %}
     {% include js.html %}
-
-
     </body>
+
 </html>
