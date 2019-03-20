@@ -2,43 +2,43 @@ url: http://www.carpentrycon.org
 baseurl: "/"
 
 # Site settings
-title: CarpentryCon 2018 
+title: CarpentryCon 2020
 email: team@carpentries.org
-description: "The official website for CarpentryCon 2018 in Dublin"
+description: "The official website for CarpentryCon 20202"
 
 
 # Team names, titles and social links
-people:
-- name: Jonah Duckles
-  pic: 1
-  position: Executive Director
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Belinda Weaver
-  pic: 2
-  position: Community Development Lead
-  social:
-    - title: twitter
-      url: https://twitter.com/cloudaus
-    - title: github
-      url: https://github.com/weaverbel
-
-- name: Maneesha Sane
-  pic: 3
-  position: Workshop Administrator
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#people:
+#- name: Jonah Duckles
+#  pic: 1
+#  position: Executive Director
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+#
+#- name: Belinda Weaver
+#  pic: 2
+#  position: Community Development Lead
+#  social:
+#    - title: twitter
+#      url: https://twitter.com/cloudaus
+#    - title: github
+#      url: https://github.com/weaverbel
+#
+#- name: Maneesha Sane
+#  pic: 3
+#  position: Workshop Administrator
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,8 +52,8 @@ social:
     url: https://swc-slack-invite.herokuapp.com/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Brisbane, Australia
+#address:
+#  - line: Brisbane, Australia
 
 # Build settings
 markdown: kramdown
