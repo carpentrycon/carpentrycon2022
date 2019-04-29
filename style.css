@@ -3,12 +3,12 @@ layout: style
 ---
 
 a {
-  color: #337ab7;
+  color: #75fff8;
   text-decoration: none;
 }
 
 a:focus, a:hover {
-    color: #23527c;
+    color: #11f9ee;
     text-decoration: underline;
 }
 
