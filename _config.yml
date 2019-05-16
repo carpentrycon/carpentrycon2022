@@ -1,5 +1,5 @@
 url: https://cc2020.carpentrycon.org
-baseurl: "/"
+baseurl:
 
 # Site settings
 title: CarpentryCon 2020
