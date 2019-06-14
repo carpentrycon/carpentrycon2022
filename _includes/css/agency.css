@@ -306,7 +306,7 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 20px;
 }
 
 header .intro-text .intro-lead-in {
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 100px;
-        padding-bottom: 50px;
+        padding-bottom: 20px;
     }
 
     header .intro-text .intro-lead-in {
@@ -366,7 +366,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 50px 0px 0px 0px;
+        padding: 20px 0px 0px 0px;
     }
 }
 
@@ -472,7 +472,7 @@ section h3.section-subheading {
 
 .timeline>li {
     position: relative;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     min-height: 50px;
 }
 
@@ -555,6 +555,7 @@ section h3.section-subheading {
 .timeline .timeline-heading h4 {
     margin-top: 0;
     color: inherit;
+    padding-top: 20px;
 }
 
 .timeline .timeline-heading h4.subheading {
@@ -572,7 +573,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 20px;
         min-height: 100px;
     }
 
