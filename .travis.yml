@@ -22,6 +22,6 @@ before_deploy:
 deploy:
   skip_cleanup: true
   provider: script
-  script: aws s3 sync _site s3://cc2020.carpentrycon.org --delete
+  script: aws s3 sync _site s3://2020.carpentrycon.org --delete
   on:
     branch: gh-pages
