@@ -310,15 +310,22 @@ header .intro-text {
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
 }
 
+header .intro-text .intro-lead-in-subheading {
+    margin-bottom: 10px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 20px;
+    line-height: 15px;
+}
+
 header .intro-text .intro-heading {
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     font-family: {{ site.data.template.font.primary }};
     font-size: 50px;
     font-weight: 700;
@@ -332,15 +339,22 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
+        margin-bottom: 20px;
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
         line-height: 40px;
     }
 
+    header .intro-text .intro-lead-in-subheading {
+    margin-bottom: 10px;
+    font-family: {{ site.data.template.font.secondary }};
+    font-size: 20px;
+    line-height: 15px;
+    }
+
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 20px;
         font-family: {{ site.data.template.font.primary }};
         text-transform: uppercase;
         font-size: 75px;
