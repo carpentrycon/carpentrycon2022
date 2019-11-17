@@ -13,9 +13,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "CarpentryCon 2020"
 email: "carpentrycon@carpentries.org"
-description: "Annual community conference for the carpentries.org global community"
-baseurl: "/cc2020"
-url: "https://carpentries.github.io"
+description: "Annual community conference for The Carpentries global community"
+baseurl: ""
+url: "https://2020.carpentrycon.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
