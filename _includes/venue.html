@@ -1,0 +1,105 @@
+<!-- Venue Section -->
+{% if page.title != site.venueBlockTitle %}
+    {% assign background_style = "background-image: url('" | append: site.baseurl | append: site.venueBackgroundImage | append:"'); background-size: 100%; background-position: center center;" %}
+    {% assign font_colour = "#FFFFFF" %}
+{% else %}
+    {% assign background_style = "" %}
+    {% assign font_colour = "#000000" %}
+{% endif %}
+<section id="venue" style="{{ background_style }}">
+    {% if page.title != site.venueBlockTitle %}
+    <div class="overlay solid-overlay"></div>
+    {% endif %}
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% if page.title != site.venueBlockTitle %}
+            <h3 style="color: {{ font_colour }}">{{ site.venueBlockTitle }}</h3>
+            {% endif %}
+            {% if page.title == site.venueBlockTitle %}
+            <h4 class="text-left" style="color: {{ font_colour }}">University of Wisconsin - Madison</h4>
+            {% endif %}
+            <p class="post-body text-left" style="color: {{ font_colour }}">
+                CarpentryCon 2020 will be held at <a href="https://wisc.edu/">the University of Wisconsin -
+                Madison</a>, United States, sitting along the
+                shores of Lake Mendota.
+
+                CarpentryCon2020 is supported by a growing local community of Carpentry instructors and trainers, coordinated through
+                the <a href="https://datascience.wisc.edu/">UW-Madison’s Data Science Hub</a>.
+
+                The Carpentries and the wider community are very grateful for the generous support of the Data Science Hub and the University of Wisconsin - Madison in hosting
+                this event. To help make this a truly international event, we will be offering travel support to
+                facilitate attendance from as wide a group of participants as possible.
+                {% if page.title != site.venueBlockTitle %}
+                Read more information about the <a href="{{ site.baseurl }}/venue">venue</a>, <a href="{{ site.baseurl }}/venue#travel">travel</a> and <a href="{{ site.baseurl }}/accommodation">accommodation</a>.
+                {% endif %}
+            </p>
+            {% if page.title == site.venueBlockTitle %}
+            <div class="col-md-8 col-sm-8 venue-col">
+                <div class="venue-elem-wrapper">
+                    <div class="venue-elem image-section venue-big-elem venue-img animated hiding"
+                         data-animation="fadeIn" data-delay="0"
+                         style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueBigImage }})"></div>
+                    <div class="text-right"><a href="{{ site.venueBigImageLink }}" target="_blank">{{ site.venueBigImageCreditText }}</a></div>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 venue-col venue-small-col">
+                <!--<div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">-->
+                <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
+                <!--data-animation="fadeIn" data-delay="150"-->
+                <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>-->
+                <!--</div>-->
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem venue-small-elem venue-text animated hiding dark-grey" data-animation="fadeIn"
+                         data-delay="0">
+                        <h5>{{ site.venueTitle }}</h5>
+                        {% for feature in site.venueFeatures %}
+                        <p>{{ feature }}</p>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem venue-small-elem venue-text animated hiding"
+                         data-animation="fadeIn"
+                         data-delay="0">
+                        <p>
+                        <h5>Location</h5>
+                        <p>
+                            University of Wisconsin - Madison
+                        </p>
+                        <p>
+                            <a href="https://www.google.com/maps/place/Discovery+Building/@43.072896,-89.4097526,17z/data=!3m1!4b1!4m5!3m4!1s0x8807acc6278e5ee3:0x8f3e69223485f625!8m2!3d43.072896!4d-89.4075586" target="_blank">WI 53706, Madison, USA</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                    <div class="venue-elem image-section venue-small-elem venue-img"
+                         data-animation="fadeIn" data-delay="0"
+                         style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage }})">
+                    </div>
+                    <div class="text-right"><a href="{{ site.venueSmallImageLink }}" target="_blank">{{ site.venueSmallImageCreditText }}</a></div>
+                </div>
+                <!--<div class="venue-elem-wrapper col-xs-6 visible-xs">-->
+                <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
+                <!--data-animation="fadeIn" data-delay="0"-->
+                <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})">-->
+                <!--</div>-->
+                <!--</div>-->
+            </div>
+            {% endif %}
+        {% if page.title == site.venueBlockTitle %}
+        <div class="row venue-row" id="travel">
+            <div class="col-md-12 col-sm-12 venue-col text-left">
+                <h4>Travel information</h4>
+                <p class="post-body text-justify">
+                    Information about travel will be added in due course.
+                </p>
+            </div>
+        </div>
+        {% endif %}
+        </div>
+    </div>
+            {% if page.title != site.venueBlockTitle %}
+            <div class="col-md-4 col-md-offset-8 text-right" style="padding-top: 75px; color: {{ font_colour }}"><a href="{{ site.venueBackgroundImageLink }}" target="_blank">{{ site.venueBackgroundImageCreditText }}</a></div>
+        {% endif %}
+</section>
+<!-- End Venue Section -->

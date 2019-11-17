@@ -1,0 +1,25 @@
+<!-- Begin Statistic Section -->
+<section id="important-dates" class="grey">
+	<div class="content-wrapper">
+        {% if page.title != site.importantDatesBlockTitle %}
+            <h3 style="margin:0 0 20px 0;">{{ site.importantDatesBlockTitle }}</h3>
+        {% endif %}
+		<div class="col-lg-10 col-lg-offset-1" style="display: flex; justify-content: center">
+            {% assign animationDelay = 0 %}
+            {% for importantDate in site.importantDatesBlock %}
+            <div style="flex: 1; margin: 0 15px;">
+                <div class="post animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <h5 style="color: #03a9f4;">{{ importantDate.date}}</h5>
+                    <ul class="text-left">
+                        {% for info in importantDate.info %}
+					        <li class="post-body" style="margin-top: 5px;">{{ info}}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% endfor %}
+		</div>
+	</div>
+</section>
+<!-- End Statistic Section -->

@@ -1,0 +1,8 @@
+- 
+  group: "Main organiser"
+  elements: 
+    - {name: "The Carpentries", description: "The Carpentries", link: "https://carpentries.org", imageUrl: "TheCarpentries.png"}
+# - 
+#   group: "Co-organisers"
+#   elements: 
+#     - 
