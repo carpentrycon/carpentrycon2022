@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 title: "CarpentryCon 2020"
 email: "carpentrycon@carpentries.org"
 description: "Annual community conference for The Carpentries global community"
-baseurl: "/"
+baseurl: "/carpentrycon2020"
 url: "https://2020.carpentrycon.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
