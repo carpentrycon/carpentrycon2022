@@ -146,3 +146,26 @@
 .photo-credit{
     text-align: right;
 }
+
+.important-dates-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 0 5%;
+
+    .important-date {
+            flex: 1;
+            margin: 0 15px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .important-dates-wrapper {
+        display: block;
+        text-align: left;
+
+        .important-date {
+                display: block;
+
+        }
+    }
+}
