@@ -51,7 +51,7 @@ navigationLinks:
   - {permalink: "/task-force/", text: "Task Force"}
 bottomNavigationLinks:
 rightNavigationButtons:
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Call for proposals"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
 
 # Hero Block
 heroImage: "cc2018.png"
@@ -60,7 +60,7 @@ eventDate: "June 29 - July 1, 2020"
 typeoutTextValues: '"University of Wisconsin", "Madison", "USA"'
 typeoutFallback: "University of Wisconsin, Madison, USA"
 heroButtons:
-  - {permalink: "/sponsorship/", text: "Become a Sponsor"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
 
