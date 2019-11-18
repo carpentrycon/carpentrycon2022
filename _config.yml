@@ -7,7 +7,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 
 
 # Site Settings
@@ -61,7 +61,6 @@ typeoutTextValues: '"University of Wisconsin", "Madison", "USA"'
 typeoutFallback: "University of Wisconsin, Madison, USA"
 heroButtons:
   - {permalink: "/sponsorship/", text: "Become a Sponsor"}
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Call for proposals"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
 
