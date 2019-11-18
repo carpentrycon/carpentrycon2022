@@ -4,10 +4,10 @@
         {% if page.title != site.importantDatesBlockTitle %}
             <h3 style="margin:0 0 20px 0;">{{ site.importantDatesBlockTitle }}</h3>
         {% endif %}
-		<div class="col-lg-10 col-lg-offset-1" style="display: flex; justify-content: center">
+		<div class="important-dates-wrapper" style="">
             {% assign animationDelay = 0 %}
             {% for importantDate in site.importantDatesBlock %}
-            <div style="flex: 1; margin: 0 15px;">
+            <div class="important-date">
                 <div class="post animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
                     <h5 style="color: #03a9f4;">{{ importantDate.date}}</h5>
                     <ul class="text-left">
