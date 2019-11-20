@@ -246,6 +246,17 @@
   comms: true 
   social: 
     - {name: "github", link: "https://github.com/minazamani"}
+-
+  id: 39
+  name: "Shaily"
+  surname: "Gandhi"
+  title: "Content/Communications Subcommittee Co-Chair"
+  thumbnailUrl: ShailyGandhi.jpg
+  comms: true 
+  social: 
+    - {name: "website", link: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
+    - {name: "twitter", link: "https://twitter.com/ShailyGandhi"}
+    - {name: "github", link: "https://github.com/ShailyGandhi"}    
 - 
   id: 50
   name: "Bianca"
