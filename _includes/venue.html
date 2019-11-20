@@ -13,7 +13,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             {% if page.title != site.venueBlockTitle %}
-            <h3 style="color: {{ font_colour }}">{{ site.venueBlockTitle }}</h3>
+            <h3 style="color: {{ font_colour }}"><a href="{{ site.baseurl }}/venue/">{{ site.venueBlockTitle }}</a></h3>
             {% endif %}
             {% if page.title == site.venueBlockTitle %}
             <h4 class="text-left" style="color: {{ font_colour }}">University of Wisconsin - Madison</h4>
