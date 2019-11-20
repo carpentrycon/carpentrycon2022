@@ -1,5 +1,6 @@
 _site
 .jekyll-metadata
+.sass-cache
 
 # Windows image file caches
 Thumbs.db
@@ -11,12 +12,6 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
 # =========================
 # Operating System Files
 # =========================
@@ -27,6 +22,13 @@ $RECYCLE.BIN/
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Windows
+# =========================
+*.cab
+*.msi
+*.msm
+*.msp
 
 # Icon must ends with two \r.
 Icon
