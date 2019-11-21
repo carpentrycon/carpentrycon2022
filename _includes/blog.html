@@ -3,7 +3,7 @@
     <div class="content-wrapper text-left">
         {% if page.title != site.blogTitle %}
         <div class="col-lg-10 col-lg-offset-1">
-            <h4 class="text-center"><a href="{{ site.baseurl }}/blog/">{{ site.blogTitle }}</a></h4>
+            <h3 class="text-center"><a href="{{ site.baseurl }}/blog/">{{ site.blogTitle }}</a></h3>
 			<article class="row">
 				{% for post in site.posts limit:3 %}
                     {% assign postUrl = site.baseurl | append: post.url %}
