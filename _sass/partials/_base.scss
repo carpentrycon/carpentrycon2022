@@ -1,10 +1,10 @@
 @import "compass";
 
 // Font weights
-$light: 200;
-$regular: 320;
+$light: 300;
+$regular: 400;
 $bold: 500;
-$extra-bold: 600;
+$extra-bold: 700;
 
 // Base Font
 $base-font-family: sans-serif;
@@ -18,7 +18,7 @@ $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
 // Headings
-$header-font-weight: $light;
+$header-font-weight: $bold;
 $h1-font-size: 6.125 * $base-font-size;
 $h2-font-size: 5.875 * $base-font-size;
 $h3-font-size: 5 * $base-font-size;

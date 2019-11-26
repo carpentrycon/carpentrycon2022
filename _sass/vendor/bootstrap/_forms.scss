@@ -219,7 +219,7 @@ input[type="search"] {
     min-height: $line-height-computed; // Ensure the input doesn't jump when there is no text
     padding-left: 20px;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: $base-font-weight;
     cursor: pointer;
   }
 }
@@ -244,7 +244,7 @@ input[type="search"] {
   padding-left: 20px;
   margin-bottom: 0;
   vertical-align: middle;
-  font-weight: normal;
+  font-weight: $base-font-weight;
   cursor: pointer;
 }
 .radio-inline + .radio-inline,
