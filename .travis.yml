@@ -4,7 +4,10 @@ rvm:
 
 cache: bundler
 
-script: bundle exec jekyll build
+script:
+  - bundle update
+  - bundle exec compass compile _sass/
+  - bundle exec jekyll build
 
 branches:
   only:
