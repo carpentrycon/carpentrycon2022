@@ -2,6 +2,7 @@ _site
 .jekyll-metadata
 .sass-cache
 Gemfile.lock
+css/main.css
 
 # Windows image file caches
 Thumbs.db
