@@ -73,7 +73,7 @@
 .input-group-addon {
   padding: $padding-base-vertical $padding-base-horizontal;
   font-size: $font-size-base;
-  font-weight: normal;
+  font-weight: $base-font-weight;
   line-height: 1;
   color: $input-color;
   text-align: center;
