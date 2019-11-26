@@ -12,7 +12,7 @@
   // Reset font and text properties given new insertion method
   font-family: $font-family-base;
   font-size: $font-size-small;
-  font-weight: normal;
+  font-weight: $base-font-weight;
   line-height: 1.4;
   @include opacity(0);
 
