@@ -2,12 +2,8 @@ language: ruby
 rvm:
 - 2.5.3
 
-cache: bundler
 
-script:
-  - bundle update
-  - bundle exec compass compile _sass/
-  - bundle exec jekyll build
+script: bundle exec jekyll build
 
 branches:
   only:

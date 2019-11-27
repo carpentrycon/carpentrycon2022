@@ -8,7 +8,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
-sass: compact
+
 
 # Site Settings
 title: "CarpentryCon 2020"

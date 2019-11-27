@@ -22,14 +22,10 @@
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
-
-            p {
-                font-size: $base-font-size * 1.2;
-            }
         }
         p {
             font-size: $base-font-size * 2;
-            font-weight: $regular;
+            font-weight: $light;
             margin-bottom: 15px;
         }
         .btn {

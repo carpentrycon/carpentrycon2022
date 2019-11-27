@@ -28,7 +28,7 @@ $location-card-highlight-color: #333;
 }
 .map-card {
     font-size: 16px;
-    font-weight: $bold;
+    font-weight: 400;
     top: 450px;
     left: 50px;
     overflow: hidden;
@@ -114,7 +114,7 @@ $location-card-highlight-color: #333;
         list-style: none;
     }
     li {
-        font-weight: $bold;
+        font-weight: 400;
         line-height: 50px;
         text-transform: uppercase;
         color: $location-card-highlight-color;

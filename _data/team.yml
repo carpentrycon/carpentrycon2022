@@ -256,17 +256,7 @@
   social: 
     - {name: "website", link: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
     - {name: "twitter", link: "https://twitter.com/ShailyGandhi"}
-    - {name: "github", link: "https://github.com/ShailyGandhi"}  
-- 
-  id: 40
-  name: "Serah"
-  surname: "Rono"
-  title: "Staff Liaison"
-  thumbnailUrl: SerahRono.jpg
-  comms: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/serahrono"}
-    - {name: "github", link: "https://github.com/serahrono"}  
+    - {name: "github", link: "https://github.com/ShailyGandhi"}    
 - 
   id: 50
   name: "Bianca"

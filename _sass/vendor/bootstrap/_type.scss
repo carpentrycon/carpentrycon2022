@@ -15,9 +15,9 @@ h1, h2, h3, h4, h5, h6,
 
   small,
   .small {
-      font-weight: $base-font-weight;
-      line-height: 1;
-      color: $headings-small-color;
+    font-weight: normal;
+    line-height: 1;
+    color: $headings-small-color;
   }
 }
 
@@ -62,7 +62,7 @@ p {
 .lead {
   margin-bottom: $line-height-computed;
   font-size: floor(($font-size-base * 1.15));
-  font-weight: $base-font-weight;
+  font-weight: 300;
   line-height: 1.4;
 
   @media (min-width: $screen-sm-min) {
@@ -191,7 +191,7 @@ dd {
   line-height: $line-height-base;
 }
 dt {
-  font-weight: $bold;
+  font-weight: bold;
 }
 dd {
   margin-left: 0; // Undo browser default
