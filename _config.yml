@@ -51,7 +51,7 @@ navigationLinks:
   - {permalink: "/task-force/", text: "Task Force"}
 bottomNavigationLinks:
 rightNavigationButtons:
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
 
 # Hero Block
 heroImage: "cc2018.png"
