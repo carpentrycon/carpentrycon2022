@@ -1,10 +1,10 @@
 <!-- Venue Section -->
 {% if page.title != site.venueBlockTitle %}
-    {% assign background_style = "background-image: url('" | append: site.baseurl | append: site.venueBackgroundImage | append:"'); background-size: 100%; background-position: center center;" %}
-    {% assign font_colour = "#FFFFFF" %}
+{% assign background_style = "background-image: url('" | append: site.baseurl | append: site.venueBackgroundImage | append:"'); background-size: 100%; background-position: center center;" %}
+{% assign font_colour = "#FFFFFF" %}
 {% else %}
-    {% assign background_style = "" %}
-    {% assign font_colour = "#000000" %}
+{% assign background_style = "" %}
+{% assign font_colour = "#000000" %}
 {% endif %}
 <section id="venue" style="{{ background_style }}">
     {% if page.title != site.venueBlockTitle %}
@@ -14,8 +14,7 @@
         <div class="col-lg-10 col-lg-offset-1">
             {% if page.title != site.venueBlockTitle %}
             <h3 style="color: {{ font_colour }}"><a href="{{ site.baseurl }}/venue/">{{ site.venueBlockTitle }}</a></h3>
-            {% endif %}
-            {% if page.title == site.venueBlockTitle %}
+            {% else %}
             <h4 class="text-left" style="color: {{ font_colour }}">University of Wisconsin - Madison</h4>
             {% endif %}
             <p class="post-body text-left" style="color: {{ font_colour }}">
@@ -29,10 +28,15 @@
                 The Carpentries and the wider community are very grateful for the generous support of the Data Science Hub and the University of Wisconsin - Madison in hosting
                 this event. To help make this a truly international event, we will be offering travel support to
                 facilitate attendance from as wide a group of participants as possible.
-                {% if page.title != site.venueBlockTitle %}
-                Read more information about the <a href="{{ site.baseurl }}/venue">venue</a>, <a href="{{ site.baseurl }}/venue#travel">travel</a> and <a href="{{ site.baseurl }}/accommodation">accommodation</a>.
-                {% endif %}
             </p>
+            {% if page.title != site.venueBlockTitle %}
+            <p class="post-body text-left" style="color: {{ font_colour }}">
+                Read more information about the <a href="{{ site.baseurl }}/venue">venue</a>, <a href="{{ site.baseurl }}/venue#travel">travel</a> and <a href="{{ site.baseurl }}/accommodation">accommodation</a>.
+            </p>
+            <p class="post-body text-left" style="color: {{ font_colour }}; font-weight: bold;">If you are traveling from outside of the United States, please confirm that you have the <a href="https://travel.state.gov/content/travel/en/us-visas.html" target="_blank">necessary visa needed to enter the United States</a>. You can check if and what type of visa you require by using the US Government's <a href="https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html">Visa Wizard</a>.</p>
+            </p>
+            {% endif %}
+
             {% if page.title == site.venueBlockTitle %}
             <div class="col-md-8 col-sm-8 venue-col">
                 <div class="venue-elem-wrapper">
@@ -62,7 +66,10 @@
                          data-animation="fadeIn"
                          data-delay="0">
                         <p>
-                        <h5>Location</h5>
+                        <h5>Venue</h5>
+                        <p>
+                            Discovery Building
+                        </p>
                         <p>
                             University of Wisconsin - Madison
                         </p>
@@ -85,21 +92,65 @@
                 <!--</div>-->
                 <!--</div>-->
             </div>
-            {% endif %}
-        {% if page.title == site.venueBlockTitle %}
-        <div class="row venue-row" id="travel">
+            <h5 class="text-left">Venues</h5>
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <h6 class="text-left">Discovery Building</h6>
+                    <p class="post-body text-justify">
+                        The Discovery Building provides public space and two research institutes where campus and community members can immerse themselves in science and creativity, and is designed for optimum collaboration.
+                    </p>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img"
+                             data-animation="fadeIn" data-delay="0"
+                             style="background-image: url(https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg)">
+                        </div>
+                        <div class="text-right"><a href="https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg" target="_blank">Discovery Building</a></div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <h6 class="text-left">Memorial Union</h6>
+                    <p class="post-body text-justify">
+                        The Memorial Union Building sits on the shore of Lake Mendota. Memorial Union is a place to come to socialize, relax, and dine.
+                    </p>
+
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img"
+                             data-animation="fadeIn" data-delay="0"
+                             style="background-image: url(https://union.wisc.edu/assets/Uploads/ImageSlides/Visit-MU-Exterior1-780x460.jpg)">
+                        </div>
+                        <div class="text-right"><a href="https://union.wisc.edu/assets/Uploads/ImageSlides/Visit-MU-Exterior1-780x460.jpg" target="_blank">Memorial Union</a></div>
+                    </div>
+                </div>
+            </div>
             <div class="col-md-12 col-sm-12 venue-col text-left">
-                <h4>Travel information</h4>
-                <p class="post-body text-justify">
-                    Information about travel will be added in due course.
+                <h4>About Madison</h4>
+                <h5>Weather</h5>
+                <p class="post-body text-justify">Daily high temperatures in Madison in late June tend to be around 80 degree Fahreheit (26 degrees Celsius) with high humidity, so warm weather clothing is recommended. However, some of our meeting spaces can get chilly, so bring a sweater to wear in the air conditioning.</p>
+                <h5>Getting Around Town</h5>
+                <p class="post-body text-justify">The conference venues are accessible by car. For parking rates and locations, please see the UW-Madison transportation office page for details. See this page for information on Accessible Parking. However, parking on campus is limited and we cannot guarantee that parking will be available in your chosen location.
+
+                    If possible, we recommend going to and from campus by alternative means.
+                    Madison Metro Transit offers many bus routes near the UW-Madison Campus and downtown. Please see their website for routes, schedules and rates.
+                    We also have the Bcycle bike share service in Madison. See their website for pickup and dropoff locations.
+                    Union Cab and Green Cab are local taxi services, and ride share services like Uber and Lyft also operate in Madison.
                 </p>
             </div>
-        </div>
-        {% endif %}
+            <div class="col-md-12 col-sm-12 venue-col text-left">
+                <h4>Travel information</h4>
+                <h5>Visas</h5>
+                <p class="post-body text-justify">If you are traveling from outside of the United States, please confirm that you have the <a href="https://travel.state.gov/content/travel/en/us-visas.html" target="_blank">necessary visa needed to enter the United States</a>. You can check if and what type of visa you require by using the US Government's <a href="https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html">Visa Wizard</a>.</p>
+                <h5>Getting Here By Air</h5>
+                <p class="post-body text-justify">
+                    The closest airport to UW-Madison is Dane County Regional Airport (MSN). Flights to here can be more expensive, as it is a small airport, but getting to campus from MSN is easy on a Metro Bus, taxis or by rideshare services. Alternative airports include Mitchell International Airport (MKE) in Milwaukee, WI, O’Hare International Airport (ORD) and Chicago Midway International Airport in Chicago, IL. There is a regular, reliable regional bus service from the Chicago airports to Madison (see below).
+                </p>
+                <h5>Getting Here By Bus</h5>
+                <p class="post-body text-justify">Regional buses run from Chicago Midway Airport, Chicago O’Hare Airport and Downtown Chicago. See Van Galder bus or Megabus for more details. Regional buses run from Milwaukee to Madison. See Badger Bus or Megabus for more details.</p>
+            </div>
+            {% endif %}
         </div>
     </div>
-            {% if page.title != site.venueBlockTitle %}
-            <div class="col-md-4 col-md-offset-8 text-right" style="padding-top: 75px; color: {{ font_colour }}"><a href="{{ site.venueBackgroundImageLink }}" target="_blank">{{ site.venueBackgroundImageCreditText }}</a></div>
-        {% endif %}
+    {% if page.title != site.venueBlockTitle %}
+    <div class="col-md-4 col-md-offset-8 text-right" style="padding-top: 75px; color: {{ font_colour }}"><a href="{{ site.venueBackgroundImageLink }}" target="_blank">{{ site.venueBackgroundImageCreditText }}</a></div>
+    {% endif %}
 </section>
 <!-- End Venue Section -->

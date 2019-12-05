@@ -46,7 +46,7 @@ navigationLinks:
   - {permalink: "/blog/", text: "News & Blog"}
   - {permalink: "/sponsorship/", text: "Sponsorship"}
   - {permalink: "/programme/", text: "Programme"}
-  - {permalink: "/venue/", text: "Venue"}
+  - {permalink: "/venue/", text: "Venue & Travel"}
   - {permalink: "/accommodation/", text: "Accommodation"}
   - {permalink: "/task-force/", text: "Task Force"}
 bottomNavigationLinks:
@@ -116,18 +116,18 @@ mapCenterCoordinates: "43.072811, -89.408000"
 mapMobileCenterCoordinates: "43.072811, -89.40800"
 
  # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Venue & Travel"
 venueBlockSubTitle: "University of Wisconsin, Madison"
 venueBackgroundImage: "/img/venue/wisconsin_data_science_hub.png"
 venueBackgroundImageCreditText: "Image of Discovery Building (home to Data Science Hub) by Patricia Pointer, copyright UW-Madison"
 venueBackgroundImageLink: "https://wid.wisc.edu/department-center-hub/data-science-hub/"
 venueBigImage: "madison.jpg"
-venueBigImageCreditText: "Image by Jeff Miller/UW-Madison from Flickr, CC BY 2.0"
+venueBigImageCreditText: "Aerial View of Campus by Jeff Miller/UW-Madison from Flickr, CC BY 2.0"
 venueBigImageLink: "https://www.flickr.com/photos/collegelibrary/14070186173/in/photostream/"
 #venueSmallImage1: "University_of_Wisconsin_seal.svg.png"
 #venueSmallImage2: "University_of_Wisconsin_seal.svg.png"
 venueSmallImage: "1280px-BascomHill.jpeg"
-venueSmallImageCreditText: "Image by Wikipedia Commons"
+venueSmallImageCreditText: "Bascom Hall, Heart of the Campus, by Wikipedia Commons"
 venueSmallImageLink: "https://commons.wikimedia.org/wiki/File:BascomHill.JPG"
 venueTitle: "Madison, Wisconsin"
 venueFeatures: ["Sandwiched between two freshwater lakes", "A short trip from several other large US
