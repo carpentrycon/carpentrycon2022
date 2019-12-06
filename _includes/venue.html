@@ -38,91 +38,95 @@
             {% endif %}
 
             {% if page.title == site.venueBlockTitle %}
-            <div class="col-md-8 col-sm-8 venue-col">
-                <div class="venue-elem-wrapper">
-                    <div class="venue-elem image-section venue-big-elem venue-img animated hiding"
-                         data-animation="fadeIn" data-delay="0"
-                         style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueBigImage }})"></div>
-                    <div class="text-right"><a href="{{ site.venueBigImageLink }}" target="_blank">{{ site.venueBigImageCreditText }}</a></div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 venue-col venue-small-col">
-                <!--<div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">-->
-                <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
-                <!--data-animation="fadeIn" data-delay="150"-->
-                <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>-->
-                <!--</div>-->
-                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                    <div class="venue-elem venue-small-elem venue-text animated hiding dark-grey" data-animation="fadeIn"
-                         data-delay="0">
-                        <h5>{{ site.venueTitle }}</h5>
-                        {% for feature in site.venueFeatures %}
-                        <p>{{ feature }}</p>
-                        {% endfor %}
+            <div class="row">
+                <div class="col-md-8 col-sm-8 venue-col">
+                    <div class="venue-elem-wrapper">
+                        <div class="venue-elem image-section venue-big-elem venue-img animated hiding"
+                             data-animation="fadeIn" data-delay="0"
+                             style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueBigImage }})"></div>
+                        <div class="text-right"><a href="{{ site.venueBigImageLink }}" target="_blank">{{ site.venueBigImageCreditText }}</a></div>
                     </div>
                 </div>
-                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                    <div class="venue-elem venue-small-elem venue-text animated hiding"
-                         data-animation="fadeIn"
-                         data-delay="0">
-                        <p>
-                        <h5>Venue</h5>
-                        <p>
-                            Discovery Building
-                        </p>
-                        <p>
-                            University of Wisconsin - Madison
-                        </p>
-                        <p>
-                            <a href="https://www.google.com/maps/place/Discovery+Building/@43.072896,-89.4097526,17z/data=!3m1!4b1!4m5!3m4!1s0x8807acc6278e5ee3:0x8f3e69223485f625!8m2!3d43.072896!4d-89.4075586" target="_blank">WI 53706, Madison, USA</a>
-                        </p>
+                <div class="col-md-4 col-sm-4 venue-col venue-small-col">
+                    <!--<div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">-->
+                    <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
+                    <!--data-animation="fadeIn" data-delay="150"-->
+                    <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage1 }})"></div>-->
+                    <!--</div>-->
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem venue-small-elem venue-text animated hiding dark-grey" data-animation="fadeIn"
+                             data-delay="0">
+                            <h5>{{ site.venueTitle }}</h5>
+                            {% for feature in site.venueFeatures %}
+                            <p>{{ feature }}</p>
+                            {% endfor %}
+                        </div>
                     </div>
-                </div>
-                <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                    <div class="venue-elem image-section venue-small-elem venue-img"
-                         data-animation="fadeIn" data-delay="0"
-                         style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage }})">
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem venue-small-elem venue-text animated hiding"
+                             data-animation="fadeIn"
+                             data-delay="0">
+                            <p>
+                            <h5>Main Venue</h5>
+                            <p>
+                                Discovery Building
+                            </p>
+                            <p>
+                                University of Wisconsin - Madison
+                            </p>
+                            <p>
+                                <a href="https://www.google.com/maps/place/Discovery+Building/@43.072896,-89.4097526,17z/data=!3m1!4b1!4m5!3m4!1s0x8807acc6278e5ee3:0x8f3e69223485f625!8m2!3d43.072896!4d-89.4075586" target="_blank">WI 53706, Madison, USA</a>
+                            </p>
+                        </div>
                     </div>
-                    <div class="text-right"><a href="{{ site.venueSmallImageLink }}" target="_blank">{{ site.venueSmallImageCreditText }}</a></div>
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img"
+                             data-animation="fadeIn" data-delay="0"
+                             style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage }})">
+                        </div>
+                        <div class="text-right"><a href="{{ site.venueSmallImageLink }}" target="_blank">{{ site.venueSmallImageCreditText }}</a></div>
+                    </div>
+                    <!--<div class="venue-elem-wrapper col-xs-6 visible-xs">-->
+                    <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
+                    <!--data-animation="fadeIn" data-delay="0"-->
+                    <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})">-->
+                    <!--</div>-->
+                    <!--</div>-->
                 </div>
-                <!--<div class="venue-elem-wrapper col-xs-6 visible-xs">-->
-                <!--<div class="venue-elem image-section venue-small-elem venue-img animated hiding"-->
-                <!--data-animation="fadeIn" data-delay="0"-->
-                <!--style="background-image: url({{ site.baseurl }}/img/venue/{{ site.venueSmallImage3 }})">-->
-                <!--</div>-->
-                <!--</div>-->
             </div>
             <h5 class="text-left">Venues</h5>
-            <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <h6 class="text-left">Discovery Building</h6>
                     <p class="post-body text-justify">
                         The Discovery Building provides public space and two research institutes where campus and community members can immerse themselves in science and creativity, and is designed for optimum collaboration.
                     </p>
-                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem image-section venue-small-elem venue-img"
-                             data-animation="fadeIn" data-delay="0"
-                             style="background-image: url(https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg)">
-                        </div>
-                        <div class="text-right"><a href="https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg" target="_blank">Discovery Building</a></div>
-                    </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <h6 class="text-left">Memorial Union</h6>
                     <p class="post-body text-justify">
                         The Memorial Union Building sits on the shore of Lake Mendota. Memorial Union is a place to come to socialize, relax, and dine.
                     </p>
-
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
-                        <div class="venue-elem image-section venue-small-elem venue-img"
-                             data-animation="fadeIn" data-delay="0"
-                             style="background-image: url(https://union.wisc.edu/assets/Uploads/ImageSlides/Visit-MU-Exterior1-780x460.jpg)">
+                        <div class="venue-elem image-section venue-small-elem venue-img" style="background-image: url(https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg)">
+                        </div>
+                        <div class="text-right"><a href="https://discovery.wisc.edu/sites/default/files/block-images/Awards.jpg" target="_blank">Discovery Building</a></div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="venue-elem-wrapper col-md-12 col-sm-12 col-xs-6">
+                        <div class="venue-elem image-section venue-small-elem venue-img" style="background-image: url(https://union.wisc.edu/assets/Uploads/ImageSlides/Visit-MU-Exterior1-780x460.jpg)">
                         </div>
                         <div class="text-right"><a href="https://union.wisc.edu/assets/Uploads/ImageSlides/Visit-MU-Exterior1-780x460.jpg" target="_blank">Memorial Union</a></div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-12 col-sm-12 venue-col text-left">
+
+            <div class="text-left">
                 <h4>About Madison</h4>
                 <h5>Weather</h5>
                 <p class="post-body text-justify">Daily high temperatures in Madison in late June tend to be around 80 degree Fahreheit (26 degrees Celsius) with high humidity, so warm weather clothing is recommended. However, some of our meeting spaces can get chilly, so bring a sweater to wear in the air conditioning.</p>
@@ -135,7 +139,7 @@
                     Union Cab and Green Cab are local taxi services, and ride share services like Uber and Lyft also operate in Madison.
                 </p>
             </div>
-            <div class="col-md-12 col-sm-12 venue-col text-left">
+            <div class="text-left">
                 <h4>Travel information</h4>
                 <h5>Visas</h5>
                 <p class="post-body text-justify">If you are traveling from outside of the United States, please confirm that you have the <a href="https://travel.state.gov/content/travel/en/us-visas.html" target="_blank">necessary visa needed to enter the United States</a>. You can check if and what type of visa you require by using the US Government's <a href="https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/wizard.html">Visa Wizard</a>.</p>
