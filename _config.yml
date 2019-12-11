@@ -62,6 +62,7 @@ eventDate: "June 29 - July 1, 2020"
 #typeoutFallback: "University of Wisconsin, Madison, USA"
 heroButtons:
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
 
@@ -243,10 +244,10 @@ importantDatesImage: "statistic.jpg"
 importantDatesBlock:
   - date: "Mid October 2019"
     info:
-      - "Call for workshops, skill-ups and breakouts opens"
+      - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform' target='_blank'>Call for workshops, skill-ups and breakouts</a> opens"
   - date: "Early December 2019"
     info:
-      - "Financial aid application call opens"
+      - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform' target='_blank'>Financial aid application call</a> opens"
   - date: "Mid January 2020"
     info:
       - "Programme announcement"
