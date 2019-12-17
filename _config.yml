@@ -63,6 +63,7 @@ eventDate: "June 29 - July 1, 2020"
 heroButtons:
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
+  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Submit Your Sponsorship Application"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
 
