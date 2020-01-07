@@ -258,6 +258,7 @@ importantDatesBlock:
     info:
       - "Initial financial aid offers go out"
       - "Keynote speakers announcement"
+      - "<a href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
   - date: "End of February 2020"
     info:
       - "Call for for workshops, skill-ups and breakouts closes"
