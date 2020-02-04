@@ -1,4 +1,5 @@
-# [CarpentryCon Website](http://2020.carpentrycon.org/)
+# [CarpentryCon 2020 Website](http://2020.carpentrycon.org/)
+Visible at http://2020.carpentrycon.org/.
 
 ## Purpose and Scope
 
@@ -26,6 +27,6 @@ We are excited that you are keen on contributing to this repository! [Start here
 ## License
 The underlying code used for this website is a fork of [Project Zeppelin](https://github.com/gdg-x/zeppelin). It is published under the [MIT license](https://github.com/gdg-x/zeppelin/LICENSE.txt). 
 
-## How To run It Locally
+## How To Run It Locally
 Clone this repository in your shell and then from the root directory of the project run:
 ```bundle exec jekyll serve```
