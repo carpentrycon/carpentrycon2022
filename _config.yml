@@ -64,6 +64,7 @@ heroButtons:
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
   - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
+  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend", colour: "green"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
 
@@ -259,6 +260,7 @@ importantDatesBlock:
       - "Initial financial aid offers go out"
       - "Keynote speakers announcement"
       - "<a href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
+      - "<a href='https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507'>Registrations</a> open"
   - date: "End of February 2020"
     info:
       - "Call for for workshops, skill-ups and breakouts closes"
