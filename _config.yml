@@ -47,6 +47,7 @@ navigationLinks:
   - {permalink: "/sponsorship/", text: "Sponsorship"}
   - {permalink: "/programme/", text: "Programme"}
   - {permalink: "/venue/", text: "Venue & Travel"}
+  - {permalink: "/accessibility/", text: "Accessibility"}
   - {permalink: "/accommodation/", text: "Accommodation"}
   - {permalink: "/task-force/", text: "Task Force"}
 bottomNavigationLinks:
