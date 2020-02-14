@@ -24,4 +24,4 @@ deploy:
   provider: script
   script: aws s3 sync _site s3://2020.carpentrycon.org --delete
   on:
-    branch: gh-pages
+    branch: master
