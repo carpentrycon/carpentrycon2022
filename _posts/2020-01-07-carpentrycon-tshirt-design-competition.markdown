@@ -9,4 +9,4 @@ Bring your artistic skills to CarpentryCon2020 (even if you can't attend) and [s
 
 Not submitting a design? [Upvote](https://github.com/carpentries/conversations/issues/22) the ones you like best!  
 
-Deadline: 20 January 2020
+Deadline: 20 March 2020
