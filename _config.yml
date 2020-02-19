@@ -66,6 +66,7 @@ heroButtons:
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform", text: "Submit A Poster or Lightning Talk"}
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
   - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
+  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
   - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 
@@ -261,7 +262,6 @@ importantDatesBlock:
     info:
       - "Initial financial aid offers go out"
       - "Keynote speakers announcement"
-      - "<a target='_blank' href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
       - "<a target='_blank' href='https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507'>Registrations</a> open"
   - date: "End of February 2020"
     info:
@@ -269,7 +269,8 @@ importantDatesBlock:
       - "Call for for workshops, skill-ups and breakouts closes"
   - date: "End of March 2020"
     info:
-      - "Notification of acceptance sent to authors of workshops, skill-ups and breakouts"
+    - "<a target='_blank' href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
+    - "Notification of acceptance sent to authors of workshops, skill-ups and breakouts"
   - date: "End of April 2020"
     info:
       - "Call for poster submissions closes"
