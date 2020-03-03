@@ -326,6 +326,16 @@
       - {name: "twitter", link: "https://twitter.com/rg0swami"}
       - {name: "github", link: "http://github.com/HaoZeke"}
 -
+  id: 57
+  name: "Elizabeth"
+  surname: "Wickes"
+  title: "Program Subcommittee"
+  thumbnailUrl: ElizabethWickes.jpeg
+  program: true
+  social:
+      - {name: "twitter", link: "https://twitter.com/elliewix"}
+      - {name: "github", link: "https://github.com/elliewix"}
+-
   id: 60
   name: "Aleksandra"
   surname: "Nenadic"
