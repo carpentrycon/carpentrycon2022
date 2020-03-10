@@ -69,7 +69,7 @@ heroButtons:
   - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
   - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
-
+heroAnnouncement: "<br/><br/>CarpentryCon 2020 is still scheduled to take place. <br/> We are monitoring the COVID-19 situation closely and will issue another update on April 1, 2020."
 
 # About Block
 aboutTitle: " CarpentryCon Conference Format"
