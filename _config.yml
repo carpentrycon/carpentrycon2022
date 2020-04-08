@@ -159,11 +159,9 @@ organisersTitle: "Organisers & Sponsors"
 partnersC4sponsorsButton: "Become a Sponsor"
 
 # Subscribe Block
-# subscribeImage: "subscribe.jpg"
-# subscribeTitle: "Subscribe for updates"
-# subscribeAction: "#"
-# subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-# 
+subscribeTitle: "Subscribe to receive CarpentryCon updates"
+subscribeAction: "https://carpentries.us14.list-manage.com/subscribe/post?u=46d7513c798c6bd41e5f58f4a&amp;id=8b4fabb707"
+
 # Tickets Block
 # ticketsTitle: "Pricetable"
 # ticketsInfo: "Tickets grant access to all conference sessions, coffee breaks and lunches. Accommodation is NOT included in the ticket price."
