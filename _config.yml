@@ -44,12 +44,12 @@ c4sponsorsUrl: "https://carpentries.typeform.com/to/hqoY3I" # call for sponsors 
 navigationLinks:
   - {permalink: "/", text: "Home"}
   - {permalink: "/blog/", text: "News & Blog"}
-  - {permalink: "/sponsorship/", text: "Sponsorship"}
-  - {permalink: "/programme/", text: "Programme"}
-  - {permalink: "/venue/", text: "Venue & Travel"}
-  - {permalink: "/accessibility/", text: "Accessibility"}
-  - {permalink: "/accommodation/", text: "Accommodation"}
-  - {permalink: "https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md", text: "'A to Z'"}
+#  - {permalink: "/sponsorship/", text: "Sponsorship"}
+#  - {permalink: "/programme/", text: "Programme"}
+#  - {permalink: "/venue/", text: "Venue & Travel"}
+#  - {permalink: "/accessibility/", text: "Accessibility"}
+#  - {permalink: "/accommodation/", text: "Accommodation"}
+#  - {permalink: "https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md", text: "'A to Z'"}
   - {permalink: "/task-force/", text: "Task Force"}
 bottomNavigationLinks:
 rightNavigationButtons:
@@ -63,12 +63,11 @@ eventDate: "June 29 - July 1, 2020"
 #typeoutTextValues: '"University of Wisconsin", "Madison", "USA"'
 #typeoutFallback: "University of Wisconsin, Madison, USA"
 heroButtons:
-#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit A Session Proposal"}
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform", text: "Submit A Poster or Lightning Talk"}
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
-  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
-  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
-  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform", text: "Submit A Poster or Lightning Talk"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
+#  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
+#  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
+#  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
 heroAnnouncement: "We are very disappointed to announce that there will be no in-person or virtual CarpentryCon in 2020 due to the worldwide spread of COVID-19. If you have already registered for CarpentryCon, your registration fee will be refunded."
 
@@ -216,7 +215,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://carpentries.org", text: "The Carpentries Website"}
-   - {link: "https://github.com/carpentrycon/carpentrycon2020", text: "CarpentryCon 2020 on GitHub"}
+#   - {link: "https://github.com/carpentrycon/carpentrycon2020", text: "CarpentryCon 2020 on GitHub"}
  -
   title: "Contacts"
   links:
