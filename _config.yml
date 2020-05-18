@@ -215,7 +215,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://carpentries.org", text: "The Carpentries Website"}
-#   - {link: "https://github.com/carpentrycon/carpentrycon2020", text: "CarpentryCon 2020 on GitHub"}
+   - {link: "https://github.com/carpentrycon/carpentrycon2020", text: "CarpentryCon 2020 on GitHub"}
  -
   title: "Contacts"
   links:
