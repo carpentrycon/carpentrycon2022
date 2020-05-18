@@ -11,9 +11,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 sass: compact
 
 # Site Settings
-title: "CarpentryCon 2020"
+title: "CarpentryCon @ Home"
 email: "carpentrycon@carpentries.org"
-description: "Annual community conference for The Carpentries global community"
+description: "Biennial community conference for The Carpentries global community, online in 2020"
 baseurl: ""
 url: "https://2020.carpentrycon.org"
 permalink: "/blog/:title/"
@@ -57,11 +57,11 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "cc2018.png"
-heroTitle: "CarpentryCon 2020"
-heroSubTitle: "University of Wisconsin, Madison, USA"
-eventDate: "June 29 - July 1, 2020"
-#typeoutTextValues: '"University of Wisconsin", "Madison", "USA"'
-#typeoutFallback: "University of Wisconsin, Madison, USA"
+heroTitle: "CarpentryCon @ Home"
+#heroSubTitle: ""
+eventDate: "July 14 - August 31, 2020"
+#typeoutTextValues: '""'
+#typeoutFallback: ""
 heroButtons:
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform", text: "Submit A Poster or Lightning Talk"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
@@ -69,7 +69,6 @@ heroButtons:
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
 #  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
-heroAnnouncement: "We are very disappointed to announce that there will be no in-person or virtual CarpentryCon in 2020 due to the worldwide spread of COVID-19. If you have already registered for CarpentryCon, your registration fee will be refunded."
 
 # About Block
 aboutTitle: " CarpentryCon Conference Format"
@@ -162,48 +161,7 @@ partnersC4sponsorsButton: "Become a Sponsor"
 # subscribeTitle: "Subscribe for updates"
 # subscribeAction: "#"
 # subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-# 
-# Tickets Block
-# ticketsTitle: "Pricetable"
-# ticketsInfo: "Tickets grant access to all conference sessions, coffee breaks and lunches. Accommodation is NOT included in the ticket price."
-# ticketsOffers:
-#  -
-#   name: "Early Bird"
-#   price: "350"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "150"
-#   ribbon: "-5%"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-25T10:00"
-#   validThrough: "2014-09-30T23:59"
-#  -
-#   name: "Last Chance"
-#   price: "450"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "100"
-#   ribbon: "-20%"
-#   featured: true
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-10-01T00:00"
-#   validThrough: "2014-10-23T23:59"
-#   disabled: true
-#  -
-#   name: "Student"
-#   price: "200"
-#   priceCurrency: "UAH"
-#   ticketsNumber: "50"
-#   buyButtonLink: "http://dfua.ticketforevent.com/"
-#   buyButtonText: "Buy Now"
-#   additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#   validFrom: "2014-08-20T10:00"
-#   validThrough: "2014-10-23T23:59"
-#   soldOut: true
-#   soldOutText: "Sold Out"
+
 
 # Footer
 socialLinks:
