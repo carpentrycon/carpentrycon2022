@@ -503,14 +503,14 @@
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/DanKerchner"}
+    - {name: "github", link: "https://github.com/kerchner"}
     
 - 
   id: 85
   name: "Dan"
   surname: "Kerchner"
-  title: "Carpentries.png"
+  title: "DanKerchner.jpg"
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
