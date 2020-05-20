@@ -490,11 +490,11 @@
   name: "Jesse"
   surname: "Lambertson"
   title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: JesseLambertson.jpg
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/jlibraryist"}
+    - {name: "github", link: "https://github.com/jyssy"}
 - 
   id: 84
   name: "Sarah"
