@@ -495,16 +495,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/jlibraryist"}
     - {name: "github", link: "https://github.com/jyssy"}
-- 
-  id: 84
-  name: "Sarah"
-  surname: "Stevens"
-  title: "Carpentries.png"
-  thumbnailUrl: Carpentries.png
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/DanKerchner"}
-    - {name: "github", link: "https://github.com/kerchner"}
     
 - 
   id: 85
