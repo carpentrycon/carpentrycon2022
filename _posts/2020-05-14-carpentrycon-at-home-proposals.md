@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ubmit a Session Proposal for CarpentryCon @ Home"
+title:  "Submit a Session Proposal for CarpentryCon @ Home"
 date:   2020-05-14 09:00:00
 isStaticPost: false
 ---
