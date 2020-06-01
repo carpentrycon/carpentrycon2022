@@ -144,8 +144,8 @@ venueFeatures: ["Sandwiched between two freshwater lakes", "A short trip from se
 accommodationBlockTitle: "Accommodation"
 
 # Tweets Feed Block
-tweetsFeedImage: "/img/sections-background/bascom-fall-foliage-1600.jpg"
-tweetsFeedImageCreditText: "Image by Bryce Richter, copyright  UW-Madison"
+tweetsFeedImage: "/img/sections-background/twitter-banner.jpg"
+tweetsFeedImageCreditText: "Photo by Mish Vizesi on Unsplash"
 tweetsFeedImageImageLink: "https://www.wisc.edu/"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "CarpentryConHome"
