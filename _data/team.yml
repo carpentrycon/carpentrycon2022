@@ -499,7 +499,7 @@
   id: 84
   name: "Sarah"
   surname: "Stevens"
-  title: "Carpentries.png"
+  title: "CarpentryCon @ Home Organiser"
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
@@ -510,7 +510,7 @@
   id: 85
   name: "Dan"
   surname: "Kerchner"
-  title: "DanKerchner.jpg"
+  title: "CarpentryCon @ Home Organiser"
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
@@ -521,7 +521,7 @@
   id: 85
   name: "Sara"
   surname: "El-Gebali"
-  title: "Carpentries.png"
+  title: "CarpentryCon @ Home Organiser"
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
@@ -532,12 +532,12 @@
   id: 85
   name: "Jason"
   surname: "Williams"
-  title: "Carpentries.png"
-  thumbnailUrl: Carpentries.png
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: JasonWilliams.png
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
+    - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
 
 - 
   id: 100
