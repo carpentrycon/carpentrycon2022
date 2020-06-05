@@ -522,11 +522,11 @@
   name: "Sara"
   surname: "El-Gebali"
   title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: SaraElGebali.jpg
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
     
 - 
   id: 85
