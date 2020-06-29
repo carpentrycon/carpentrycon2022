@@ -1,6 +1,6 @@
 _site
 .jekyll-metadata
-.sass-cache/*
+_sass/.sass-cache/*
 Gemfile.lock
 
 # Windows image file caches
