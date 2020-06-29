@@ -1,6 +1,6 @@
 _site
 .jekyll-metadata
-.sass-cache
+.sass-cache/*
 Gemfile.lock
 
 # Windows image file caches
@@ -42,3 +42,5 @@ Icon
 
 # IDE files
 .idea
+
+
