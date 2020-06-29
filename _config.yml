@@ -63,7 +63,7 @@ eventDate: "July 14 - August 31, 2020"
 #typeoutTextValues: '""'
 #typeoutFallback: ""
 heroButtons:
-  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals#instructions-on-the-submission-process", text: "Submit a Session Proposal by June 8"}
+  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22", text: "Help Wanted: See which sessions need your help"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
 #  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
