@@ -1,0 +1,26 @@
+- 
+  id: 700
+  name: "François"
+  surname: "Michonneau"
+  company: "The Carpentries"
+  title: "Senior Director of Technology"
+  bio: "François is the Senior Director of Technology at The Carpentries. As member of the Infrastructure and Curriculum Teams, he enjoys developing tools that helps beginners learn. He enjoys teaching R and the tidyverse to learners with little or no programming experience. When you meet him, you can talk about best teaching practices, reproducibility, marine biodiversity (data), and/or sea cucumbers."
+  thumbnailUrl: FrancoisMichonneau.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+  social: 
+    - {name: "twitter", link: "hhttps://twitter.com/fmic_"}
+    - {name: "github", link: "https://github.com/fmichonneau"}
+- 
+  id: 3
+  name: "Dawid"
+  surname: "Ostrowski"
+  company: "Google Poland"
+  title: "Developer Relations Program Manager"
+  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
+  thumbnailUrl: DawidOstrowski.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+ 
