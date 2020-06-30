@@ -26,17 +26,15 @@
     - {name: "github", link: "https://github.com/MalvikaSharan"}
 - 
   id: 702
-  name: "Mateusz"
-  surname: "Kuzak"
-  company: "eScience Center"
-  title: "Community Manager"
-  bio: "Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. He used live-cell imaging techniques and fluorescence confocal microscopy to study the dynamics and structure of the cell nucleus. In 2010, he moved to Amsterdam and worked at the RNA Biology & Applied Bioinformatics Unit at the University of Amsterdam in the Virtual Laboratory for Plant Breeding project as a scientific programmer. Mateusz worked there on the development of the web based interactive visualization for allelic variation in crop plants and on next-generation sequencing data analysis. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
-  thumbnailUrl: MateuszKuzak.jpeg
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Indian Institute of Technology Kanpur"
+  thumbnailUrl: RohitGoswami.jpg
   ribbon: 
-    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/matkuzak"}
-    - {name: "github", link: "https://github.com/mkuzak"}
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"} 
 - 
   id: 703
   name: "Bianca"
@@ -52,15 +50,19 @@
       - {name: "github", link: "http://github.com/BinxiePeterson"}
 - 
   id: 704
-  name: "Rohit"
-  surname: "Goswami"
-  company: "Indian Institute of Technology Kanpur"
-  thumbnailUrl: RohitGoswami.jpg
+  name: "Mateusz"
+  surname: "Kuzak"
+  company: "eScience Center"
+  title: "Community Manager"
+  bio: "Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. He used live-cell imaging techniques and fluorescence confocal microscopy to study the dynamics and structure of the cell nucleus. In 2010, he moved to Amsterdam and worked at the RNA Biology & Applied Bioinformatics Unit at the University of Amsterdam in the Virtual Laboratory for Plant Breeding project as a scientific programmer. Mateusz worked there on the development of the web based interactive visualization for allelic variation in crop plants and on next-generation sequencing data analysis. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
+  thumbnailUrl: MateuszKuzak.jpeg
   ribbon: 
-    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}    
+    - {name: "twitter", link: "https://twitter.com/matkuzak"}
+    - {name: "github", link: "https://github.com/mkuzak"}
+      
+   
     
   
     
