@@ -2,6 +2,16 @@
   id: 001
   title: "Curriculum Development Skill-Up"
   description: "This skill-up session is aimed at anyone who wants to learn more about how to design good lessons and the lesson development process promoted by The Carpentries.<br><br>If you'd like to create your own lesson, or contribute to the ongoing development of existing curricula, but aren't sure where to start, this session is for you!<br><br>The session will be in 2 parts. First, we will review the principles of curriculum design used for Carpentries lessons. Using the Curriculum Development Handbook, we will present how to use Backward Design to identify what to include in a lesson, decide on the exercises suitable for formative assessment, and the general development life-cycle of a lesson. In the second part, we will present and answer questions about The Carpentries Incubator and The Carpentries Lab, venues to collaborate and share community-developed lessons in the style of The Carpentries.<br><br>After attending the session, participants will be able to design new lessons in style of The Carpentries, create exercises suitable to the learning objectives of their lessons, and contribute to the development of existing curricula."
-  subtype: skill-up
+  subtype: skillup
   speakers: [700]
   language: en
+-
+  id: 002
+  title: "Make Your Tools, Scripts and Analyses Open and more FAIR"
+  description: "Open science has rapidly gained interest and importance across the academic world and society. It will require researchers to be open and transparent in sharing their methods, analyses and raw and published data, so these can be reused, verified or reproduced by a wider audience. In the humanities and social sciences, research software (including code, scripts, tools, algorithms) often is an integral part of the methodological process, so there is a need for guidelines on making these open as well. The Netherlands eScience Center and DANS launched a website (fair-software.eu) with five practical recommendations that help researchers to make their software more FAIR (Findable, Accessible, Interoperable, Reusable). The site serves as a signpost for researchers to get actionable advice on how to get this adventure started. The general idea of the session is that workshop participants bring their code, and the session organizers will help participants to improve the openness and FAIRness of their software or scripts using the new website as guidance.<br><br>Participants of this session will
+  (i) learn about the fair-software.eu website, (ii) learn about five things they can do to improve FAIRness of their software, (iii) put their code in the open, (iv) select the license, (v) find relevant software registry, (vi) make their software citable and (vii) select the quality checklist that fits their purpose.
+  <br>The session addresses the challenges in opening up research software and facilitation of software sustainability."
+  subtype: skillup
+  speakers: [701]
+  language: en
+-

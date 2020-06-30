@@ -6,11 +6,25 @@
   title: "Senior Director of Technology"
   bio: "François is the Senior Director of Technology at The Carpentries. As member of the Infrastructure and Curriculum Teams, he enjoys developing tools that helps beginners learn. He enjoys teaching R and the tidyverse to learners with little or no programming experience. When you meet him, you can talk about best teaching practices, reproducibility, marine biodiversity (data), and/or sea cucumbers."
   thumbnailUrl: FrancoisMichonneau.jpg
-  rockstar: true
   ribbon: 
     - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "twitter", link: "hhttps://twitter.com/fmic_"}
     - {name: "github", link: "https://github.com/fmichonneau"}
+- 
+  id: 701
+  name: "Mateusz"
+  surname: "Kuzak"
+  company: "eScience Center"
+  title: "Community Manager"
+  bio: "Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. He used live-cell imaging techniques and fluorescence confocal microscopy to study the dynamics and structure of the cell nucleus. In 2010, he moved to Amsterdam and worked at the RNA Biology & Applied Bioinformatics Unit at the University of Amsterdam in the Virtual Laboratory for Plant Breeding project as a scientific programmer. Mateusz worked there on the development of the web based interactive visualization for allelic variation in crop plants and on next-generation sequencing data analysis. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
+  thumbnailUrl: MateuszKuzak.jpeg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/matkuzak"}
+    - {name: "github", link: "https://github.com/mkuzak"}
+    
+  
 
- 
+  
