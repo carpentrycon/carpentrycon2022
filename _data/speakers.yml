@@ -26,14 +26,17 @@
     - {name: "github", link: "https://github.com/MalvikaSharan"}
 - 
   id: 702
-  name: "Rohit"
-  surname: "Goswami"
-  company: "Indian Institute of Technology Kanpur"
-  thumbnailUrl: RohitGoswami.jpg
+  name: "Bianca"
+  surname: "Peterson"
+  company: "North-West University, South Africa"
+  title: "Researcher and Post-doctoral fellow: Pharmaceutics"
+  bio: "Bianca obtained her doctoral degree in Environmental Sciences (Molecular Biology) at the department of Microbiology, North-West University (NWU), Potchefstroom, in August 2017. She is currently a post-doctoral research associate at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen™), NWU, Potchefstroom under the supervision of Professor J.D. Steyn, where she conducts data analyses. Part of her post-doctoral responsibilities entail guidance, supervision and mentoring of undergraduate and post-graduate students. Furthermore, she is the director and trainer of Conquest Analytics and Training, which is a consulting company specialising in data analysis and data skills training. She is passionate about research (specifically genetics) and teaching foundational computational skills. She believes that the extraordinary advancement of technology, particularly in Life Sciences, has made bioinformatics skills crucial to ensure people acquire the necessary skills and competencies to survive and contribute to the rapidly changing society. As a result, she certified as a Carpentries instructor in 2016, teaching foundational computational skills at 2-day hands-on workshops. She then attended the first CODATA-RDA Research Data Science Summer School in Trieste, Italy, in 2016, and returned in 2017 as a helper. She taught at the first South African Summer School in January 2020, and joined the Summer School Working Group as a co-chair to help strategise, co-organise and co-teach and these Summer Schools worldwide and help to develop the train-the-trainer model. "
+  thumbnailUrl: BiancaPeterson.jpg
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
-
+      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
+      - {name: "github", link: "http://github.com/BinxiePeterson"}
     
 - 
   id: 703
@@ -48,6 +51,15 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
+- 
+  id: 704
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Indian Institute of Technology Kanpur"
+  thumbnailUrl: RohitGoswami.jpg
+  social: 
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"}    
     
   
     

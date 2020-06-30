@@ -27,4 +27,11 @@
   <br>The session addresses the challenges in opening up research software and facilitation of software sustainability."
   subtype: skillup
   speakers: [703]
-  language: en
+  language: en  
+-
+  id: 005
+  title: "Reproducible Environments with the Nix Packaging System"
+  description: "The issue of dependency management is one which is of interest to all scientists and researchers who wish to develop reproducible results with software. The Nix package management system is one which is cross-platform and will enable the instructors to pin their dependencies to mimic perfectly, the environment of the learners, as a very basic example see https://github.com/HaoZeke/nixCarp. It is a more robust, secure and lightweight alternative to using a docker container and is a very important pedagogical tool as well. The workshop would cover the generation of nix-pkg derivations, which being written as they are in a functional style of programming, needs some description. Furthermore it would cover the best practices of the nix community when it comes to using the nix-shell environments. My experience as a nixpkg manager would let me communicate this tool to my fellow instructors and those at the event. I feel like this would be very beneficial to the audience. Nix, like git is a deep and complicated tool, but which can be used to reap fantastic dividends with a low learning curve if taught correctly."
+  subtype: skillup
+  speakers: [704]
+  language: en  
