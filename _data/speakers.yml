@@ -67,7 +67,7 @@
   surname: "El-Gebali"
   company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
   title: "Founder"
-  bio: "Dr. Sara El-Gebali is the founder of Computational Inclusion and Digital Equity Resource (OpenCIDER)."
+  bio: "Dr. Sara El-Gebali is the team leader for the research data management group at the Max Delbrück Center for Molecular Medicine in Berlin and the founder of OpenCider (Open Computational Inclusion and Digital Equity Resource) https://selgebali.gitbook.io/opencider/ . Before joining the MDC, she was a scientific database curator at the European Molecular Biology Laboratories (EMBL)-EBI and EMBO and my background is in cancer biology. She is a strong advocate for community building, inclusive spaces and the promotion of women and underrepresented minorities in STEM and open research."
   thumbnailUrl: SaraElGebali.jpg
   ribbon: 
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
@@ -82,7 +82,19 @@
   thumbnailUrl: DavidOpoku.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/sdopoku"}
-    - {name: "github", link: "https://github.com/sdopoku"}      
+    - {name: "github", link: "https://github.com/sdopoku"}  
+- 
+  id: 708
+  name: "Lilly"
+  surname: "Winfree"
+  company: "Frictionless Data, Open Knowledge Foundation"
+  title: "Product Owner"
+  bio: "Lilly is the product manager for the Frictionless Data for Reproducible Research open source project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Outside of work, you'll find her hanging out with her dogs, running, baking, eating tacos, or reading sci-fi."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lilscientista"}
+    - {name: "github", link: "https://github.com/lwinfree"}  
+  
       
       
    
