@@ -39,6 +39,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform" # call for proposals doc goes in here
 c4sponsorsUrl: "https://carpentries.typeform.com/to/hqoY3I" # call for sponsors doc goes in here
+helpwanted: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"
 
 # Navigation
 navigationLinks:
