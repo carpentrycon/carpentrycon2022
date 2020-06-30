@@ -19,7 +19,6 @@
   subtype: skillup
   speakers: [702]
   language: en 
-  
 -
   id: 004
   title: "Building institutional computational genomics capacity (de novo)"
@@ -50,5 +49,12 @@
   subtype: sprint
   speakers: [706]
   language: en 
+-
+  id: 009
+  title: "How to prevent and kick burnout to the curb"
+  description: "Since becoming part of the Carpentries' community, I can't imagine what my life was like before. I have learned so many things in the past few year, even though it was a long, hard road and many lessons were learned. Burnout was a reality for me, and I am certain that it is for many others as well. I would thus like to propose a breakout session where people can share their experiences, challenges, and solutions to preventing/treating burnout. We not only want an active community, but a healthy one."
+  subtype: breakout
+  speakers: [703]
+  language: en  
 
    
