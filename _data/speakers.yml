@@ -10,9 +10,33 @@
     - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "twitter", link: "hhttps://twitter.com/fmic_"}
-    - {name: "github", link: "https://github.com/fmichonneau"}
+    - {name: "github", link: "https://github.com/fmichonneau"}  
 - 
   id: 701
+  name: "Malvika"
+  surname: "Sharan"
+  company: "The Turing Way project, Turing Institute"
+  title: "Community Manager"
+  bio: "Malvika Sharan is passionate about enabling collaborative culture, mentorship and inclusive practices in data science. Malvika is also co-founder of the Open Life Science project and serves on the Open Bioinformatics Foundation (OBF) Board. "
+  thumbnailUrl: MalvikaSharan.png
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
+    - {name: "github", link: "https://github.com/MalvikaSharan"}
+- 
+  id: 702
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Indian Institute of Technology Kanpur"
+  thumbnailUrl: RohitGoswami.jpg
+  social: 
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"}
+
+    
+- 
+  id: 703
   name: "Mateusz"
   surname: "Kuzak"
   company: "eScience Center"
@@ -24,15 +48,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
-- 
-  id: 702
-  name: "Rohit"
-  surname: "Goswami"
-  company: "Indian Institute of Technology Kanpur"
-  thumbnailUrl: RohitGoswami.jpg
-  social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
+    
+  
     
     
   
