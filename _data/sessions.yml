@@ -1,0 +1,7 @@
+-
+  id: 001
+  title: "Curriculum Development Skill-Up"
+  description: "This skill-up session is aimed at anyone who wants to learn more about how to design good lessons and the lesson development process promoted by The Carpentries.<br><br>If you'd like to create your own lesson, or contribute to the ongoing development of existing curricula, but aren't sure where to start, this session is for you!<br><br>The session will be in 2 parts. First, we will review the principles of curriculum design used for Carpentries lessons. Using the Curriculum Development Handbook, we will present how to use Backward Design to identify what to include in a lesson, decide on the exercises suitable for formative assessment, and the general development life-cycle of a lesson. In the second part, we will present and answer questions about The Carpentries Incubator and The Carpentries Lab, venues to collaborate and share community-developed lessons in the style of The Carpentries.<br><br>After attending the session, participants will be able to design new lessons in style of The Carpentries, create exercises suitable to the learning objectives of their lessons, and contribute to the development of existing curricula."
+  subtype: skill-up
+  speakers: [700]
+  language: en
