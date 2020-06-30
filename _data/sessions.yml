@@ -36,4 +36,19 @@
   subtype: skillup
   speakers: [704]
   language: en 
+-
+  id: 007
+  title: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  description: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)is a space for knowledge sharing regarding data management and analysis, computational training, and building inclusive communities to advance participation in open research and innovation. <br><br>The aim is to address the lack of diversity of underrepresented groups in open research by encouraging the development of tools and portable solutions adapted to resources of a wide variety of audiences such as those from low and middle-income countries (LMICs).<br>Our vision is to create a valuable resource that serves as a space for:<br>knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate <br> - computational training and research data management.<br>
+  - ideas for the development of accessible, adaptable technical solutions.<br>
+  - a community of researchers, from diverse backgrounds, to connect and collaborate.<br><br>
+  We encourage those interested in open research practices, computational training, and community building to join us in this sprint to share their experiences to help develop guidelines for:<br>
+  - Virtual workshop for audience in LMICs<br>
+  - Inclusive space for the hackathon<br>
+  - Accessible software design<br><br>
+  Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
+  subtype: sprint
+  speakers: [706]
+  language: en 
+
    

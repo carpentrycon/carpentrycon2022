@@ -61,6 +61,20 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
+- 
+  id: 706
+  name: "Sara"
+  surname: "El-Gebali"
+  company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  title: "Founder"
+  bio: "Dr. Sara El-Gebali is the founder of Computational Inclusion and Digital Equity Resource (OpenCIDER)."
+  thumbnailUrl: SaraElGebali.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}   
+      
       
    
     
