@@ -73,7 +73,16 @@
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/yalahowy"}
-    - {name: "github", link: "https://github.com/selgebali"}   
+    - {name: "github", link: "https://github.com/selgebali"}
+- 
+  id: 707
+  name: "David"
+  surname: "Selassie Opoku"
+  title: "Data Scientist"
+  thumbnailUrl: DavidOpoku.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sdopoku"}
+    - {name: "github", link: "https://github.com/sdopoku"}      
       
       
    
