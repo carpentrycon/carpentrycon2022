@@ -341,6 +341,20 @@
     - {name: "github", link: "https://github.com/map0logo"}
     - {name: "twitter", link: "https://www.twitter.com/mapologo"}
     - {name: "linkedin", link: "http://www.linkedin.com/in/fpalm"}
+-
+  id: 729
+  name: "Daniel"
+  surname: "Chen"
+  company: "Virginia Tech, USA"
+  title: "PhD Student"
+  bio: "I am a PhD student at Virginia Tech (VT) in Genetics, Bioinformatics, and Computational Biology ( GBCB ) working with Anne Brown and DataBridge studying data science education and pedagogy for medicial practitioners. Former RStudio intern working on the gradethis package. <br>Arch Linux user maintaining the RStudio Preview , nteract , and Rodeo packages in the AUR . <br>Author of Pandas for Everyone .Enjoys: photography , curling, snowboarding, and scuba diving into caves."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Maintainer", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "site", link: "http://chendaniely.github.io/"}
+    - {name: "github", link: "https://github.com/chendaniely"}
+    - {name: "twitter", link: "hhttps://twitter.com/chendaniely"}
 
     
     

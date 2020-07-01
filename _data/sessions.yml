@@ -250,16 +250,24 @@
   id: 032
   title: "Lesson co-development using reverse design: a worked example"
   description: "In this session, we demonstrate how the constraints of reverse design reduce the uncertainty of a blank page titled 'Lesson 1'. Nowhere does the Carpentries demonstrate the full cycle of instructional design. We propose this workshop - co-developed by two experienced instructors - using this approach. The process of the development of this workshop is documented and shared as the content of the workshop. Attendees will see how learner personas, faded examples, concept maps, formative and summative assessment create requirements for lesson design.<br><br>We provide a worked example of the reverse design process without any assumptions of prior computational knowledge. After the workshop, attendees can combine their experience of the lesson we developed with the process of development, which we share with them, to apply this framework to their own training work."
-  subtype: feedback
+  subtype: skillup
   speakers: [727]
   language: en
 -
   id: 033
-  title: "Lesson co-development using reverse design: a worked example"
+  title: "Spyder 4 Carpentries"
   description: "Although Spyder is mentioned in some data carpentry lessons it is not treated with the depth it should be.<br><br>Since Spyder is pre-installed on Anaconda, the platform suggested in some Python's Carpentries lessons, it is worth highlighting the advantages of using this IDE from the point of view of researchers interested in programming.<br><br>This workshop consists of solving a programming problem from a simple to a more finished version by emphasizing Spyder's capabilities for code execution, debugging, profiling, code style, documentation strings, use of the variable browser, and unit testing."
-  subtype: feedback
+  subtype: skillup
   speakers: [728]
   language: en
+-
+  id: 034
+  title: "Git skills for new and prospective maintainers"
+  description: "The current Carpentries git lesson introduces collaboration to learners by adding individuals as a collaborator to the repository. However, this type of collaboration workflow does not scale past more than a couple of collaborators before conflicts become unbearable.<br>Depending on when you joined the carpentries, you may be familar with the forking workflow for collaboration to make a change to an existing lesson but, there is no formal guide to new instructors on how they can learn the skills needed to become a lesson maintainer.<br>As a community of practice, we are always learning, and maintaining our teaching materials need a steady influx of new maintainers to keep our lessons up-to-date.<br><br>This skill-up is an extension to the current software-carpentry Git lesson for those who are thinking about becoming a lesson maintainer and want to learn about the forking-branching-PR skills needed while maintaining lessons. It also supports current and new maintainers who want a more solid foundation for the commands and workflows they are using while maintaining lessons. The skill-up would cover the forking model of collaboration, how to create and merge branches, how to submit pull requests in this collaboration model, and how to edit and update branches before accepting changes for open source projects."
+  subtype: skillup
+  speakers: [729]
+  language: en
+
 
 
 
