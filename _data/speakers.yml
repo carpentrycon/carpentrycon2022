@@ -406,8 +406,52 @@
   social: 
     - {name: "github", link: "https://github.com/arockenberger"}
     - {name: "site", link: "http://www.annikarockenberger.com"}
-
-    
+-
+  id: 734
+  name: "Ariel"
+  surname: "Deardorff"
+  company: "University of California San Francisco Library"
+  title: "Data Services Librarian"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/arockenberger"}
+    - {name: "site", link: "http://www.annikarockenberger.com"}
+-
+  id: 735
+  name: "Konrad"
+  surname: "Förstner"
+  company: "ZB MED, Germany"
+  title: "Data Services Librarian"
+  bio: "I am a researcher in the field of in bioinformatics / computational biology / systems biology. My methodical focus is the integration and interpretation of large data sets - mainly generated using high-throughput sequencing technologies but also text corpora - with the aim to translate them into biological and medical insights. As part of that I am advocating open science with all its facetes (data, publications, source code of research software, educational resources, publication metrics etc.) and am active in several groups/communities promoting this."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Executive Council", title: "Carpentries Executive Council", url: "https://carpentries.org/governance/"}
+  social: 
+    - {name: "github", link: "https://github.com/konrad"}
+    - {name: "site", link: "http://konrad.foerstner.org/"}
+    - {name: "twitter", link: "https://twitter.com/konradfoerstner"}
+-
+  id: 736
+  name: "Unnati"
+  surname: "Patel"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/unna97"}
+    - {name: "site", link: "https://unna97.github.io"}
+-
+  id: 737
+  name: "Kristina"
+  surname: "Hettne"
+  company: "Leiden University Libraries"
+  title: "Digital Scholarship Librarian"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/kmhettne"}
+    - {name: "site", link: "https://www.universiteitleiden.nl/en/staffmembers/kristina-hettne#tab-1"}
     
 
 

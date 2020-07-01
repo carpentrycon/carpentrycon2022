@@ -303,6 +303,41 @@
   subtype: social
   speakers: [723,733]
   language: en
+- 
+  id: 039
+  title: "Library Collaborations and the Carpentries"
+  description: "As more libraries get involved with the Carpentries we are seeing exciting collaborations and partnerships develop around Carpentries workshops. Some academic libraries have partnered with other departments on campus to co-fund membership, other academic and public libraries have worked with their regional partners to create more formal Carpentries consortia, and others are building informal teaching networks that bridge different types of libraries. The new virtual teaching environment is also reducing barriers to collaboration and opening up new opportunities for co-teaching across institutional and regional boundaries. These partnerships can be a way to reduce workshops costs and teaching burnout, and create more sustainable teaching and learning networks.<br><br>This breakout session will give librarians and library staff from academic, public, and special libraries a chance to share their successes collaborating on all kinds of Carpentries workshops. We will also brainstorm new ways in which we might build viable Carpentry networks in our communities."
+  subtype: breakout
+  speakers: [734]
+  language: en
+- 
+  id: 040
+  title: "Library Carpentry Wikidata lesson sprint"
+  description: "The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
+  subtype: breakout
+  speakers: [735]
+  language: en
+- 
+  id: 041
+  title: "Introduction to the Library Carpentry Wikidata Lesson"
+  description: "The Library Carpentry Wikidata lesson aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this lightning talk we would like to give a short overview to the lesson and collect feedback for further improvements."
+  subtype: breakout
+  speakers: [735]
+  language: en
+- 
+  id: 041
+  title: "Understanding Math concepts better by using Programming"
+  description: "I will be talking about how easy it is simulating difficult mathematical concepts with programming.The talk will show how the process of simulating it helps in understanding. I will be using Monty Hall as an example and walk through its program. This talk is targeted towards programmers."
+  subtype: lightning
+  speakers: [736]
+  language: en
+- 
+  id: 042
+  title: "Library Carpentry FAIR Data & Software Lesson Sprint"
+  description: "The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
+  subtype: lightning
+  speakers: [737]
+  language: en
 
 
 
