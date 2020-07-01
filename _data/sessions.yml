@@ -338,7 +338,34 @@
   subtype: lightning
   speakers: [737]
   language: en
-
+- 
+  id: 043
+  title: "Identifying Opportunities for Inclusive Language in Carpentries Workshops"
+  description: "This lightning talk highlights the ongoing work being done among Carpentries instructors at Carnegie Mellon University Libraries to encourage inclusive language in data science and data management education. We expand upon existing training for Carpentries instructors which encourages us to avoid the use of “simple” and “easy” in our instruction, and offer additional considerations for inclusive language that is mindful of neurodiversity/neurodivergence, institutional access to resources, religion, and socioeconomic situations. “Best Practices” in data science and data management education often assume the researcher is operating at a baseline socioeconomic level, with access to certain institutional services, and having certain cognitive and physical abilities. Using a “calling in” approach, we identify opportunities within “Best Practices” to use compassionate language and considerations for accessibility. As a lightning talk, we will focus our three minutes on providing succinct examples of inclusive language opportunities, and provide the audience with information for learning more and getting involved in our efforts. <br><br>The target audience for this lightning talk is anyone who teaches (or hopes to teach) Carpentries workshops and wants to incorporate more inclusive language into their curriculum that is mindful of the many lenses through which a learner approaches their data science education. With this lightning talk, we hope to gather a network of interested individuals who would like to further collaborate with CMU Libraries on creating blueprints for more inclusive data science and data management education, as well as inspire current and future Carpentries instructors to use inclusive language in their workshops."
+  subtype: lightning
+  speakers: [738]
+  language: en
+- 
+  id: 044
+  title: "Carpentries Instructor Experiences of Teaching Online"
+  description: "The Carpentries Core Team will be inviting experienced instructors who have ran Carpentries workshops online so far to share their experiences in a themed discussion format. This platform will also allow instructors to share ideas and ask questions related to teaching online workshops. The discussion will take place over two timeslots allowing instructors from various time zones the opportunity to attend the breakout session."
+  subtype: breakout
+  speakers: [739]
+  language: en
+- 
+  id: 045
+  title: "Challenges and opportunities in transitioning meetings online"
+  description: "We value scientific meetings because they provide opportunities to interact with our colleagues to share our research, build our skills, and launch new collaborations. Because of the value placed on these gatherings, conference organizers have been reluctant during the pandemic to cancel scheduled meetings and instead have gone through great lengths to quickly pivot to online formats to continue to meet the needs of their community members. In moving to online platforms, conference organizers can no longer default to traditional in-person practices, which can be exclusive to participants who may already feel marginalized in their communities. Rather, organizers can be proactive about innovating inclusive conference practices. In this breakout discussion, we’ll share challenges in planning meetings, how we can turn these challenges into opportunities, and benefits of transitioning to virtual meetings."
+  subtype: breakout
+  speakers: [740]
+  language: en
+-
+  id: 046
+  title: "Building Data Communities"
+  description: "In order to support the use of data in various contexts, it is important to have champions who demonstrate the value of tools, shepherd new users, and provide support to those learning to use data. In this talk, I’ll cover my experiences with data community building and share strategies from open source communities. I’ll discuss the value of the data community builder and their role within / outside of institutions for encouraging uptake of technical tools. Some of the skills needed for these roles may not be what you think: building relationships, being empathetic toward use cases (and users!), organizing events, teaching effectively, and setting strategy for expanding data networks, among others. This is a shortened version of the csv,conf I gave linked here: bit.ly/2020-05-csvconf"
+  subtype: lightning
+  speakers: [741]
+  language: en
 
 
 

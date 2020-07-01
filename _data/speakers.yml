@@ -332,7 +332,6 @@
   surname: "Palm"
   company: "Spiralia, Venezuela"
   title: "Data Scientist"
-  bio: "Hi! I’m Darya, a Data Scientist & Professional Educator. I work at the University of Sydney’s Informatics Hub as a data science consultant, supporting researchers from across the university by solving their big (and not-so-big) data problems. I also coordinate SIH’s data science training program, where I mentor staff in best teaching practices, develop and deliver advanced analytics training for researchers.<br><br>I’m passionate about using data to understand the world, and love solving real problems using data science, machine learning, statistics and high-performance/cloud computing. I’ve had a lot of amazing opportunities in my life, and my way of giving back to the universe for them is to train and teach.<br><br>I’m proud to be a Software and Data Carpentry Instructor, Maintainer, Curriculum Contributor, and Mentor, and am passionate about enabling reproducible research using open source tools. I’m also an RStudio certified trainer; reach out to me here if you’re interested in custom corporate training."
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -452,7 +451,54 @@
   social: 
     - {name: "github", link: "https://github.com/kmhettne"}
     - {name: "site", link: "https://www.universiteitleiden.nl/en/staffmembers/kristina-hettne#tab-1"}
-    
+-
+  id: 738
+  name: "Hannah C."
+  surname: "Gunderman"
+  company: "Carnegie Mellon University Libraries"
+  title: "Research Data Management Consultant"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/hannahcgunderman"}
+-
+  id: 739
+  name: "Angelique"
+  surname: "van Rensburg"
+  company: "The Carpentries"
+  title: "Regional Consultant for Southern Africa"
+  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries and an Extraordinary Researcher at Optentia Research Focus Area,  North-West University, Vaal Triangle Campus.<br><br>Angelique has also collaborated in the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa). Angelique has worked jointly with the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa)"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/elletjies"}
+    - {name: "twitter", link: "https://twitter.com/AngvanRensburg"}
+    - {name: "site", link: "http://www.angeliquevanrensburg.com/"}
+-
+  id: 740
+  name: "Emily A."
+  surname: "Lescak"
+  company: "Code for Science and Society"
+  title: "Data Science Community Conference and Events Fund Program Manager "
+  bio: "Dr. Emily Lescak is the Data Science Community Conference and Events Fund Program Manager at Code for Science and Society, where she has developed a grants program to support events that promote inclusive practices and broaden participation in research-driven open data science communities. She has nearly 10 years of experience working in research data science focused on population genetics, evolution, and management of Alaskan fish populations. Emily has a strong background in mentoring and leadership in science advocacy initiatives."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/ealescak"}
+    - {name: "twitter", link: "https://twitter.com/elescak"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elescak"}
+-
+  id: 741
+  name: "Angela"
+  surname: "Li"
+  company: "GeoDa Center, University of Chicago, USA"
+  title: "Spatial data science/education"
+  bio: "I’m currently working as the R Spatial Advocate for the Center for Spatial Data Science at UChicago. Most recently, I did data science for transit at TransLoc and wrote a spatial econometrics thesis on the Detroit housing market. I am also Maintainer Community Lead for The Carpentries."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Maintainer Community Lead", title: "Carpentries Maintainer Community Lead", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/angela-li"}
+    - {name: "twitter", link: "https://twitter.com/CivicAngela"}
+    - {name: "site", link: "http://angela-li.github.io/"}
+
 
 
     
