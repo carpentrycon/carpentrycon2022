@@ -63,17 +63,14 @@
     - {name: "github", link: "https://github.com/mkuzak"}
 - 
   id: 706
-  name: "Sara"
-  surname: "El-Gebali"
-  company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
-  title: "Founder"
-  bio: "Dr. Sara El-Gebali is the team leader for the research data management group at the Max Delbrück Center for Molecular Medicine in Berlin and the founder of OpenCider (Open Computational Inclusion and Digital Equity Resource) https://selgebali.gitbook.io/opencider/ . Before joining the MDC, she was a scientific database curator at the European Molecular Biology Laboratories (EMBL)-EBI and EMBO and my background is in cancer biology. She is a strong advocate for community building, inclusive spaces and the promotion of women and underrepresented minorities in STEM and open research."
-  thumbnailUrl: SaraElGebali.jpg
-  ribbon: 
-    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  name: "Kay"
+  surname: "Bjornen"
+  company: "Oklahoma State University, USA"
+  title: "Visiting Assistant Professor"
+  thumbnailUrl: Carpentries.png
   social: 
-    - {name: "twitter", link: "https://twitter.com/yalahowy"}
-    - {name: "github", link: "https://github.com/selgebali"}
+    - {name: "twitter", link: "https://twitter.com/BjornenKay"}
+    - {name: "github", link: "https://github.com/kbjornen"}
 - 
   id: 707
   name: "David"
@@ -96,27 +93,28 @@
     - {name: "github", link: "https://github.com/lwinfree"}  
 - 
   id: 709
-  name: "Cody"
-  surname: "Hennesy"
-  company: "University of Minnesota"
-  title: "Librarian"
-  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring 'Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis' for ACRL’s forthcoming Copyright Conversations (2019). "
-  thumbnailUrl: CodyHennesy.jpg
+  name: "Pablo"
+  surname: "Bernabeu"
+  company: "Lancaster University, United Kingdom"
+  title: "Psychology PhD student and teaching assistant"
+  bio: "After doing a research masters, Pablo became a PhD student and graduate teaching assistant in Psychology. Pablo is investigating how conceptual processing (i.e., understanding the meaning of words) is supported by linguistic and sensorimotor brain systems. He has used methods such as behavioural and electroencephalographic experiments, corpus analysis, statistics and programming."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "site", link: "http://pablobernabeu.github.io/"}
+    - {name: "github", link: "https://github.com/pablobernabeu"} 
+-
+  id: 710
+  name: "Sara"
+  surname: "El-Gebali"
+  company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  title: "Founder"
+  bio: "Dr. Sara El-Gebali is the team leader for the research data management group at the Max Delbrück Center for Molecular Medicine in Berlin and the founder of OpenCider (Open Computational Inclusion and Digital Equity Resource) https://selgebali.gitbook.io/opencider/ . Before joining the MDC, she was a scientific database curator at the European Molecular Biology Laboratories (EMBL)-EBI and EMBO and my background is in cancer biology. She is a strong advocate for community building, inclusive spaces and the promotion of women and underrepresented minorities in STEM and open research."
+  thumbnailUrl: SaraElGebali.jpg
   ribbon: 
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
-    - {name: "github", link: "https://github.com/chennesy"} 
--
-  id: 710
-  name: "Kay"
-  surname: "Bjornen"
-  company: "Oklahoma State University, USA"
-  title: "Visiting Assistant Professor"
-  thumbnailUrl: Carpentries.png
-  social: 
-    - {name: "twitter", link: "https://twitter.com/BjornenKay"}
-    - {name: "github", link: "https://github.com/kbjornen"}
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
 -
   id: 711
   name: "Luca"
@@ -133,7 +131,7 @@
 -
   id: 712
   name: "Olalekan"
-  surname: "Joseph Akintande"
+  surname: "J. Akintande"
   company: "University of Ibadan, Nigeria"
   title: "PhD student and Research Assistant "
   bio: "Olalekan Joseph Akintande is a PhD student and Research Assistant at Department of Statistics, University of Ibadan- Laboratory for Interdisciplinary Statistical Analysis."
@@ -156,15 +154,18 @@
     - {name: "github", link: "https://github.com/arinbasu"}
 -
   id: 714
-  name: "Pablo"
-  surname: "Bernabeu"
-  company: "Lancaster University, United Kingdom"
-  title: "Psychology PhD student and teaching assistant"
-  bio: "After doing a research masters, Pablo became a PhD student and graduate teaching assistant in Psychology. Pablo is investigating how conceptual processing (i.e., understanding the meaning of words) is supported by linguistic and sensorimotor brain systems. He has used methods such as behavioural and electroencephalographic experiments, corpus analysis, statistics and programming."
-  thumbnailUrl: Carpentries.png
+  name: "Cody"
+  surname: "Hennesy"
+  company: "University of Minnesota"
+  title: "Librarian"
+  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring 'Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis' for ACRL’s forthcoming Copyright Conversations (2019). "
+  thumbnailUrl: CodyHennesy.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
-    - {name: "site", link: "http://pablobernabeu.github.io/"}
-    - {name: "github", link: "https://github.com/pablobernabeu"}
+    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
+    - {name: "github", link: "https://github.com/chennesy"}
+  
     
   
       

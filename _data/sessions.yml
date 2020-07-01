@@ -37,18 +37,11 @@
   language: en 
 -
   id: 007
-  title: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
-  description: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)is a space for knowledge sharing regarding data management and analysis, computational training, and building inclusive communities to advance participation in open research and innovation. <br><br>The aim is to address the lack of diversity of underrepresented groups in open research by encouraging the development of tools and portable solutions adapted to resources of a wide variety of audiences such as those from low and middle-income countries (LMICs).<br>Our vision is to create a valuable resource that serves as a space for:<br>knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate <br> - computational training and research data management.<br>
-  - ideas for the development of accessible, adaptable technical solutions.<br>
-  - a community of researchers, from diverse backgrounds, to connect and collaborate.<br><br>
-  We encourage those interested in open research practices, computational training, and community building to join us in this sprint to share their experiences to help develop guidelines for:<br>
-  - Virtual workshop for audience in LMICs<br>
-  - Inclusive space for the hackathon<br>
-  - Accessible software design<br><br>
-  Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
-  subtype: sprint
+  title: "Growing Carpentries through a growing community"
+  description: "Carpentries participants need the opportunity to engage beyond workshops and it can be challenging for volunteers to dedicate more of their time to support them after the fact. Creating ways to maximize engagement without overextending the Carpentries organizers and volunteers is important for the long term sustainability of a local Carpentries community. Sharing innovative ways to create that community and promote their success can help make sure that a struggling organization is not lost."
+  subtype: breakout
   speakers: [706]
-  language: en 
+  language: en
 -
   id: 008
   title: "Embedding Accessible Low-Tech Strategies Into Your Data Literacy Approach"
@@ -72,16 +65,23 @@
   language: en
 - 
   id: 011
-  title: "Building Text-as-Data Communities"
-  description: "In this session we hope to bring together text-as-data practitioners and those in academic support roles to discuss models for building communities related to computational text analysis. Many early career scholars interested in text analytics find themselves at institutions that provide little direct support for learning and practicing emerging methods related to text as data (e.g., topic modeling or sentiment analysis). Even where expertise does exist on a particular campus, it can be difficult for an individual scholar—especially those in the humanities or social sciences—to bridge disciplinary and bureaucratic boundaries to find peers and mentors in computational research areas. The Carpentries offer one helpful foundation for learning essential data science tools; this session explores opportunities for building upon that foundation to address the growing needs and interests of scholars in text analytics. <br><br>At our institution, we recently initiated the Text as Data Practice Group, a discipline-agnostic monthly gathering for scholars to experiment and learn from each other, from local experts, and from open access tutorials in a social setting. The group operates in the spirit of creating community, nurturing peer-to-peer learning, and exploring emerging text and data analysis methods on campus. We plan to provide an overview of this program, and then lead participants through discussion prompts to share their own thoughts about successes, challenges, and opportunities related to building communities for text as data. Participants will learn about different models to develop and nurture communities in computational research."
-  subtype: breakout
+  title: "Open data and Reproducibility v2.1"
+  description: "Putting Madisonian data into reproducible documents and dashboards--should be fun! <br><br>The methods for disseminating research are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Standard supplementals could be dubbed Open Data and Reproducibility, Version 1. Excitingly, updated features are already available, largely based on open-source software. Let’s look at some applications using R.<br><br>Pablo Bernabeu will conduct this workshop, which uses real code of varying complexity and Madisonian data! Each of the three sections below include practice, allowing participants to get acquainted with common challenges and even to create some output."
+  subtype: workshop
   speakers: [709]
   language: en
 -
   id: 012
-  title: "Growing Carpentries through a growing community"
-  description: "Carpentries participants need the opportunity to engage beyond workshops and it can be challenging for volunteers to dedicate more of their time to support them after the fact. Creating ways to maximize engagement without overextending the Carpentries organizers and volunteers is important for the long term sustainability of a local Carpentries community. Sharing innovative ways to create that community and promote their success can help make sure that a struggling organization is not lost."
-  subtype: breakout
+  title: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  description: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)is a space for knowledge sharing regarding data management and analysis, computational training, and building inclusive communities to advance participation in open research and innovation. <br><br>The aim is to address the lack of diversity of underrepresented groups in open research by encouraging the development of tools and portable solutions adapted to resources of a wide variety of audiences such as those from low and middle-income countries (LMICs).<br>Our vision is to create a valuable resource that serves as a space for:<br>knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate <br> - computational training and research data management.<br>
+  - ideas for the development of accessible, adaptable technical solutions.<br>
+  - a community of researchers, from diverse backgrounds, to connect and collaborate.<br><br>
+  We encourage those interested in open research practices, computational training, and community building to join us in this sprint to share their experiences to help develop guidelines for:<br>
+  - Virtual workshop for audience in LMICs<br>
+  - Inclusive space for the hackathon<br>
+  - Accessible software design<br><br>
+  Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
+  subtype: sprint
   speakers: [710]
   language: en
 -
@@ -107,11 +107,12 @@
   language: en
 -
   id: 016
-  title: "Open data and Reproducibility v2.1"
-  description: "Putting Madisonian data into reproducible documents and dashboards--should be fun! <br><br>The methods for disseminating research are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Standard supplementals could be dubbed Open Data and Reproducibility, Version 1. Excitingly, updated features are already available, largely based on open-source software. Let’s look at some applications using R.<br><br>Pablo Bernabeu will conduct this workshop, which uses real code of varying complexity and Madisonian data! Each of the three sections below include practice, allowing participants to get acquainted with common challenges and even to create some output."
-  subtype: workshop
+  title: "Building Text-as-Data Communities"
+  description: "In this session we hope to bring together text-as-data practitioners and those in academic support roles to discuss models for building communities related to computational text analysis. Many early career scholars interested in text analytics find themselves at institutions that provide little direct support for learning and practicing emerging methods related to text as data (e.g., topic modeling or sentiment analysis). Even where expertise does exist on a particular campus, it can be difficult for an individual scholar—especially those in the humanities or social sciences—to bridge disciplinary and bureaucratic boundaries to find peers and mentors in computational research areas. The Carpentries offer one helpful foundation for learning essential data science tools; this session explores opportunities for building upon that foundation to address the growing needs and interests of scholars in text analytics. <br><br>At our institution, we recently initiated the Text as Data Practice Group, a discipline-agnostic monthly gathering for scholars to experiment and learn from each other, from local experts, and from open access tutorials in a social setting. The group operates in the spirit of creating community, nurturing peer-to-peer learning, and exploring emerging text and data analysis methods on campus. We plan to provide an overview of this program, and then lead participants through discussion prompts to share their own thoughts about successes, challenges, and opportunities related to building communities for text as data. Participants will learn about different models to develop and nurture communities in computational research."
+  subtype: breakout
   speakers: [714]
   language: en
+  
 
 
 
