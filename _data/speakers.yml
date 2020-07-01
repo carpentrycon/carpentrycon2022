@@ -384,6 +384,16 @@
     - {name: "github", link: "https://github.com/yochannah"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/yoyehudi"}
     - {name: "twitter", link: "https://twitter.com/yoyehudi"}
+-
+  id: 732
+  name: "Emmy"
+  surname: "Tsang"
+  company: "eLife, United Kingdom"
+  title: "Innovation Community Manager"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/emmyft"}
+    - {name: "twitter", link: "http://twitter.com/emmy_ft"}
 
     
     

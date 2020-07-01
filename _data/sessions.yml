@@ -281,6 +281,14 @@
   subtype: skillup
   speakers: [701,731]
   language: en
+- 
+  id: 035
+  title: "Executable Research Article (ERA): enriching your research paper with code and data"
+  description: "Code and data are important research output and integral to a full understanding of research findings and experimental approaches in a paper. However, traditional research articles seldom have these embedded in the manuscript’s narrative, but instead, leave them as “supplementary materials”, if they are openly available.<br><br>With Executable Research Articles (ERAs), eLife's vision is to enrich the traditional narrative of a research article with code, data and interactive figures that can be executed in the browser, downloaded and explored. It will give readers a direct insight into the methods, algorithms and key data behind the published research.<br><br>We realised that to incentivise authors to publish ERAs, we need to make this process of composing and publishing an ERA extremely easy and interoperable with existing authoring tools that our authors use.<br><br>In 3 minutes, I hope show one of the ways our authors can compose an ERA– we'd love to invite members of the Carpentries community to test our tool stack out and offer feedback."
+  subtype: lightning
+  speakers: [732]
+  language: en
+
 
 
 
