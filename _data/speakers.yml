@@ -111,7 +111,7 @@
   id: 710
   name: "Kay"
   surname: "Bjornen"
-  company: "Oklahoma State University"
+  company: "Oklahoma State University, USA"
   title: "Visiting Assistant Professor"
   thumbnailUrl: Carpentries.png
   social: 
@@ -121,8 +121,8 @@
   id: 711
   name: "Luca"
   surname: "Di Stasio"
-  company: "Luleå University of Technology"
-  title: "Post-doctoral Researcher & Professional Engine"
+  company: "Luleå University of Technology, Sweden"
+  title: "Post-doctoral Researcher & Professional Engineer"
   bio: "Luca Di Stasio is a Professional Engineer (Italian License, 2013). He completed a Ph.D. in Polymeric Composite Materials at Luleå University of Technology (2019) and a Ph.D. in Materials Science at Université de Lorraine (2019). Luca earned a M.Sc. in Space Engineering from Politecnico di Milano (2013); a M.Sc. in Mechanical Engineering from Drexel University (2012); a B.Sc. in Aerospace Engineering from Politecnico di Milano (2010). To know more about Luca visit http://www.lucadistasioengineering.com."
   thumbnailUrl: Carpentries.png
   ribbon: 
@@ -130,6 +130,41 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucadistasio"}
     - {name: "github", link: "https://github.com/LucaDiStasio"}
+-
+  id: 712
+  name: "Olalekan"
+  surname: "Joseph Akintande"
+  company: "University of Ibadan, Nigeria"
+  title: "PhD student and Research Assistant "
+  bio: "Olalekan Joseph Akintande is a PhD student and Research Assistant at Department of Statistics, University of Ibadan- Laboratory for Interdisciplinary Statistical Analysis."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aojsoft/"}
+    - {name: "github", link: "https://github.com/aojsoft4real"}
+-
+  id: 713
+  name: "Arindam"
+  surname: "Basu"
+  company: "University of Canterbury, New Zealand"
+  title: "Doctor, Professor of Epidemiology, and  Evidence based health"
+  bio: "Arindam Basu is an Associate Professor in Public Health (Environmental Health and Health Services Research)."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/arinbasu"}
+    - {name: "github", link: "https://github.com/arinbasu"}
+-
+  id: 714
+  name: "Pablo"
+  surname: "Bernabeu"
+  company: "Lancaster University, United Kingdom"
+  title: "Psychology PhD student and teaching assistant"
+  bio: "After doing a research masters, Pablo became a PhD student and graduate teaching assistant in Psychology. Pablo is investigating how conceptual processing (i.e., understanding the meaning of words) is supported by linguistic and sensorimotor brain systems. He has used methods such as behavioural and electroencephalographic experiments, corpus analysis, statistics and programming."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "site", link: "http://pablobernabeu.github.io/"}
+    - {name: "github", link: "https://github.com/pablobernabeu"}
     
   
       

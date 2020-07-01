@@ -91,6 +91,27 @@
   subtype: skillup
   speakers: [711]
   language: en
+-
+  id: 014
+  title: "Visualizing Africa through Inclusive Data Programming"
+  description: "Africa is said to be the World Global Commerce by 2035. Investors and global actors in most cases lack evidence-based research about Africa data from Africa source. Since data is said to be the future Gold and most valuable resources, investors are more interested about what is in it for them in Africa in order to set the investment in Africa rolling. The current data gaps, challenges and access in Africa remain a major constraints for any investor. This session aim to proffer information on how to overcome these challenges through visualization of the continent most valuable resources-Data!"
+  subtype: breakout
+  speakers: [712]
+  language: en
+-
+  id: 015
+  title: "Workshop on structural equation modelling for causal inference in R"
+  description: "For anyone in health, education, social sciences, ecology, genomics, genetics, software programming, and indeed any field that investigates causal thinking, graphical exploration of cause and effect is important for generation of deep insights. The free and open source R package Lavaan provides an excellent interface to explore such graphic causal models. In the workshop, I will run a Carpentry style workshop so that following the workshop, the participants will (1) gain an understanding of causal modelling, and (2) use Lavaan in R to explore graphical models for studying cause and effect relationships."
+  subtype: breakout
+  speakers: [713]
+  language: en
+-
+  id: 016
+  title: "Open data and Reproducibility v2.1"
+  description: "Putting Madisonian data into reproducible documents and dashboards--should be fun! <br><br>The methods for disseminating research are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Standard supplementals could be dubbed Open Data and Reproducibility, Version 1. Excitingly, updated features are already available, largely based on open-source software. Let’s look at some applications using R.<br><br>Pablo Bernabeu will conduct this workshop, which uses real code of varying complexity and Madisonian data! Each of the three sections below include practice, allowing participants to get acquainted with common challenges and even to create some output."
+  subtype: workshop
+  speakers: [714]
+  language: en
 
 
 
