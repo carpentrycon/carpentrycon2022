@@ -267,6 +267,14 @@
   subtype: skillup
   speakers: [729]
   language: en
+- 
+  id: 035
+  title: "How to Run a Meeting"
+  description: "The Carpentries exist so that people don't have to teach themselves how to program, but ironically, most members of the Carpentry community have had to learn how to coordinate groups on their own. This talk lays out ten simple rules for running an effective meeting, and will help you get more done in less time and with less pain."
+  subtype: other
+  speakers: [730]
+  language: en
+
 
 
 

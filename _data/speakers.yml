@@ -354,7 +354,21 @@
   social: 
     - {name: "site", link: "http://chendaniely.github.io/"}
     - {name: "github", link: "https://github.com/chendaniely"}
-    - {name: "twitter", link: "hhttps://twitter.com/chendaniely"}
+    - {name: "twitter", link: "https://twitter.com/chendaniely"}
+-
+  id: 730
+  name: "Greg"
+  surname: "Wilson"
+  company: "RStudio, Canada"
+  title: "Educator"
+  bio: "I left academia in 2010 and spent the next seven years building Software Carpentry into a non-profit organization that helps thousands of researchers worldwide every year. I also helped organize a summit meeting of grassroots groups trying to improve inclusion and diversity in the tech sector, edited a book on evidence-based software engineering and a series on software architecture, and wrote some more children’s books.<br><br>I left Software Carpentry in January 2017, and after a brief stints with Rangle.io (sponsors of the wonderful Bridge program) and DataCamp (which ended badly), I am now in the Education group at RStudio, makers of a world-class IDE and other fine tools. My main responsibility is RStudio’s instructor training and certification program, but my job gives me a chance to do a lot of other things, including a book called Teaching Tech Together and another on JavaScript for data scientists. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://third-bit.com//"}
+    - {name: "github", link: "https://github.com/gvwilson"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/greg-wilson-a26510b6/"}
 
     
     
