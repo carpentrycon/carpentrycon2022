@@ -128,6 +128,38 @@
   subtype: breakout
   speakers: [717]
   language: en
+-
+  id: 020
+  title: "¡Traduciendo!"
+  description: "This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
+  subtype: skillup
+  speakers: [718]
+  language: es
+-
+  id: 021
+  title: "i18n - bring the Carpentries to your language 🌏 🌍 🌎"
+  description: "Have you heard that some lessons are being translated into different languages? Would you like to participate in these efforts but you are not sure where to start? Would you like to help but you only speak English? That and more questions will be answered in this practical session. I'll give a general introduction to the history of translation on the Carpentries, where we stand now, what are the tools available, and how it is everything connected together.<br><br>You will learn how the translations work, what is needed to do to start a new team of translators in your native language or join one formed already and hopefully we will be able to start translating the Code of Conduct to your native language."
+  subtype: sprint
+  speakers: [718]
+  language: en
+- 
+  id: 022
+  title: "Packaging and Publishing in Python"
+  description: "A social space like a zoom meeting setup that could be used for either drop-in or scheduled informal, synchronous chats during any lesson development sprints that occur. If the host key is available (eg via slack or Topicbox or other) people can split off into breakout rooms as needed."
+  subtype: social
+  speakers: [717]
+  language: en
+-
+  id: 023
+  title: "Social Meetup Hablamos Español"
+  description: "The Carpentries Community in Spanish is growing, and we would like to get to know each other, share our thoughts and aspirations and help each other creating new valuable connections.<br><br>Queremos invitar a la comunidad que habla Español a una reunión informal para conocernos y hablar de temas varios y establecer contactos."
+  subtype: social
+  speakers: [719]
+  language: en
+-
+
+
+    
   
 
 

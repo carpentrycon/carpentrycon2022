@@ -193,6 +193,34 @@
     - {name: "twitter", link: "https://twitter.com/brownsarahm"}
     - {name: "github", link: "https://github.com/brownsarahm"}
     - {name: "site", link: "http://sarahmbrown.org/"}
+-
+  id: 718
+  name: "David"
+  surname: "Pérez-Suárez"
+  company: "Research IT Services, University College London"
+  title: "Research Software Engineer"
+  bio: "I am David, a senior research software developer at RITS - UCL. I used to be a solar physicist and I've been always interested in open science and better software practice. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/DVDGC13"}
+    - {name: "github", link: "https://github.com/dpshelio"}
+    - {name: "site", link: "http://dpshelio.github.io/"}
+-
+  id: 719
+  name: "Paula"
+  surname: "A. Martinez"
+  company: "National Imaging Facility, Australia"
+  title: "RNational Training Coordinator"
+  bio: "My name is Paula Andrea Martinez. I have a background in Computer Sciences a Masters in Bioinformatics. I completed my PhD in Applied Bioinformatics in 2016 with a focus on analysing genomic diversity with computational methods. I have been a bioinformatician and a trainer of computational skills and data management best practices, for the last three years. I am now part of a national project delivering and coordinating training for the Characterisation Community. The Australian Research Data Commons (ARDC) funds this project and I work with 10 Universities around Australia. The project lead team is at Monash University and I work from the University of Queensland as part of the National Imaging Facility (NIF central). "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Executive Council", title: "Carpentries Executive Council", url: "https://carpentries.org/governance/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/orchid00"}
+    - {name: "github", link: "https://github.com/orchid00"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pambio/"}
     
 
 
