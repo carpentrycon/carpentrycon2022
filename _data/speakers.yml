@@ -100,13 +100,37 @@
   surname: "Hennesy"
   company: "University of Minnesota"
   title: "Librarian"
-  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring "Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis" for ACRL’s forthcoming Copyright Conversations (2019). "
+  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring 'Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis' for ACRL’s forthcoming Copyright Conversations (2019). "
   thumbnailUrl: CodyHennesy.jpg
   ribbon: 
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/codyhennesy"}
-    - {name: "github", link: "https://github.com/chennesy"}     
+    - {name: "github", link: "https://github.com/chennesy"} 
+-
+  id: 710
+  name: "Kay"
+  surname: "Bjornen"
+  company: "Oklahoma State University"
+  title: "Visiting Assistant Professor"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BjornenKay"}
+    - {name: "github", link: "https://github.com/kbjornen"}
+-
+  id: 711
+  name: "Luca"
+  surname: "Di Stasio"
+  company: "Luleå University of Technology"
+  title: "Post-doctoral Researcher & Professional Engine"
+  bio: "Luca Di Stasio is a Professional Engineer (Italian License, 2013). He completed a Ph.D. in Polymeric Composite Materials at Luleå University of Technology (2019) and a Ph.D. in Materials Science at Université de Lorraine (2019). Luca earned a M.Sc. in Space Engineering from Politecnico di Milano (2013); a M.Sc. in Mechanical Engineering from Drexel University (2012); a B.Sc. in Aerospace Engineering from Politecnico di Milano (2010). To know more about Luca visit http://www.lucadistasioengineering.com."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucadistasio"}
+    - {name: "github", link: "https://github.com/LucaDiStasio"}
+    
   
       
   

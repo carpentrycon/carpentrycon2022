@@ -77,6 +77,21 @@
   subtype: breakout
   speakers: [709]
   language: en
+-
+  id: 012
+  title: "Growing Carpentries through a growing community"
+  description: "Carpentries participants need the opportunity to engage beyond workshops and it can be challenging for volunteers to dedicate more of their time to support them after the fact. Creating ways to maximize engagement without overextending the Carpentries organizers and volunteers is important for the long term sustainability of a local Carpentries community. Sharing innovative ways to create that community and promote their success can help make sure that a struggling organization is not lost."
+  subtype: breakout
+  speakers: [710]
+  language: en
+-
+  id: 013
+  title: "Native scripting in Windows: the Command Prompt interface"
+  description: "Software Carpentry focuses on task automation and proposes Bash shell as an effective tool to this end. However, in Windows it is not a native tool and it can lead to problems with software designed primarily for Windows (many scriptable engineering packages are such). However, there exists a native tool with capabilities comparable to that of the shell. Learning how to effectively use the command prompt would provide attendees with a technical skill very interesting to the engineering community at large. This in turn would help grow the interest in The Carpentries workshops and, in a wider perspective, the diffusion of Open Science practices in the engineering community."
+  subtype: skillup
+  speakers: [711]
+  language: en
+
 
 
 
