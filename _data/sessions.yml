@@ -120,6 +120,13 @@
   speakers: [715]
   language: en
 -
+  id: 018
+  title: "Social Meetup Australia and New Zealand"
+  description: "A great opportunity to meet, reconnect and plan future activities with The Carpentries Community in Australia and New Zealand."
+  subtype: social
+  speakers: [719]
+  language: en
+-
   id: 019
   title: "Packaging and Publishing in Python"
   description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (https://carpentries-incubator.github.io/python-packaging-publishing/). This will be the second time this lesson is taught. We will will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
@@ -170,6 +177,43 @@
   subtype: lightning
   speakers: [721]
   language: en
+-  
+  id: 026
+  title: "Fostering Inclusion, Engagement, and Active Learning in the Virtual Classroom"
+  description: "Learning Goals<br>
+  - ideas for the development of accessible, adaptable technical solutions.<br>
+  - a community of researchers, from diverse backgrounds, to connect and collaborate.<br><br>
+  We encourage those interested in open research practices, computational training, and community building to join us in this sprint to share their experiences to help develop guidelines for:<br>
+  - Discuss how to apply strategies for increasing belonging and engagement online to Carpentries workshops<br>
+  - Analyze hypothetical scenarios and the factors that influence engagement and inclusion<br>
+  - Share tools/features we have found useful for engaging learners online<br>
+  - Identify a set of practices to adopt to your next online teaching experience<br><br>
+  With the COVID-19 global pandemic and the shift to virtual learning, motivating learners to actively engage during our workshops requires the instructor to thoughtfully adapt their teaching approaches. In this breakout session, instructors will share their own challenges and successes with getting learners to connect to the material and one another while teaching programming remotely. First, we will dive into different principles of belonging and active learning, and brainstorm how best to apply these ideas to the online context. We will then work together to break down some hypothetical scenarios around online learning and propose new ways to address the needs/conflicts presented in each situation. Throughout this session, we will discuss the array of software tools available (e.g. Zoom, Canvas, Google docs) and how their features can be best leveraged to improve the learner experience. By attending this breakout session, participants will be able to interact with other instructors, share fresh teaching ideas, and reflect on their own teaching philosophy.<br>
+  Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
+  subtype: breakout
+  speakers: [710]
+  language: en  
+-
+  id: 027
+  title: "Addressing Learner Diversity and Belonging"
+  description: "Learning Goals:<br>
+  - Appreciate the diversity of learners and the importance of the affective aspect of learning<br>
+  - Identify effective strategies for fostering community to improve learner belonging <br>
+  - Outline categories of instructor talk and their potential effects on learner belonging <br>
+  - Discuss activities and structural changes that leverage learners from different levels of preparation through differentiated instruction<br><br>
+  In an era of social distancing, difficulties in creating an authentic feeling of connection and presence for online learners exacerbates already challenging hurdles to learner persistence in programming. A sense of belonging has long been known to influence learners and their intent to actively engage or even stay in a class. Feelings of belonging are often significantly lower in learners identifying with groups historically underrepresented in STEM. How can we continue to foster belonging even when we are separated by a screen? In this session, we will explore how we can intentionally craft and monitor the structure (e.g. modes of participation) and framing (e.g. instructor talk) of our online workshops to create a positive learning community. Importantly, we will dive into a commonly cited challenge, different background levels of preparation, and discuss ways to address this diversity in learners. Through a differentiated instruction framework, we can identify learner differences and provide flexible content/goals without establishing barriers or setting lower expectations. Through this session, participants will ultimately consider different building blocks for an equitable learning experience and identify small, meaningful steps to improving student belonging when they teach."
+  subtype: skillup
+  speakers: [722]
+  language: en
+-
+  id: 028
+  title: "Online workshops - How to scale up your online workshop to reach 100 learners?"
+  description: "In the CodeRefinery project we teach tools and practices for collaborative reproducible research software development, following the Carpentries style of teaching and workshop organization. Due to the outbreak of Covid-19, we were forced to cancel several in-person workshops planned in the spring 2020. As The Carpentries started piloting online workshops, we also shifted our gear to hold online workshops. After successful CodeRefinery online workshop with middle-sized cohort of participants (approximately 25 learners on average per day), we held a 'mega' CodeRefinery online workshop where we accepted 120 registrations as both learners and helpers.<br><br>In this panel session, we will present how we ran the workshops including small but critical tactics. (The current plan is that) Organizer, instructor, expert helper, helper, and learner, each of them will present their perspective and discuss our experiences and lessons learned. (Note: If it is difficult to have a panelist for any of the roles, we will try to summarize feedback from those who fall under the role and a lead or co-lead will present on their behalf). This session aims to reach audience that are interested in online workshops and scaling up community, regardless of their roles. We hope that our experiences will provide with some inspiration to the session participants for planning their organization of or participation in workshops.<br><br>We will use HackMD as a platform of questions and answers during the panel session and answer them in the QA session at the end. We used HackMD in the Mega CodeRefinery online workshop and thus hope we could demonstrate some advantages of using HackMD"
+  subtype: panel
+  speakers: [723]
+  language: en
+  
+
 
 
 

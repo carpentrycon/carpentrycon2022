@@ -246,6 +246,35 @@
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
     - {name: "github", link: "https://github.com/davis68"}
+-
+  id: 722
+  name: "Melissa"
+  surname: "Ko"
+  company: "Stanford University, USA"
+  title: "Lecturer and Researcher"
+  bio: "My goal is to support equity in student learning, especially in STEM fields, whether that be through direct teaching/mentoring or supporting other educators and educational programs. <br><br>I am currently a full-time lecturer for the Thinking Matters Program at Stanford University. In this role, I teach courses on cryptography, viruses, human genomes, and cancer from a scientific, ethical, and societal standpoint. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/mesako"}
+    - {name: "site", link: "https://mesako.github.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mesako/"}
+-
+  id: 723
+  name: "Naoe"
+  surname: "Tatara"
+  company: "Code Refinery, Norway."
+  title: "Regional Coordinator"
+  bio: "Naoe Tatara is a regional coordinator of CodeRefinery and Carpentries for Nordic countries, based in Oslo. Naoe has worked for a long time as an interdisciplinary researcher mainly in the field of design and development of technology for personal health (eHealth). Naoe has a high interest in interaction between human and technology, user experience, and universal design of ICT. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Regional Coordinator", title: "Carpentries Regional Coordinator, Nordic Countries", url: "https://carpentries.org/regionalcoordinators/"}
+  social: 
+    - {name: "github", link: "https://github.com/naoe-tatara"}
+    - {name: "twitter", link: "https://twitter.com/naoetatara"}
+    
+    
     
 
 
