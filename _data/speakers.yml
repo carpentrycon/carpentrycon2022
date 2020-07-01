@@ -154,6 +154,20 @@
     - {name: "github", link: "https://github.com/arinbasu"}
 -
   id: 714
+  name: "Kate"
+  surname: "Hertweck"
+  company: "Fred Hutchinson Cancer Research Center"
+  title: "Bioinformatics Training Manager"
+  bio: "Kate Hertweck is the bioinformatics training manager at Fred Hutchinson Cancer Research Center, where they develop and teach courses on reproducible computational methods as a part of fredhutch.io. Kate's graduate training at University of Missouri in genomic evolution of plants was followed by a postdoctoral fellowship at the National Evolutionary Synthesis Center (NESCent) at Duke University, where they fell in love with R and began working exclusively in computational biology. Kate then spent four years as an assistant professor teaching bioinformatics, genomics, and plant taxonomy before transitioning to biomedical research training. Kate has been involved in The Carpentries, a non-profit organization that teaches reproducible computational methods, since 2014, serving as a leader in community governance since 2016. When not being an overenthusiastic instructor, Kate likes to spend their time doing fiber arts (knitting, crochet) and enjoying all things science fiction. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/k8hert"}
+    - {name: "github", link: "https://github.com/k8hertweck"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/katehertweck/"}
+-
+  id: 715
   name: "Cody"
   surname: "Hennesy"
   company: "University of Minnesota"
@@ -165,7 +179,23 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/codyhennesy"}
     - {name: "github", link: "https://github.com/chennesy"}
-  
+-
+  id: 717
+  name: "Sarah"
+  surname: "Brown"
+  company: "Brown University, USA"
+  title: "Postdoctoral researcher"
+  bio: "I am a Data Science Initiative Postdoc at Brown University affiliated to the Division of Applied Mathematics and hosted by Professor Bjorn Sandstede. Previously, I completed a Chancellor’s Postdoctoral Fellow in Computer Science at the University of California, Berkeley with faculty mentor Professor Mike Jordan. I completed a BS in Electrical Engineering with a minor in Biomedical Engineering in 2011 a MS in Electrical and Computer Engineering and a PhD in Electrical Engineering in 2016 advised by Jennifer Dy both at Northeastern University. My graduate studies were supported by a Draper Laboratory Fellowship and a National Science Foundation Graduate Research Fellowship. My other professional activities include teaching computational data analysis skills to researchers with The Carpentries and serving as the treasurer emeritus on the Women in Machine Learning, Inc Senior Advisory Council. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/brownsarahm"}
+    - {name: "github", link: "https://github.com/brownsarahm"}
+    - {name: "site", link: "http://sarahmbrown.org/"}
+    
+
+
     
   
       
