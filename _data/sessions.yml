@@ -163,6 +163,13 @@
   subtype: panel
   speakers: [720]
   language: en
+-
+  id: 025
+  title: "Data Harvesting for Agriculture"
+  description: "We have developed a two-day workshop inspired by the Carpentries format and experience. Agriculture is an intensely data-driven field, but many farmers, agronomists, and CCAs don’t have computer science backgrounds. In this two-day workshop, researchers from the University of Illinois teach about free tools you can use with your own farm’s data to improve your fertilizer application rates, look at conditions across time, and more. We will discuss the curriculum's background and intent. This work was sponsored by the Center for Digital Agriculture."
+  subtype: lightning
+  speakers: [721]
+  language: en
 
 
 

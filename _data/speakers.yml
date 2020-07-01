@@ -234,6 +234,18 @@
   social: 
     - {name: "github", link: "https://github.com/JordanPedersen"}
     - {name: "site", link: "https://jordanpedersen.com"}
+-
+  id: 721
+  name: "Neal"
+  surname: "E. Davis"
+  company: "University of Illinois, USA"
+  title: "Teaching Assistant Professor, Computer Science"
+  bio: "Neal E. Davis is a Teaching Assistant Professor, Computer Science at the University of Illinois. Neal received his PhD in 2013 from the Department of Nuclear, Plasma, and Radiological Engineering at the University of Illinois. His doctoral research involved the simulation of uranium surface chemistry using density functional theory and kinetic Monte Carlo modeling. He also studied chemical engineering and high-performance computing. Davis has worked with the Computational Science and Engineering program at the University of Illinois on developing, promoting, and teaching best practices for engineering and scientific software. He has also worked closely with Software Carpentry since 2013, teaching open science techniques, reproducibility, and task automation to domain researchers. At CS @ ILLINOIS, he continues to promote the communication of key software development concepts and technical best practices between the engineering and computer science communities. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/davis68"}
     
 
 
