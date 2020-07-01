@@ -212,6 +212,60 @@
   subtype: panel
   speakers: [723]
   language: en
+- 
+  id: 029
+  title: "HPC Carpentry - a way forward"
+  description: "At CarpentryCon 2018, the community expressed the will and desire to create a Carpentry-inspired curriculum for teaching new users of High Performance Computing systems how to use such resources effectively. Subsequently the HPC Carpentry GitHub team was created and relevant existing material was repurposed and integrated into a single home. By mid 2020, development in the hpc-carpentry repos has stalled, with only a subset of the original goals met.<br><br>In Europe, there are at least two initiatives that have the potential to provide the human resources to refine and extend the teaching material, but with clear goals of their own derived from their own context. We would like to involve the community in a discussion on how to encourage and integrate such initiatives to help sustain the development of the existing material, and extend it to new topics.<br><br>For this, we propose a breakout session composed of<br>
+  - a review of activity to date<br>
+  - series of lightning talks by different stake holders<br>
+  - an open discussion on how to move forward."
+  subtype: breakout
+  speakers: [724]
+  language: en
+- 
+  id: 029
+  title: "HPC Carpentry - a way forward"
+  description: "At CarpentryCon 2018, the community expressed the will and desire to create a Carpentry-inspired curriculum for teaching new users of High Performance Computing systems how to use such resources effectively. Subsequently the HPC Carpentry GitHub team was created and relevant existing material was repurposed and integrated into a single home. By mid 2020, development in the hpc-carpentry repos has stalled, with only a subset of the original goals met.<br><br>In Europe, there are at least two initiatives that have the potential to provide the human resources to refine and extend the teaching material, but with clear goals of their own derived from their own context. We would like to involve the community in a discussion on how to encourage and integrate such initiatives to help sustain the development of the existing material, and extend it to new topics.<br><br>For this, we propose a breakout session composed of<br>
+  - a review of activity to date<br>
+  - series of lightning talks by different stake holders<br>
+  - an open discussion on how to move forward."
+  subtype: breakout
+  speakers: [725]
+  language: en
+- 
+  id: 030
+  title: "Puzzled Pint Social"
+  description: "Puzzled Pint (http://www.puzzledpint.com/) is a group that releases a monthly set of puzzles to be done w/ friends over a pint. Puzzles include letter and word games, decoding, and more. Let's get together over a virtual pint, form teams, and solve the July puzzles!"
+  subtype: social
+  speakers: [726]
+  language: en
+- 
+  id: 031
+  title: "CarpentryCon Wrap-Up Listening Session"
+  description: "Suggested by Sara El-Gebali - we'd like to create a space for people to offer feedback about CarpentryCon @ Home at the end of the conference."
+  subtype: feedback
+  speakers: [726]
+  language: en
+-
+  id: 032
+  title: "Lesson co-development using reverse design: a worked example"
+  description: "In this session, we demonstrate how the constraints of reverse design reduce the uncertainty of a blank page titled 'Lesson 1'. Nowhere does the Carpentries demonstrate the full cycle of instructional design. We propose this workshop - co-developed by two experienced instructors - using this approach. The process of the development of this workshop is documented and shared as the content of the workshop. Attendees will see how learner personas, faded examples, concept maps, formative and summative assessment create requirements for lesson design.<br><br>We provide a worked example of the reverse design process without any assumptions of prior computational knowledge. After the workshop, attendees can combine their experience of the lesson we developed with the process of development, which we share with them, to apply this framework to their own training work."
+  subtype: feedback
+  speakers: [727]
+  language: en
+-
+  id: 033
+  title: "Lesson co-development using reverse design: a worked example"
+  description: "Although Spyder is mentioned in some data carpentry lessons it is not treated with the depth it should be.<br><br>Since Spyder is pre-installed on Anaconda, the platform suggested in some Python's Carpentries lessons, it is worth highlighting the advantages of using this IDE from the point of view of researchers interested in programming.<br><br>This workshop consists of solving a programming problem from a simple to a more finished version by emphasizing Spyder's capabilities for code execution, debugging, profiling, code style, documentation strings, use of the variable browser, and unit testing."
+  subtype: feedback
+  speakers: [728]
+  language: en
+
+
+
+  
+  
+
   
 
 
