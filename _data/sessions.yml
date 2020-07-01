@@ -278,8 +278,8 @@
   id: 035
   title: "Learning Ally Skills"
   description: "Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (https://frameshiftconsulting.com/ally-skills-workshop/)."
-  subtype: other
-  speakers: [701]
+  subtype: skillup
+  speakers: [701,731]
   language: en
 
 

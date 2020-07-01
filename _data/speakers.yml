@@ -366,9 +366,24 @@
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
-    - {name: "site", link: "http://third-bit.com//"}
+    - {name: "site", link: "http://third-bit.com/"}
     - {name: "github", link: "https://github.com/gvwilson"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/greg-wilson-a26510b6/"}
+-
+  id: 731
+  name: "Yo"
+  surname: "Yehudi"
+  company: "Intermine, United Kingdom"
+  title: "Open Source Developer"
+  bio: "I'm Yo Yehudi, a software engineer at InterMine, an open source biological data platform at the University of Cambridge. I'm comfortable coding full stack, but my favourite bit of all is the place software intersects with people: the User Interface. Mockups, codes, and user testing are my bread and butter. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://yo-yehudi.com/"}
+    - {name: "github", link: "https://github.com/yochannah"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yoyehudi"}
+    - {name: "twitter", link: "https://twitter.com/yoyehudi"}
 
     
     
