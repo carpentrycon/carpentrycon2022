@@ -275,18 +275,33 @@
   speakers: [730]
   language: en
 - 
-  id: 035
+  id: 036
   title: "Learning Ally Skills"
   description: "Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (https://frameshiftconsulting.com/ally-skills-workshop/)."
   subtype: skillup
   speakers: [701,731]
   language: en
 - 
-  id: 035
-  title: "Executable Research Article (ERA): enriching your research paper with code and data"
-  description: "Code and data are important research output and integral to a full understanding of research findings and experimental approaches in a paper. However, traditional research articles seldom have these embedded in the manuscript’s narrative, but instead, leave them as “supplementary materials”, if they are openly available.<br><br>With Executable Research Articles (ERAs), eLife's vision is to enrich the traditional narrative of a research article with code, data and interactive figures that can be executed in the browser, downloaded and explored. It will give readers a direct insight into the methods, algorithms and key data behind the published research.<br><br>We realised that to incentivise authors to publish ERAs, we need to make this process of composing and publishing an ERA extremely easy and interoperable with existing authoring tools that our authors use.<br><br>In 3 minutes, I hope show one of the ways our authors can compose an ERA– we'd love to invite members of the Carpentries community to test our tool stack out and offer feedback."
+  id: 037
+  title: "Executable Research Article: enriching your research paper with code and data"
+  description: "Code and data are important research output and integral to a full understanding of research findings and experimental approaches in a paper. However, traditional research articles seldom have these embedded in the manuscript’s narrative, but instead, leave them as 'supplementary materials', if they are openly available.<br><br>With Executable Research Articles (ERAs), eLife's vision is to enrich the traditional narrative of a research article with code, data and interactive figures that can be executed in the browser, downloaded and explored. It will give readers a direct insight into the methods, algorithms and key data behind the published research.<br><br>We realised that to incentivise authors to publish ERAs, we need to make this process of composing and publishing an ERA extremely easy and interoperable with existing authoring tools that our authors use.<br><br>In 3 minutes, I hope show one of the ways our authors can compose an ERA– we'd love to invite members of the Carpentries community to test our tool stack out and offer feedback."
   subtype: lightning
   speakers: [732]
+  language: en
+- 
+  id: 038
+  title: "Nordic and Baltic Get Together"
+  description: "A great opportunity to meet, reconnect Carpentries community members in Nordic and Baltic countries! We would like to have something between social meetup and breakout discussion
+  where we will discuss interesting and useful topics by sharing our experiences. Ideas for topics would include but not limited to:<br>
+  - Who's who in the Nordics? Get to know our fellow Carpenters in the Nordic and Baltic countries, brainstorm CarpentryConnect 2021<br>
+  - How can be better describe the skill level for our participants?<br>
+  - How can we increase the number of institutions in our region regularly offering Carpentries workshops?<br>
+  - How can we recruit a more diverse - and more sustainable instructor and helper base?<br>
+  - Community Building for local communities: Events, meeting places (online, IRL), engagement<br>
+  - How can we address our learners' needs beyond the 'basic' Carpentries workshops?<br>
+  - Hands-on: Let's make a website for our community: Inviting for new people, informative, fun, and reliably"
+  subtype: social
+  speakers: [723,733]
   language: en
 
 

@@ -394,6 +394,18 @@
   social: 
     - {name: "github", link: "https://github.com/emmyft"}
     - {name: "twitter", link: "http://twitter.com/emmy_ft"}
+-
+  id: 733
+  name: "Annika"
+  surname: "Rockenberger"
+  company: "University of Oslo Library"
+  title: "Research Data Management Advisor"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/arockenberger"}
+    - {name: "site", link: "http://www.annikarockenberger.com"}
 
     
     
