@@ -39,11 +39,13 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform" # call for proposals doc goes in here
 c4sponsorsUrl: "https://carpentries.typeform.com/to/hqoY3I" # call for sponsors doc goes in here
+helpwanted: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"
 
 # Navigation
 navigationLinks:
   - {permalink: "/", text: "Home"}
-  - {permalink: "/blog/", text: "News & Blog"}
+  - {permalink: "/schedule/", text: "Schedule"}
+  - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/sponsorship/", text: "Sponsorship"}
 #  - {permalink: "/programme/", text: "Programme"}
 #  - {permalink: "/venue/", text: "Venue & Travel"}
@@ -51,6 +53,7 @@ navigationLinks:
 #  - {permalink: "/accommodation/", text: "Accommodation"}
 #  - {permalink: "https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md", text: "'A to Z'"}
   - {permalink: "/task-force/", text: "Task Force"}
+  - {permalink: "/blog/", text: "News & Blog"}
 bottomNavigationLinks:
 rightNavigationButtons:
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform", text: "Submit Your Session Proposal"}
@@ -63,7 +66,7 @@ eventDate: "July 14 - August 31, 2020"
 #typeoutTextValues: '""'
 #typeoutFallback: ""
 heroButtons:
-#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform", text: "Submit A Poster or Lightning Talk"}
+  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22", text: "Help Wanted: See which sessions need your help"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
 #  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
@@ -144,11 +147,11 @@ venueFeatures: ["Sandwiched between two freshwater lakes", "A short trip from se
 accommodationBlockTitle: "Accommodation"
 
 # Tweets Feed Block
-tweetsFeedImage: "/img/sections-background/bascom-fall-foliage-1600.jpg"
-tweetsFeedImageCreditText: "Image by Bryce Richter, copyright  UW-Madison"
+tweetsFeedImage: "/img/sections-background/twitter-banner.jpg"
+tweetsFeedImageCreditText: "Photo by Mish Vizesi on Unsplash"
 tweetsFeedImageImageLink: "https://www.wisc.edu/"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "CarpentryCon2020Madison"
+twitterHashTag: "CarpentryConHome"
 twitterFeed: "https://twitter.com/carpentrycon"
 
 # Partners Block

@@ -494,13 +494,12 @@
   cchomeorganiser: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/jlibraryist"}
-    - {name: "github", link: "https://github.com/jyssy"}
-    
+    - {name: "github", link: "https://github.com/jyssy"}    
 - 
   id: 85
   name: "Dan"
   surname: "Kerchner"
-  title: "DanKerchner.jpg"
+  title: "CarpentryCon @ Home Organiser"
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
@@ -511,23 +510,23 @@
   id: 85
   name: "Sara"
   surname: "El-Gebali"
-  title: "Carpentries.png"
-  thumbnailUrl: Carpentries.png
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: SaraElGebali.jpg
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
     
 - 
   id: 85
   name: "Jason"
   surname: "Williams"
-  title: "Carpentries.png"
-  thumbnailUrl: Carpentries.png
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: JasonWilliams.png
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
+    - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
 
 - 
   id: 100
