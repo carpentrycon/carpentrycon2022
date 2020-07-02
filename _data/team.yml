@@ -494,18 +494,7 @@
   cchomeorganiser: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/jlibraryist"}
-    - {name: "github", link: "https://github.com/jyssy"}
-- 
-  id: 84
-  name: "Sarah"
-  surname: "Stevens"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/DanKerchner"}
-    - {name: "github", link: "https://github.com/kerchner"}
-    
+    - {name: "github", link: "https://github.com/jyssy"}    
 - 
   id: 85
   name: "Dan"
