@@ -28,3 +28,43 @@
         endTime: "24:00",
         sessionIds: [000,404,404, 404, 404]
     }
+- 
+  date: "2020-07-19"
+  dateReadable: "CarpentryCon Week 2"
+  tracks: 
+    - {title: "Mon, July 19", color: "#4be44a"}
+    - {title: "Tue, July 20", color: "#9a30f4"}
+    - {title: "Wed, July 21", color: "#6e9e63"}
+    - {title: "Thur, July 22", color: "#03a9f4"}
+    - {title: "Fri, July 23", color: "#e41e63"}
+  timeslots:
+    - {
+    	startTime: "00:00",
+    	endTime: "04:00",
+    	sessionIds: [404,018,404, 404, 404]
+    }
+    - {
+    	startTime: "04:00",
+    	endTime: "08:00",
+    	sessionIds: [404, 029,404, 404,404]
+    }
+    - {
+    	startTime: "08:00",
+    	endTime: "12:00",
+    	sessionIds: [404,404,004, 404, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "16:00",
+        sessionIds: [404, 404, 404,019, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "20:00",
+    	sessionIds: [007,021,404, 404, 404]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "24:00",
+        sessionIds: [404,022,027, 044, 404]
+    }
