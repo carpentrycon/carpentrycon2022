@@ -32,11 +32,11 @@
   date: "2020-07-19"
   dateReadable: "CarpentryCon Week 2"
   tracks: 
-    - {title: "Mon, July 19", color: "#4be44a"}
-    - {title: "Tue, July 20", color: "#9a30f4"}
-    - {title: "Wed, July 21", color: "#6e9e63"}
-    - {title: "Thur, July 22", color: "#03a9f4"}
-    - {title: "Fri, July 23", color: "#e41e63"}
+    - {title: "Mon, July 20", color: "#4be44a"}
+    - {title: "Tue, July 21", color: "#9a30f4"}
+    - {title: "Wed, July 22", color: "#6e9e63"}
+    - {title: "Thur, July 23", color: "#03a9f4"}
+    - {title: "Fri, July 24", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "00:00",
@@ -72,11 +72,11 @@
   date: "2020-07-26"
   dateReadable: "CarpentryCon Week 3"
   tracks: 
-    - {title: "Mon, July 26", color: "#4be44a"}
-    - {title: "Tue, July 27", color: "#9a30f4"}
-    - {title: "Wed, July 28", color: "#6e9e63"}
-    - {title: "Thur, July 29", color: "#03a9f4"}
-    - {title: "Fri, July 30", color: "#e41e63"}
+    - {title: "Mon, July 27", color: "#4be44a"}
+    - {title: "Tue, July 28", color: "#9a30f4"}
+    - {title: "Wed, July 29", color: "#6e9e63"}
+    - {title: "Thur, July 30", color: "#03a9f4"}
+    - {title: "Fri, July 31", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "08:00",
@@ -102,11 +102,11 @@
   date: "2020-08-02"
   dateReadable: "CarpentryCon Week 4"
   tracks: 
-    - {title: "Mon, Aug 2", color: "#4be44a"}
-    - {title: "Tue, Aug 3", color: "#9a30f4"}
-    - {title: "Wed, Aug 4", color: "#6e9e63"}
-    - {title: "Thur, Aug 5", color: "#03a9f4"}
-    - {title: "Fri, Aug 6", color: "#e41e63"}
+    - {title: "Mon, Aug 3", color: "#4be44a"}
+    - {title: "Tue, Aug 4", color: "#9a30f4"}
+    - {title: "Wed, Aug 5", color: "#6e9e63"}
+    - {title: "Thur, Aug 6", color: "#03a9f4"}
+    - {title: "Fri, Aug 7", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "04:00",
@@ -132,11 +132,11 @@
   date: "2020-08-09"
   dateReadable: "CarpentryCon Week 5"
   tracks: 
-    - {title: "Mon, Aug 9", color: "#4be44a"}
-    - {title: "Tue, Aug 10", color: "#9a30f4"}
-    - {title: "Wed, Aug 11", color: "#6e9e63"}
-    - {title: "Thur, Aug 12", color: "#03a9f4"}
-    - {title: "Fri, Aug 13", color: "#e41e63"}
+    - {title: "Mon, Aug 10", color: "#4be44a"}
+    - {title: "Tue, Aug 11", color: "#9a30f4"}
+    - {title: "Wed, Aug 12", color: "#6e9e63"}
+    - {title: "Thur, Aug 13", color: "#03a9f4"}
+    - {title: "Fri, Aug 14", color: "#e41e63"}
   timeslots:
     - {
       startTime: "12:00",
@@ -152,11 +152,11 @@
   date: "2020-08-16"
   dateReadable: "CarpentryCon Week 6"
   tracks: 
-    - {title: "Mon, Aug 16", color: "#4be44a"}
-    - {title: "Tue, Aug 17", color: "#9a30f4"}
-    - {title: "Wed, Aug 18", color: "#6e9e63"}
-    - {title: "Thur, Aug 19", color: "#03a9f4"}
-    - {title: "Fri, Aug 20", color: "#e41e63"}
+    - {title: "Mon, Aug 17", color: "#4be44a"}
+    - {title: "Tue, Aug 18", color: "#9a30f4"}
+    - {title: "Wed, Aug 19", color: "#6e9e63"}
+    - {title: "Thur, Aug 20", color: "#03a9f4"}
+    - {title: "Fri, Aug 21", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "00:00",
@@ -187,11 +187,11 @@
   date: "2020-08-23"
   dateReadable: "CarpentryCon Week 7"
   tracks: 
-    - {title: "Mon, Aug 23", color: "#4be44a"}
-    - {title: "Tue, Aug 24", color: "#9a30f4"}
-    - {title: "Wed, Aug 25", color: "#6e9e63"}
-    - {title: "Thur, Aug 26", color: "#03a9f4"}
-    - {title: "Fri, Aug 27", color: "#e41e63"}
+    - {title: "Mon, Aug 24", color: "#4be44a"}
+    - {title: "Tue, Aug 25", color: "#9a30f4"}
+    - {title: "Wed, Aug 26", color: "#6e9e63"}
+    - {title: "Thur, Aug 27", color: "#03a9f4"}
+    - {title: "Fri, Aug 28", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "00:00",
