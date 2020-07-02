@@ -6,35 +6,35 @@
   speakers: [000]
   language: en
 -
-  id: 001
+  id: 37
   title: "Curriculum Development in The Carpentries"
   description: "This skill-up session is aimed at anyone who wants to learn more about how to design good lessons and the lesson development process promoted by The Carpentries.<br><br>If you'd like to create your own lesson, or contribute to the ongoing development of existing curricula, but aren't sure where to start, this session is for you!<br><br>The session will be in 2 parts. First, we will review the principles of curriculum design used for Carpentries lessons. Using the Curriculum Development Handbook, we will present how to use Backward Design to identify what to include in a lesson, decide on the exercises suitable for formative assessment, and the general development life-cycle of a lesson. In the second part, we will present and answer questions about The Carpentries Incubator and The Carpentries Lab, venues to collaborate and share community-developed lessons in the style of The Carpentries.<br><br>After attending the session, participants will be able to design new lessons in style of The Carpentries, create exercises suitable to the learning objectives of their lessons, and contribute to the development of existing curricula."
   subtype: skillup
   speakers: [700]
   language: en
 -
-  id: 002
+  id: 45
   title: "Developing Open Leadership mindset for our learners through mentoring"
   description: "Leadership skills such as openness, inclusivity, project road mapping, and community building are essential for modern science and research today. Despite this, these skills are rarely taught.<br>br>We believe that scientists and researchers should learn how to effectively lead projects openly, collaboratively, and thoughtfully from day one.To facilitate this, we created Open Life Science (http://openlifesci.org/), a 16-week training and mentorship program that prepares early career researchers and academic leaders to become open science ambassadors for their own projects but for the communities around them.<br><br>In this session, we will discuss mentoring and training our members in Open Science skills, introduce to the Open Life Science (OLS) program's open source resources, and run a “taster session” where we will touch on some of the important aspects of open research, whilst giving it the feel of a collaborative, informative and classic OLS full-cohort call."
   subtype: skillup
   speakers: [701]
   language: en
 -
-  id: 003
+  id: 10
   title: "Reproducible Environments with the Nix Packaging System"
   description: "The issue of dependency management is one which is of interest to all scientists and researchers who wish to develop reproducible results with software. The Nix package management system is one which is cross-platform and will enable the instructors to pin their dependencies to mimic perfectly, the environment of the learners, as a very basic example see https://github.com/HaoZeke/nixCarp. It is a more robust, secure and lightweight alternative to using a docker container and is a very important pedagogical tool as well. The workshop would cover the generation of nix-pkg derivations, which being written as they are in a functional style of programming, needs some description. Furthermore it would cover the best practices of the nix community when it comes to using the nix-shell environments. My experience as a nixpkg manager would let me communicate this tool to my fellow instructors and those at the event. I feel like this would be very beneficial to the audience. Nix, like git is a deep and complicated tool, but which can be used to reap fantastic dividends with a low learning curve if taught correctly."
   subtype: skillup
   speakers: [702]
   language: en 
 -
-  id: 004
+  id: 58
   title: "Building institutional computational genomics capacity (de novo)"
   description: "There is a growing gap between the accumulation of big data and researchers’ knowledge about how to use it effectively. Furthermore, there seems to be great interest from the Carpentries community to learn and teach genomics. South Africa boasts 26 public universities each conducting research in areas where genomics techniques are (or can be) applied to answer questions related to health, food, environmental issues, and/or agriculture. Currently, only nine of these universities offer formal undergraduate or postgraduate training programmes in bioinformatics or computational genomics. The North-West University (NWU) isn't one of these nine. For that reason, we explored various avenues for building institutional genomics capacity. I would like to present this topic in the form of a breakout session at CarpentryCon@Home and discuss the results and challenges for each approach, as was experienced by our institution’s researchers. I would also like other people in the field of genomics to tells us how they build genomics capacity at their institutions. Together we might come up with feasible solutions to 'teach people how to fish'."
   subtype: breakout
   speakers: [703]
   language: en  
 -
-  id: 005
+  id: 52
   title: "Make Your Tools, Scripts and Analyses Open and more FAIR"
   description: "Open science has rapidly gained interest and importance across the academic world and society. It will require researchers to be open and transparent in sharing their methods, analyses and raw and published data, so these can be reused, verified or reproduced by a wider audience. In the humanities and social sciences, research software (including code, scripts, tools, algorithms) often is an integral part of the methodological process, so there is a need for guidelines on making these open as well. The Netherlands eScience Center and DANS launched a website (fair-software.eu) with five practical recommendations that help researchers to make their software more FAIR (Findable, Accessible, Interoperable, Reusable). The site serves as a signpost for researchers to get actionable advice on how to get this adventure started. The general idea of the session is that workshop participants bring their code, and the session organizers will help participants to improve the openness and FAIRness of their software or scripts using the new website as guidance.<br><br>Participants of this session will
   (i) learn about the fair-software.eu website, (ii) learn about five things they can do to improve FAIRness of their software, (iii) put their code in the open, (iv) select the license, (v) find relevant software registry, (vi) make their software citable and (vii) select the quality checklist that fits their purpose.
@@ -43,42 +43,42 @@
   speakers: [704]
   language: en 
 -
-  id: 007
+  id: 14
   title: "Growing Carpentries through a growing community"
   description: "Carpentries participants need the opportunity to engage beyond workshops and it can be challenging for volunteers to dedicate more of their time to support them after the fact. Creating ways to maximize engagement without overextending the Carpentries organizers and volunteers is important for the long term sustainability of a local Carpentries community. Sharing innovative ways to create that community and promote their success can help make sure that a struggling organization is not lost."
   subtype: breakout
   speakers: [706]
   language: en
 -
-  id: 008
+  id: 44
   title: "Embedding Accessible Low-Tech Strategies Into Your Data Literacy Approach"
   description: "This session is a follow up to my recent talk: Low-Income Data Diaries - How “Low-Tech” Data Experiences Can Inspire Accessible Data Skills and Tool Design (https://youtu.be/XV_jxbB1cBY) at csv,conf,v5. In that csvconf.com talk, I made the case that a significant population of data stakeholders exist in low-technical skills and low-technological infrastructure context, and find current data literacy approaches (Data Literacy 1.0) inaccessible. The main takeaway from the csv,conf talk was the need to rethink and redesign a new approach (Data Literacy 2.0) that makes data skills and resources more accessible to these stakeholders. Whereas the prior talk set the stage for the current challenge, this session will dive into strategies and resources that I have discovered and develop to get started with embedding low-tech skills and resources into our data literacy approaches."
   subtype: breakout
   speakers: [707]
   language: en 
 -
-  id: 009
+  id: 59
   title: "How to prevent and kick burnout to the curb"
   description: "Since becoming part of the Carpentries' community, I can't imagine what my life was like before. I have learned so many things in the past few year, even though it was a long, hard road and many lessons were learned. Burnout was a reality for me, and I am certain that it is for many others as well. I would thus like to propose a breakout session where people can share their experiences, challenges, and solutions to preventing/treating burnout. We not only want an active community, but a healthy one."
   subtype: breakout
   speakers: [703]
   language: en  
 -
-  id: 010
+  id: 12
   title: "Frictionless data management for open and reproducible science"
   description: "15 July 2020: 15h00 UTC<br><br>Generating insight and conclusions from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete. These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative (frictionlessdata.io) at Open Knowledge Foundation (okfn.org) aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis, and with an emphasis on reproducible research and open data. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. Participants will learn where to find open scientific data, how to computationally prepare this data for further analysis and generate conclusions, and also best practices for sharing data and documenting metadata. This hands-on workshop is aimed for researchers interested in open science and reproducible research that are at a beginner programming level (for instance, some familiarity with Python or R and the command line), but more advanced programmers are also welcome."
   subtype: breakout
   speakers: [708]
   language: en
 - 
-  id: 011
+  id: 18
   title: "Open data and Reproducibility v2.1"
   description: "Putting Madisonian data into reproducible documents and dashboards--should be fun! <br><br>The methods for disseminating research are advancing. Papers now include more and more supplementary materials. This shift has been facilitated by burgeoning technologies and available training. Another major contributor was the replication crisis in psychology. Nowadays, researchers customarily examine the extra materials with new studies. These materials are available to non-academics, too. Standard supplementals could be dubbed Open Data and Reproducibility, Version 1. Excitingly, updated features are already available, largely based on open-source software. Let’s look at some applications using R.<br><br>Pablo Bernabeu will conduct this workshop, which uses real code of varying complexity and Madisonian data! Each of the three sections below include practice, allowing participants to get acquainted with common challenges and even to create some output."
   subtype: workshop
   speakers: [709]
   language: en
 -
-  id: 012
+  id: 40
   title: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
   description: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)is a space for knowledge sharing regarding data management and analysis, computational training, and building inclusive communities to advance participation in open research and innovation. <br><br>The aim is to address the lack of diversity of underrepresented groups in open research by encouraging the development of tools and portable solutions adapted to resources of a wide variety of audiences such as those from low and middle-income countries (LMICs).<br>Our vision is to create a valuable resource that serves as a space for:<br>knowledge-sharing, advice, good practices, workflows, and a list of tools to facilitate <br> - computational training and research data management.<br>
   - ideas for the development of accessible, adaptable technical solutions.<br>
@@ -92,49 +92,49 @@
   speakers: [710]
   language: en
 -
-  id: 013
+  id: 15
   title: "Native scripting in Windows: the Command Prompt interface"
   description: "Software Carpentry focuses on task automation and proposes Bash shell as an effective tool to this end. However, in Windows it is not a native tool and it can lead to problems with software designed primarily for Windows (many scriptable engineering packages are such). However, there exists a native tool with capabilities comparable to that of the shell. Learning how to effectively use the command prompt would provide attendees with a technical skill very interesting to the engineering community at large. This in turn would help grow the interest in The Carpentries workshops and, in a wider perspective, the diffusion of Open Science practices in the engineering community."
   subtype: skillup
   speakers: [711]
   language: en
 -
-  id: 014
+  id: 16
   title: "Visualizing Africa through Inclusive Data Programming"
   description: "Africa is said to be the World Global Commerce by 2035. Investors and global actors in most cases lack evidence-based research about Africa data from Africa source. Since data is said to be the future Gold and most valuable resources, investors are more interested about what is in it for them in Africa in order to set the investment in Africa rolling. The current data gaps, challenges and access in Africa remain a major constraints for any investor. This session aim to proffer information on how to overcome these challenges through visualization of the continent most valuable resources-Data!"
   subtype: breakout
   speakers: [712]
   language: en
 -
-  id: 015
+  id: 17
   title: "Workshop on structural equation modelling for causal inference in R"
   description: "For anyone in health, education, social sciences, ecology, genomics, genetics, software programming, and indeed any field that investigates causal thinking, graphical exploration of cause and effect is important for generation of deep insights. The free and open source R package Lavaan provides an excellent interface to explore such graphic causal models. In the workshop, I will run a Carpentry style workshop so that following the workshop, the participants will (1) gain an understanding of causal modelling, and (2) use Lavaan in R to explore graphical models for studying cause and effect relationships."
   subtype: breakout
   speakers: [713]
   language: en
 -
-  id: 016
+  id: 26
   title: "Building Text-as-Data Communities"
   description: "In this session we hope to bring together text-as-data practitioners and those in academic support roles to discuss models for building communities related to computational text analysis. Many early career scholars interested in text analytics find themselves at institutions that provide little direct support for learning and practicing emerging methods related to text as data (e.g., topic modeling or sentiment analysis). Even where expertise does exist on a particular campus, it can be difficult for an individual scholar—especially those in the humanities or social sciences—to bridge disciplinary and bureaucratic boundaries to find peers and mentors in computational research areas. The Carpentries offer one helpful foundation for learning essential data science tools; this session explores opportunities for building upon that foundation to address the growing needs and interests of scholars in text analytics. <br><br>At our institution, we recently initiated the Text as Data Practice Group, a discipline-agnostic monthly gathering for scholars to experiment and learn from each other, from local experts, and from open access tutorials in a social setting. The group operates in the spirit of creating community, nurturing peer-to-peer learning, and exploring emerging text and data analysis methods on campus. We plan to provide an overview of this program, and then lead participants through discussion prompts to share their own thoughts about successes, challenges, and opportunities related to building communities for text as data. Participants will learn about different models to develop and nurture communities in computational research."
   subtype: breakout
   speakers: [715]
   language: en
 -
-  id: 017
+  id: 19
   title: "Beyond technical skills: Leveraging the Carpentries for professional development"
   description: "For folks coming from an academic background, it can be difficult to both identify and develop professional skills that aren't explicitly related to our field of research. This breakout session will help participants identify and assess professional skills they would like to explore, and help locate potential pathways in Carpentries to meet those needs."
   subtype: breakout
   speakers: [714]
   language: en
 -
-  id: 018
+  id: 31
   title: "Social Meetup Australia and New Zealand"
   description: "21 July 2020: 02h00 UTC<BR><BR>A great opportunity to meet, reconnect and plan future activities with The Carpentries Community in Australia and New Zealand."
   subtype: social
   speakers: [719]
   language: en
 -
-  id: 019
+  id: 20
   title: "Packaging and Publishing in Python"
   description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (https://carpentries-incubator.github.io/python-packaging-publishing/). This will be the second time this lesson is taught. We will will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
   - You identify with any of the learner personas for the lesson<br>
@@ -143,49 +143,49 @@
   speakers: [717]
   language: en
 -
-  id: 020
+  id: 22
   title: "i18n - bring the Carpentries to your language 🌏 🌍 🌎"
   description: "Have you heard that some lessons are being translated into different languages? Would you like to participate in these efforts but you are not sure where to start? Would you like to help but you only speak English? That and more questions will be answered in this practical session. I'll give a general introduction to the history of translation on the Carpentries, where we stand now, what are the tools available, and how it is everything connected together.<br><br>You will learn how the translations work, what is needed to do to start a new team of translators in your native language or join one formed already and hopefully we will be able to start translating the Code of Conduct to your native language."
   subtype: sprint
   speakers: [718]
   language: en
 -
-  id: 021
+  id: 24
   title: "¡Traduciendo!"
   description: "This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
   subtype: skillup
   speakers: [718]
   language: es
 - 
-  id: 022
-  title: "Packaging and Publishing in Python"
+  id: 23
+  title: "Lesson Development Sprint Lounge"
   description: "A social space like a zoom meeting setup that could be used for either drop-in or scheduled informal, synchronous chats during any lesson development sprints that occur. If the host key is available (eg via slack or Topicbox or other) people can split off into breakout rooms as needed."
   subtype: social
   speakers: [717]
   language: en
 -
-  id: 023
+  id: 25
   title: "Social Meetup Hablamos Español"
   description: "The Carpentries Community in Spanish is growing, and we would like to get to know each other, share our thoughts and aspirations and help each other creating new valuable connections.<br><br>Queremos invitar a la comunidad que habla Español a una reunión informal para conocernos y hablar de temas varios y establecer contactos."
   subtype: social
   speakers: [719]
   language: en
 -
-  id: 024
+  id: 27
   title: "Making a case for Carpentries Membership to your institution"
   description: "In 2019 the University of Toronto Libraries received funding from the Chief Librarian Innovation Grant to facilitate training of Carpentries instructors across the University of Toronto. Over the past year we have hosted an in-person instructor training session with 24 researchers, staff and students taking part, many of whom then became instructors for one of the 3 workshops from all 3 carpentries areas.<br><br>This panel includes perspectives from the folks who wrote the proposal, staff and student views on instructor training, and organizers of the carpentries workshops. We'll share what was valuable, challenging, and unexpected about the membership, and we'll open the session up in advance if the community would like to submit questions for the panelists.<br><br>In 2019 the University of Toronto Libraries received funding from the Chief Librarian Innovation Grant to facilitate training of Carpentries instructors across the University of Toronto. Over the past year we have hosted an in-person instructor training session with 24 researchers, staff and students taking part, many of whom then became instructors for one of the 3 workshops from all 3 carpentries areas.<br><br>This panel includes perspectives from the folks who wrote the proposal, staff and student views on instructor training, and organizers of the carpentries workshops. We'll share what was valuable, challenging, and unexpected about the membership, and we'll open the session up in advance if the community would like to submit questions for the panelists."
   subtype: panel
   speakers: [720]
   language: en
 -
-  id: 025
+  id: 28
   title: "Data Harvesting for Agriculture"
   description: "We have developed a two-day workshop inspired by the Carpentries format and experience. Agriculture is an intensely data-driven field, but many farmers, agronomists, and CCAs don’t have computer science backgrounds. In this two-day workshop, researchers from the University of Illinois teach about free tools you can use with your own farm’s data to improve your fertilizer application rates, look at conditions across time, and more. We will discuss the curriculum's background and intent. This work was sponsored by the Center for Digital Agriculture."
   subtype: lightning
   speakers: [721]
   language: en
 -  
-  id: 026
+  id: 29
   title: "Fostering Inclusion, Engagement, and Active Learning in the Virtual Classroom"
   description: "Learning Goals<br>
   - ideas for the development of accessible, adaptable technical solutions.<br>
@@ -201,7 +201,7 @@
   speakers: [722]
   language: en  
 -
-  id: 027
+  id: 30
   title: "Addressing Learner Diversity and Belonging"
   description: "Learning Goals:<br>
   - Appreciate the diversity of learners and the importance of the affective aspect of learning<br>
@@ -213,14 +213,14 @@
   speakers: [722]
   language: en
 -
-  id: 028
+  id: 32
   title: "Online workshops - How to scale up your online workshop to reach 100 learners?"
   description: "16 July 2020: 11h00 UTC<br><br>In the CodeRefinery project we teach tools and practices for collaborative reproducible research software development, following the Carpentries style of teaching and workshop organization. Due to the outbreak of Covid-19, we were forced to cancel several in-person workshops planned in the spring 2020. As The Carpentries started piloting online workshops, we also shifted our gear to hold online workshops. After successful CodeRefinery online workshop with middle-sized cohort of participants (approximately 25 learners on average per day), we held a 'mega' CodeRefinery online workshop where we accepted 120 registrations as both learners and helpers.<br><br>In this panel session, we will present how we ran the workshops including small but critical tactics. (The current plan is that) Organizer, instructor, expert helper, helper, and learner, each of them will present their perspective and discuss our experiences and lessons learned. (Note: If it is difficult to have a panelist for any of the roles, we will try to summarize feedback from those who fall under the role and a lead or co-lead will present on their behalf). This session aims to reach audience that are interested in online workshops and scaling up community, regardless of their roles. We hope that our experiences will provide with some inspiration to the session participants for planning their organization of or participation in workshops.<br><br>We will use HackMD as a platform of questions and answers during the panel session and answer them in the QA session at the end. We used HackMD in the Mega CodeRefinery online workshop and thus hope we could demonstrate some advantages of using HackMD"
   subtype: panel
   speakers: [723]
   language: en
 - 
-  id: 029
+  id: 33
   title: "HPC Carpentry - a way forward"
   description: "At CarpentryCon 2018, the community expressed the will and desire to create a Carpentry-inspired curriculum for teaching new users of High Performance Computing systems how to use such resources effectively. Subsequently the HPC Carpentry GitHub team was created and relevant existing material was repurposed and integrated into a single home. By mid 2020, development in the hpc-carpentry repos has stalled, with only a subset of the original goals met.<br><br>In Europe, there are at least two initiatives that have the potential to provide the human resources to refine and extend the teaching material, but with clear goals of their own derived from their own context. We would like to involve the community in a discussion on how to encourage and integrate such initiatives to help sustain the development of the existing material, and extend it to new topics.<br><br>For this, we propose a breakout session composed of<br>
   - a review of activity to date<br>
@@ -230,63 +230,63 @@
   speakers: [724,725]
   language: en
 - 
-  id: 030
+  id: 34
   title: "Puzzled Pint Social"
   description: "Puzzled Pint (http://www.puzzledpint.com/) is a group that releases a monthly set of puzzles to be done w/ friends over a pint. Puzzles include letter and word games, decoding, and more. Let's get together over a virtual pint, form teams, and solve the July puzzles!"
   subtype: social
   speakers: [726]
   language: en
 - 
-  id: 031
+  id: 35
   title: "CarpentryCon Wrap-Up Listening Session"
   description: "Suggested by Sara El-Gebali - we'd like to create a space for people to offer feedback about CarpentryCon @ Home at the end of the conference."
   subtype: feedback
   speakers: [726]
   language: en
 -
-  id: 032
+  id: 39
   title: "Lesson co-development using reverse design: a worked example"
   description: "In this session, we demonstrate how the constraints of reverse design reduce the uncertainty of a blank page titled 'Lesson 1'. Nowhere does the Carpentries demonstrate the full cycle of instructional design. We propose this workshop - co-developed by two experienced instructors - using this approach. The process of the development of this workshop is documented and shared as the content of the workshop. Attendees will see how learner personas, faded examples, concept maps, formative and summative assessment create requirements for lesson design.<br><br>We provide a worked example of the reverse design process without any assumptions of prior computational knowledge. After the workshop, attendees can combine their experience of the lesson we developed with the process of development, which we share with them, to apply this framework to their own training work."
   subtype: skillup
   speakers: [727]
   language: en
 -
-  id: 033
+  id: 41
   title: "Spyder 4 Carpentries"
   description: "Although Spyder is mentioned in some data carpentry lessons it is not treated with the depth it should be.<br><br>Since Spyder is pre-installed on Anaconda, the platform suggested in some Python's Carpentries lessons, it is worth highlighting the advantages of using this IDE from the point of view of researchers interested in programming.<br><br>This workshop consists of solving a programming problem from a simple to a more finished version by emphasizing Spyder's capabilities for code execution, debugging, profiling, code style, documentation strings, use of the variable browser, and unit testing."
   subtype: skillup
   speakers: [728]
   language: en
 -
-  id: 034
+  id: 42
   title: "Git skills for new and prospective maintainers"
   description: "The current Carpentries git lesson introduces collaboration to learners by adding individuals as a collaborator to the repository. However, this type of collaboration workflow does not scale past more than a couple of collaborators before conflicts become unbearable.<br>Depending on when you joined the carpentries, you may be familar with the forking workflow for collaboration to make a change to an existing lesson but, there is no formal guide to new instructors on how they can learn the skills needed to become a lesson maintainer.<br>As a community of practice, we are always learning, and maintaining our teaching materials need a steady influx of new maintainers to keep our lessons up-to-date.<br><br>This skill-up is an extension to the current software-carpentry Git lesson for those who are thinking about becoming a lesson maintainer and want to learn about the forking-branching-PR skills needed while maintaining lessons. It also supports current and new maintainers who want a more solid foundation for the commands and workflows they are using while maintaining lessons. The skill-up would cover the forking model of collaboration, how to create and merge branches, how to submit pull requests in this collaboration model, and how to edit and update branches before accepting changes for open source projects."
   subtype: skillup
   speakers: [729]
   language: en
 - 
-  id: 035
+  id: 43
   title: "How to Run a Meeting"
   description: "The Carpentries exist so that people don't have to teach themselves how to program, but ironically, most members of the Carpentry community have had to learn how to coordinate groups on their own. This talk lays out ten simple rules for running an effective meeting, and will help you get more done in less time and with less pain."
   subtype: other
   speakers: [730]
   language: en
 - 
-  id: 036
+  id: 46
   title: "Learning Ally Skills"
   description: "Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (https://frameshiftconsulting.com/ally-skills-workshop/)."
   subtype: skillup
   speakers: [701,731]
   language: en
 - 
-  id: 037
+  id: 47
   title: "Executable Research Article: enriching your research paper with code and data"
   description: "Code and data are important research output and integral to a full understanding of research findings and experimental approaches in a paper. However, traditional research articles seldom have these embedded in the manuscript’s narrative, but instead, leave them as 'supplementary materials', if they are openly available.<br><br>With Executable Research Articles (ERAs), eLife's vision is to enrich the traditional narrative of a research article with code, data and interactive figures that can be executed in the browser, downloaded and explored. It will give readers a direct insight into the methods, algorithms and key data behind the published research.<br><br>We realised that to incentivise authors to publish ERAs, we need to make this process of composing and publishing an ERA extremely easy and interoperable with existing authoring tools that our authors use.<br><br>In 3 minutes, I hope show one of the ways our authors can compose an ERA– we'd love to invite members of the Carpentries community to test our tool stack out and offer feedback."
   subtype: lightning
   speakers: [732]
   language: en
 - 
-  id: 038
+  id: 48
   title: "Nordic and Baltic Get Together"
   description: "A great opportunity to meet, reconnect Carpentries community members in Nordic and Baltic countries! We would like to have something between social meetup and breakout discussion
   where we will discuss interesting and useful topics by sharing our experiences. Ideas for topics would include but not limited to:<br>
@@ -301,63 +301,63 @@
   speakers: [723,733]
   language: en
 - 
-  id: 039
+  id: 50
   title: "Library Collaborations and the Carpentries"
   description: "As more libraries get involved with the Carpentries we are seeing exciting collaborations and partnerships develop around Carpentries workshops. Some academic libraries have partnered with other departments on campus to co-fund membership, other academic and public libraries have worked with their regional partners to create more formal Carpentries consortia, and others are building informal teaching networks that bridge different types of libraries. The new virtual teaching environment is also reducing barriers to collaboration and opening up new opportunities for co-teaching across institutional and regional boundaries. These partnerships can be a way to reduce workshops costs and teaching burnout, and create more sustainable teaching and learning networks.<br><br>This breakout session will give librarians and library staff from academic, public, and special libraries a chance to share their successes collaborating on all kinds of Carpentries workshops. We will also brainstorm new ways in which we might build viable Carpentry networks in our communities."
   subtype: breakout
   speakers: [734]
   language: en
 - 
-  id: 040
+  id: 51
   title: "Library Carpentry Wikidata lesson sprint"
   description: "14 July 2020: 10h00 - 16h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
   subtype: breakout
   speakers: [735]
   language: en
 - 
-  id: 041
+  id: 49
   title: "Introduction to the Library Carpentry Wikidata Lesson"
   description: "The Library Carpentry Wikidata lesson aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this lightning talk we would like to give a short overview to the lesson and collect feedback for further improvements."
   subtype: lightning
   speakers: [735]
   language: en
 - 
-  id: 041
+  id: 53
   title: "Understanding Math concepts better by using Programming"
   description: "I will be talking about how easy it is simulating difficult mathematical concepts with programming.The talk will show how the process of simulating it helps in understanding. I will be using Monty Hall as an example and walk through its program. This talk is targeted towards programmers."
   subtype: lightning
   speakers: [736]
   language: en
 - 
-  id: 042
+  id: 54
   title: "Library Carpentry FAIR Data & Software Lesson Sprint"
   description: "The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
-  subtype: lightning
+  subtype: sprint
   speakers: [737]
   language: en
 - 
-  id: 043
+  id: 55
   title: "Identifying Opportunities for Inclusive Language in Carpentries Workshops"
   description: "This lightning talk highlights the ongoing work being done among Carpentries instructors at Carnegie Mellon University Libraries to encourage inclusive language in data science and data management education. We expand upon existing training for Carpentries instructors which encourages us to avoid the use of “simple” and “easy” in our instruction, and offer additional considerations for inclusive language that is mindful of neurodiversity/neurodivergence, institutional access to resources, religion, and socioeconomic situations. “Best Practices” in data science and data management education often assume the researcher is operating at a baseline socioeconomic level, with access to certain institutional services, and having certain cognitive and physical abilities. Using a “calling in” approach, we identify opportunities within “Best Practices” to use compassionate language and considerations for accessibility. As a lightning talk, we will focus our three minutes on providing succinct examples of inclusive language opportunities, and provide the audience with information for learning more and getting involved in our efforts. <br><br>The target audience for this lightning talk is anyone who teaches (or hopes to teach) Carpentries workshops and wants to incorporate more inclusive language into their curriculum that is mindful of the many lenses through which a learner approaches their data science education. With this lightning talk, we hope to gather a network of interested individuals who would like to further collaborate with CMU Libraries on creating blueprints for more inclusive data science and data management education, as well as inspire current and future Carpentries instructors to use inclusive language in their workshops."
   subtype: lightning
   speakers: [738]
   language: en
 - 
-  id: 044
+  id: 56
   title: "Carpentries Instructor Experiences of Teaching Online"
   description: "The Carpentries Core Team will be inviting experienced instructors who have ran Carpentries workshops online so far to share their experiences in a themed discussion format. This platform will also allow instructors to share ideas and ask questions related to teaching online workshops. The discussion will take place over two timeslots allowing instructors from various time zones the opportunity to attend the breakout session."
   subtype: breakout
   speakers: [739]
   language: en
 - 
-  id: 045
+  id: 57
   title: "Challenges and opportunities in transitioning meetings online"
   description: "We value scientific meetings because they provide opportunities to interact with our colleagues to share our research, build our skills, and launch new collaborations. Because of the value placed on these gatherings, conference organizers have been reluctant during the pandemic to cancel scheduled meetings and instead have gone through great lengths to quickly pivot to online formats to continue to meet the needs of their community members. In moving to online platforms, conference organizers can no longer default to traditional in-person practices, which can be exclusive to participants who may already feel marginalized in their communities. Rather, organizers can be proactive about innovating inclusive conference practices. In this breakout discussion, we’ll share challenges in planning meetings, how we can turn these challenges into opportunities, and benefits of transitioning to virtual meetings."
   subtype: breakout
   speakers: [740]
   language: en
 -
-  id: 046
+  id: 60
   title: "Building Data Communities"
   description: "In order to support the use of data in various contexts, it is important to have champions who demonstrate the value of tools, shepherd new users, and provide support to those learning to use data. In this talk, I’ll cover my experiences with data community building and share strategies from open source communities. I’ll discuss the value of the data community builder and their role within / outside of institutions for encouraging uptake of technical tools. Some of the skills needed for these roles may not be what you think: building relationships, being empathetic toward use cases (and users!), organizing events, teaching effectively, and setting strategy for expanding data networks, among others. This is a shortened version of the csv,conf I gave linked here: bit.ly/2020-05-csvconf"
   subtype: lightning
