@@ -68,3 +68,33 @@
         endTime: "24:00",
         sessionIds: [404,022,027, 044, 404]
     }
+- 
+  date: "2020-07-26"
+  dateReadable: "CarpentryCon Week 3"
+  tracks: 
+    - {title: "Mon, July 26", color: "#4be44a"}
+    - {title: "Tue, July 27", color: "#9a30f4"}
+    - {title: "Wed, July 28", color: "#6e9e63"}
+    - {title: "Thur, July 29", color: "#03a9f4"}
+    - {title: "Fri, July 30", color: "#e41e63"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "12:00",
+    	sessionIds: [404,404,036, 009, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "16:00",
+        sessionIds: [016, 001, 039,404, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "20:00",
+    	sessionIds: [404,404,404, 014, 404]
+    }
+    - {
+      startTime: "20:00",
+      endTime: "24:00",
+      sessionIds: [013,404,404, 404, 030]
+    } 
