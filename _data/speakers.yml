@@ -1,0 +1,530 @@
+- 
+  id: 000
+  name: "Kari"
+  surname: "L. Jordan"
+  company: "The Carpentries"
+  title: "Executive Director"
+  bio: "Dr. Kari L. Jordan studied mechanical engineering at Michigan Technological University. Her doctoral research explored self-efficacy of underrepresented engineering students. After completing a post-doc in the Engineering Fundamentals Department at Embry-Riddle Aeronautical University, she was hired to lead Data Carpentry’s Assessment Efforts. She currently serves as Wxecutive Director for The Carpentries. Kari enjoys running the Engineer Like a Girl after-school program in her free time, and teaching Zumba fitness."
+  thumbnailUrl: KariJordan.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/drkariljordan"}
+    - {name: "github", link: "https://github.com/kariljordan"}
+- 
+  id: 700
+  name: "François"
+  surname: "Michonneau"
+  company: "The Carpentries"
+  title: "Senior Director of Technology"
+  bio: "François is the Senior Director of Technology at The Carpentries. As member of the Infrastructure and Curriculum Teams, he enjoys developing tools that helps beginners learn. He enjoys teaching R and the tidyverse to learners with little or no programming experience. When you meet him, you can talk about best teaching practices, reproducibility, marine biodiversity (data), and/or sea cucumbers."
+  thumbnailUrl: FrancoisMichonneau.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fmic_"}
+    - {name: "github", link: "https://github.com/fmichonneau"}  
+- 
+  id: 701
+  name: "Malvika"
+  surname: "Sharan"
+  company: "The Turing Way project, Turing Institute"
+  title: "Community Manager"
+  bio: "Malvika Sharan is passionate about enabling collaborative culture, mentorship and inclusive practices in data science. Malvika is also co-founder of the Open Life Science project and serves on the Open Bioinformatics Foundation (OBF) Board. "
+  thumbnailUrl: MalvikaSharan.png
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
+    - {name: "github", link: "https://github.com/MalvikaSharan"}
+- 
+  id: 702
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Indian Institute of Technology Kanpur"
+  thumbnailUrl: RohitGoswami.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"} 
+- 
+  id: 703
+  name: "Bianca"
+  surname: "Peterson"
+  company: "North-West University, South Africa"
+  title: "Researcher and Post-doctoral fellow: Pharmaceutics"
+  bio: "Bianca obtained her doctoral degree in Environmental Sciences (Molecular Biology) at the department of Microbiology, North-West University (NWU), Potchefstroom, in August 2017. She is currently a post-doctoral research associate at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen™), NWU, Potchefstroom under the supervision of Professor J.D. Steyn, where she conducts data analyses. Part of her post-doctoral responsibilities entail guidance, supervision and mentoring of undergraduate and post-graduate students. Furthermore, she is the director and trainer of Conquest Analytics and Training, which is a consulting company specialising in data analysis and data skills training. She is passionate about research (specifically genetics) and teaching foundational computational skills. She believes that the extraordinary advancement of technology, particularly in Life Sciences, has made bioinformatics skills crucial to ensure people acquire the necessary skills and competencies to survive and contribute to the rapidly changing society. As a result, she certified as a Carpentries instructor in 2016, teaching foundational computational skills at 2-day hands-on workshops. She then attended the first CODATA-RDA Research Data Science Summer School in Trieste, Italy, in 2016, and returned in 2017 as a helper. She taught at the first South African Summer School in January 2020, and joined the Summer School Working Group as a co-chair to help strategise, co-organise and co-teach and these Summer Schools worldwide and help to develop the train-the-trainer model. "
+  thumbnailUrl: BiancaPeterson.jpg
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
+      - {name: "github", link: "http://github.com/BinxiePeterson"}
+- 
+  id: 704
+  name: "Mateusz"
+  surname: "Kuzak"
+  company: "eScience Center"
+  title: "Community Manager"
+  bio: "Mateusz is a Community Manager at the Netherlands eScience Center where he coordinates the training program and supports communities around research software and reproducible and open science. Mateusz co-leads Software Development Best Practices Working Group in ELIXIR Europe and is the Carpentries trainer, instructor, mentor and former Executive Council member. Before joining the Center, Mateusz made the whole journey from the wet lab, using microscopy to study cell biophysics, through bioinformatics to Research Software Engineering and Scientific Community Management. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
+  thumbnailUrl: MateuszKuzak.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/matkuzak"}
+    - {name: "github", link: "https://github.com/mkuzak"}
+- 
+  id: 706
+  name: "Kay"
+  surname: "Bjornen"
+  company: "Oklahoma State University, USA"
+  title: "Visiting Assistant Professor"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BjornenKay"}
+    - {name: "github", link: "https://github.com/kbjornen"}
+- 
+  id: 707
+  name: "David"
+  surname: "Selassie Opoku"
+  title: "Data Scientist"
+  thumbnailUrl: DavidOpoku.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/sdopoku"}
+    - {name: "github", link: "https://github.com/sdopoku"}  
+- 
+  id: 708
+  name: "Lilly"
+  surname: "Winfree"
+  company: "Frictionless Data, Open Knowledge Foundation"
+  title: "Product Owner"
+  bio: "Lilly is the product manager for the Frictionless Data for Reproducible Research open source project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Outside of work, you'll find her hanging out with her dogs, running, baking, eating tacos, or reading sci-fi."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lilscientista"}
+    - {name: "github", link: "https://github.com/lwinfree"}  
+- 
+  id: 709
+  name: "Pablo"
+  surname: "Bernabeu"
+  company: "Lancaster University, United Kingdom"
+  title: "Psychology PhD student and teaching assistant"
+  bio: "After doing a research masters, Pablo became a PhD student and graduate teaching assistant in Psychology. Pablo is investigating how conceptual processing (i.e., understanding the meaning of words) is supported by linguistic and sensorimotor brain systems. He has used methods such as behavioural and electroencephalographic experiments, corpus analysis, statistics and programming."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "site", link: "http://pablobernabeu.github.io/"}
+    - {name: "github", link: "https://github.com/pablobernabeu"} 
+-
+  id: 710
+  name: "Sara"
+  surname: "El-Gebali"
+  company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  title: "Founder"
+  bio: "Dr. Sara El-Gebali is the team leader for the research data management group at the Max Delbrück Center for Molecular Medicine in Berlin and the founder of OpenCider (Open Computational Inclusion and Digital Equity Resource) https://selgebali.gitbook.io/opencider/ . Before joining the MDC, she was a scientific database curator at the European Molecular Biology Laboratories (EMBL)-EBI and EMBO and my background is in cancer biology. She is a strong advocate for community building, inclusive spaces and the promotion of women and underrepresented minorities in STEM and open research."
+  thumbnailUrl: SaraElGebali.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
+-
+  id: 711
+  name: "Luca"
+  surname: "Di Stasio"
+  company: "Luleå University of Technology, Sweden"
+  title: "Post-doctoral Researcher & Professional Engineer"
+  bio: "Luca Di Stasio is a Professional Engineer (Italian License, 2013). He completed a Ph.D. in Polymeric Composite Materials at Luleå University of Technology (2019) and a Ph.D. in Materials Science at Université de Lorraine (2019). Luca earned a M.Sc. in Space Engineering from Politecnico di Milano (2013); a M.Sc. in Mechanical Engineering from Drexel University (2012); a B.Sc. in Aerospace Engineering from Politecnico di Milano (2010). To know more about Luca visit http://www.lucadistasioengineering.com."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lucadistasio"}
+    - {name: "github", link: "https://github.com/LucaDiStasio"}
+-
+  id: 712
+  name: "Olalekan"
+  surname: "J. Akintande"
+  company: "University of Ibadan, Nigeria"
+  title: "PhD student and Research Assistant "
+  bio: "Olalekan Joseph Akintande is a PhD student and Research Assistant at Department of Statistics, University of Ibadan- Laboratory for Interdisciplinary Statistical Analysis."
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aojsoft/"}
+    - {name: "github", link: "https://github.com/aojsoft4real"}
+-
+  id: 713
+  name: "Arindam"
+  surname: "Basu"
+  company: "University of Canterbury, New Zealand"
+  title: "Doctor, Professor of Epidemiology, and  Evidence based health"
+  bio: "Arindam Basu is an Associate Professor in Public Health (Environmental Health and Health Services Research)."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/arinbasu"}
+    - {name: "github", link: "https://github.com/arinbasu"}
+-
+  id: 714
+  name: "Kate"
+  surname: "Hertweck"
+  company: "Fred Hutchinson Cancer Research Center"
+  title: "Bioinformatics Training Manager"
+  bio: "Kate Hertweck is the bioinformatics training manager at Fred Hutchinson Cancer Research Center, where they develop and teach courses on reproducible computational methods as a part of fredhutch.io. Kate's graduate training at University of Missouri in genomic evolution of plants was followed by a postdoctoral fellowship at the National Evolutionary Synthesis Center (NESCent) at Duke University, where they fell in love with R and began working exclusively in computational biology. Kate then spent four years as an assistant professor teaching bioinformatics, genomics, and plant taxonomy before transitioning to biomedical research training. Kate has been involved in The Carpentries, a non-profit organization that teaches reproducible computational methods, since 2014, serving as a leader in community governance since 2016. When not being an overenthusiastic instructor, Kate likes to spend their time doing fiber arts (knitting, crochet) and enjoying all things science fiction. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/k8hert"}
+    - {name: "github", link: "https://github.com/k8hertweck"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/katehertweck/"}
+-
+  id: 715
+  name: "Cody"
+  surname: "Hennesy"
+  company: "University of Minnesota"
+  title: "Librarian"
+  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring 'Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis' for ACRL’s forthcoming Copyright Conversations (2019). "
+  thumbnailUrl: CodyHennesy.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
+    - {name: "github", link: "https://github.com/chennesy"}
+-
+  id: 717
+  name: "Sarah"
+  surname: "Brown"
+  company: "Brown University, USA"
+  title: "Postdoctoral researcher"
+  bio: "I am a Data Science Initiative Postdoc at Brown University affiliated to the Division of Applied Mathematics and hosted by Professor Bjorn Sandstede. Previously, I completed a Chancellor’s Postdoctoral Fellow in Computer Science at the University of California, Berkeley with faculty mentor Professor Mike Jordan. I completed a BS in Electrical Engineering with a minor in Biomedical Engineering in 2011 a MS in Electrical and Computer Engineering and a PhD in Electrical Engineering in 2016 advised by Jennifer Dy both at Northeastern University. My graduate studies were supported by a Draper Laboratory Fellowship and a National Science Foundation Graduate Research Fellowship. My other professional activities include teaching computational data analysis skills to researchers with The Carpentries and serving as the treasurer emeritus on the Women in Machine Learning, Inc Senior Advisory Council. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/brownsarahm"}
+    - {name: "github", link: "https://github.com/brownsarahm"}
+    - {name: "site", link: "http://sarahmbrown.org/"}
+-
+  id: 718
+  name: "David"
+  surname: "Pérez-Suárez"
+  company: "Research IT Services, University College London"
+  title: "Research Software Engineer"
+  bio: "I am David, a senior research software developer at RITS - UCL. I used to be a solar physicist and I've been always interested in open science and better software practice. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/DVDGC13"}
+    - {name: "github", link: "https://github.com/dpshelio"}
+    - {name: "site", link: "http://dpshelio.github.io/"}
+-
+  id: 719
+  name: "Paula"
+  surname: "A. Martinez"
+  company: "National Imaging Facility, Australia"
+  title: "National Training Coordinator"
+  bio: "My name is Paula Andrea Martinez. I have a background in Computer Sciences a Masters in Bioinformatics. I completed my PhD in Applied Bioinformatics in 2016 with a focus on analysing genomic diversity with computational methods. I have been a bioinformatician and a trainer of computational skills and data management best practices, for the last three years. I am now part of a national project delivering and coordinating training for the Characterisation Community. The Australian Research Data Commons (ARDC) funds this project and I work with 10 Universities around Australia. The project lead team is at Monash University and I work from the University of Queensland as part of the National Imaging Facility (NIF central). "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Executive Council", title: "Carpentries Executive Council", url: "https://carpentries.org/governance/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/orchid00"}
+    - {name: "github", link: "https://github.com/orchid00"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pambio/"}
+-
+  id: 720
+  name: "Jordan"
+  surname: "Pedersen"
+  company: "University of Toronto Libraries, Canada"
+  title: "Metadata Librarian"
+  bio: "Jordan Pedersen is Metadata Librarian at the University of Toronto Libraries, a certified Carpentries Instructor and a recent graduate from the Master of Information program at the University of Toronto’s iSchool. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/JordanPedersen"}
+    - {name: "site", link: "https://jordanpedersen.com"}
+-
+  id: 721
+  name: "Neal"
+  surname: "E. Davis"
+  company: "University of Illinois, USA"
+  title: "Teaching Assistant Professor, Computer Science"
+  bio: "Neal E. Davis is a Teaching Assistant Professor, Computer Science at the University of Illinois. Neal received his PhD in 2013 from the Department of Nuclear, Plasma, and Radiological Engineering at the University of Illinois. His doctoral research involved the simulation of uranium surface chemistry using density functional theory and kinetic Monte Carlo modeling. He also studied chemical engineering and high-performance computing. Davis has worked with the Computational Science and Engineering program at the University of Illinois on developing, promoting, and teaching best practices for engineering and scientific software. He has also worked closely with Software Carpentry since 2013, teaching open science techniques, reproducibility, and task automation to domain researchers. At CS @ ILLINOIS, he continues to promote the communication of key software development concepts and technical best practices between the engineering and computer science communities. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/davis68"}
+-
+  id: 722
+  name: "Melissa"
+  surname: "Ko"
+  company: "Stanford University, USA"
+  title: "Lecturer and Researcher"
+  bio: "My goal is to support equity in student learning, especially in STEM fields, whether that be through direct teaching/mentoring or supporting other educators and educational programs. <br><br>I am currently a full-time lecturer for the Thinking Matters Program at Stanford University. In this role, I teach courses on cryptography, viruses, human genomes, and cancer from a scientific, ethical, and societal standpoint. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/mesako"}
+    - {name: "site", link: "https://mesako.github.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mesako/"}
+-
+  id: 723
+  name: "Naoe"
+  surname: "Tatara"
+  company: "Code Refinery, Norway."
+  title: "Regional Coordinator"
+  bio: "Naoe Tatara is a regional coordinator of CodeRefinery and Carpentries for Nordic countries, based in Oslo. Naoe has worked for a long time as an interdisciplinary researcher mainly in the field of design and development of technology for personal health (eHealth). Naoe has a high interest in interaction between human and technology, user experience, and universal design of ICT. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Regional Coordinator", title: "Carpentries Regional Coordinator, Nordic Countries", url: "https://carpentries.org/regionalcoordinators/"}
+  social: 
+    - {name: "github", link: "https://github.com/naoe-tatara"}
+    - {name: "twitter", link: "https://twitter.com/naoetatara"}
+-
+  id: 724
+  name: "Alan"
+  surname: "O'Cais"
+  company: "Jülich Supercomputing Centre (JSC), Germany"
+  title: "E-CAM Software Manager"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/ocaisa"}
+-
+  id: 725
+  name: "Peter"
+  surname: "Steinbach"
+  company: "Helmholtz-Zentrum Dresden-Rossendorf, Germany"
+  title: "Helmholtz AI Consultants Team Lead for Matter Research"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/psteinb"}
+    - {name: "twitter", link: "https://twitter.com/psteinb_"}
+-
+  id: 726
+  name: "Christina"
+  surname: "Koch"
+  company: "Center for High Throughput Computing (CHTC), Wisconsin, USA"
+  title: "Research Computing Facilitator"
+  bio: ""
+  thumbnailUrl: ChristinaKoch.jpg
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organising Co-chair", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "site", link: "http://christinalk.github.io"}
+    - {name: "github", link: "https://github.com/ChristinaLK"}
+    - {name: "twitter", link: "https://twitter.com/_christinaLK"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/christina-koch-53ba9b6a"}
+-
+  id: 727
+  name: "Darya"
+  surname: "Vanichkina"
+  company: "Sydney Informatics Hub, Australia"
+  title: "Data Analytics Trainer and Data Scientist "
+  bio: "Hi! I’m Darya, a Data Scientist & Professional Educator. I work at the University of Sydney’s Informatics Hub as a data science consultant, supporting researchers from across the university by solving their big (and not-so-big) data problems. I also coordinate SIH’s data science training program, where I mentor staff in best teaching practices, develop and deliver advanced analytics training for researchers.<br><br>I’m passionate about using data to understand the world, and love solving real problems using data science, machine learning, statistics and high-performance/cloud computing. I’ve had a lot of amazing opportunities in my life, and my way of giving back to the universe for them is to train and teach.<br><br>I’m proud to be a Software and Data Carpentry Instructor, Maintainer, Curriculum Contributor, and Mentor, and am passionate about enabling reproducible research using open source tools. I’m also an RStudio certified trainer; reach out to me here if you’re interested in custom corporate training."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://www.daryavanichkina.com"}
+    - {name: "github", link: "https://github.com/dvanic"}
+    - {name: "twitter", link: "https://twitter.com/dvanichkina"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/daryavanichkina"}
+-
+  id: 728
+  name: "Francisco"
+  surname: "Palm"
+  company: "Spiralia, Venezuela"
+  title: "Data Scientist"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://map0logo.github.io"}
+    - {name: "github", link: "https://github.com/map0logo"}
+    - {name: "twitter", link: "https://www.twitter.com/mapologo"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/fpalm"}
+-
+  id: 729
+  name: "Daniel"
+  surname: "Chen"
+  company: "Virginia Tech, USA"
+  title: "PhD Student"
+  bio: "I am a PhD student at Virginia Tech (VT) in Genetics, Bioinformatics, and Computational Biology ( GBCB ) working with Anne Brown and DataBridge studying data science education and pedagogy for medicial practitioners. Former RStudio intern working on the gradethis package. <br>Arch Linux user maintaining the RStudio Preview , nteract , and Rodeo packages in the AUR . <br>Author of Pandas for Everyone .Enjoys: photography , curling, snowboarding, and scuba diving into caves."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Maintainer", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "site", link: "http://chendaniely.github.io/"}
+    - {name: "github", link: "https://github.com/chendaniely"}
+    - {name: "twitter", link: "https://twitter.com/chendaniely"}
+-
+  id: 730
+  name: "Greg"
+  surname: "Wilson"
+  company: "RStudio, Canada"
+  title: "Educator"
+  bio: "I left academia in 2010 and spent the next seven years building Software Carpentry into a non-profit organization that helps thousands of researchers worldwide every year. I also helped organize a summit meeting of grassroots groups trying to improve inclusion and diversity in the tech sector, edited a book on evidence-based software engineering and a series on software architecture, and wrote some more children’s books.<br><br>I left Software Carpentry in January 2017, and after a brief stints with Rangle.io (sponsors of the wonderful Bridge program) and DataCamp (which ended badly), I am now in the Education group at RStudio, makers of a world-class IDE and other fine tools. My main responsibility is RStudio’s instructor training and certification program, but my job gives me a chance to do a lot of other things, including a book called Teaching Tech Together and another on JavaScript for data scientists. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://third-bit.com/"}
+    - {name: "github", link: "https://github.com/gvwilson"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/greg-wilson-a26510b6/"}
+-
+  id: 731
+  name: "Yo"
+  surname: "Yehudi"
+  company: "Intermine, United Kingdom"
+  title: "Open Source Developer"
+  bio: "I'm Yo Yehudi, a software engineer at InterMine, an open source biological data platform at the University of Cambridge. I'm comfortable coding full stack, but my favourite bit of all is the place software intersects with people: the User Interface. Mockups, codes, and user testing are my bread and butter. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "site", link: "http://yo-yehudi.com/"}
+    - {name: "github", link: "https://github.com/yochannah"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yoyehudi"}
+    - {name: "twitter", link: "https://twitter.com/yoyehudi"}
+-
+  id: 732
+  name: "Emmy"
+  surname: "Tsang"
+  company: "eLife, United Kingdom"
+  title: "Innovation Community Manager"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/emmyft"}
+    - {name: "twitter", link: "http://twitter.com/emmy_ft"}
+-
+  id: 733
+  name: "Annika"
+  surname: "Rockenberger"
+  company: "University of Oslo Library"
+  title: "Research Data Management Advisor"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/arockenberger"}
+    - {name: "site", link: "http://www.annikarockenberger.com"}
+-
+  id: 734
+  name: "Ariel"
+  surname: "Deardorff"
+  company: "University of California San Francisco Library"
+  title: "Data Services Librarian"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/arockenberger"}
+    - {name: "site", link: "http://www.annikarockenberger.com"}
+-
+  id: 735
+  name: "Konrad"
+  surname: "Förstner"
+  company: "ZB MED, Germany"
+  title: "Data Services Librarian"
+  bio: "I am a researcher in the field of in bioinformatics / computational biology / systems biology. My methodical focus is the integration and interpretation of large data sets - mainly generated using high-throughput sequencing technologies but also text corpora - with the aim to translate them into biological and medical insights. As part of that I am advocating open science with all its facetes (data, publications, source code of research software, educational resources, publication metrics etc.) and am active in several groups/communities promoting this."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Executive Council", title: "Carpentries Executive Council", url: "https://carpentries.org/governance/"}
+  social: 
+    - {name: "github", link: "https://github.com/konrad"}
+    - {name: "site", link: "http://konrad.foerstner.org/"}
+    - {name: "twitter", link: "https://twitter.com/konradfoerstner"}
+-
+  id: 736
+  name: "Unnati"
+  surname: "Patel"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/unna97"}
+    - {name: "site", link: "https://unna97.github.io"}
+-
+  id: 737
+  name: "Kristina"
+  surname: "Hettne"
+  company: "Leiden University Libraries"
+  title: "Digital Scholarship Librarian"
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/kmhettne"}
+    - {name: "site", link: "https://www.universiteitleiden.nl/en/staffmembers/kristina-hettne#tab-1"}
+-
+  id: 738
+  name: "Hannah C."
+  surname: "Gunderman"
+  company: "Carnegie Mellon University Libraries"
+  title: "Research Data Management Consultant"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/hannahcgunderman"}
+-
+  id: 739
+  name: "Angelique"
+  surname: "van Rensburg"
+  company: "The Carpentries"
+  title: "Regional Consultant for Southern Africa"
+  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries and an Extraordinary Researcher at Optentia Research Focus Area,  North-West University, Vaal Triangle Campus.<br><br>Angelique has also collaborated in the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa). Angelique has worked jointly with the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa)"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/elletjies"}
+    - {name: "twitter", link: "https://twitter.com/AngvanRensburg"}
+    - {name: "site", link: "http://www.angeliquevanrensburg.com/"}
+-
+  id: 740
+  name: "Emily A."
+  surname: "Lescak"
+  company: "Code for Science and Society"
+  title: "Data Science Community Conference and Events Fund Program Manager "
+  bio: "Dr. Emily Lescak is the Data Science Community Conference and Events Fund Program Manager at Code for Science and Society, where she has developed a grants program to support events that promote inclusive practices and broaden participation in research-driven open data science communities. She has nearly 10 years of experience working in research data science focused on population genetics, evolution, and management of Alaskan fish populations. Emily has a strong background in mentoring and leadership in science advocacy initiatives."
+  thumbnailUrl: EmilyLescak.jpeg
+  social: 
+    - {name: "github", link: "https://github.com/ealescak"}
+    - {name: "twitter", link: "https://twitter.com/elescak"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elescak"}
+-
+  id: 741
+  name: "Angela"
+  surname: "Li"
+  company: "GeoDa Center, University of Chicago, USA"
+  title: "Spatial data science/education"
+  bio: "I’m currently working as the R Spatial Advocate for the Center for Spatial Data Science at UChicago. Most recently, I did data science for transit at TransLoc and wrote a spatial econometrics thesis on the Detroit housing market. I am also Maintainer Community Lead for The Carpentries."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Maintainer Community Lead", title: "Carpentries Maintainer Community Lead", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/angela-li"}
+    - {name: "twitter", link: "https://twitter.com/CivicAngela"}
+    - {name: "site", link: "http://angela-li.github.io/"}
+
+
+
+    
+  
+      
+  
+      
+      
+   
+    
+  
+    
+    
+  
+
+  

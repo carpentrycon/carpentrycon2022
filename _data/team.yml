@@ -10,14 +10,13 @@
     - {name: "github", link: "http://github.com/sheraaronhurt"}
 - 
   id: 1
-  name: "Elizabeth"
-  surname: "Williams"
+  name: "Omar"
+  surname: "Khan"
   title: "Staff Liaison"
-  thumbnailUrl: ElizabethWilliams.jpg
+  thumbnailUrl: OmarKhan.jpg
   staff: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
-    - {name: "github", link: "https://github.com/elizabethwilliams8"}
+    - {name: "github", link: "https://github.com/kmomar"}
 - 
   id: 2
   name: "Serah"
@@ -455,6 +454,80 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/laufers"}
     - {name: "github", link: "https://github.com/laufers"}
+    
+- 
+  id: 80
+  name: "Malvika"
+  surname: "Sharan"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: MalvikaSharan.png
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
+    - {name: "github", link: "https://github.com/MalvikaSharan"}
+- 
+  id: 81
+  name: "Mike"
+  surname: "Trizna"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: Carpentries.png
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+- 
+  id: 82
+  name: "Mateusz"
+  surname: "Kuzak"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: MateuszKuzak.jpeg
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/matkuzak"}
+    - {name: "github", link: "https://github.com/mkuzak"}
+- 
+  id: 83
+  name: "Jesse"
+  surname: "Lambertson"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: JesseLambertson.jpg
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jlibraryist"}
+    - {name: "github", link: "https://github.com/jyssy"}    
+- 
+  id: 85
+  name: "Dan"
+  surname: "Kerchner"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: Carpentries.png
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    
+- 
+  id: 85
+  name: "Sara"
+  surname: "El-Gebali"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: SaraElGebali.jpg
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
+    
+- 
+  id: 85
+  name: "Jason"
+  surname: "Williams"
+  title: "CarpentryCon @ Home Organiser"
+  thumbnailUrl: JasonWilliams.png
+  cchomeorganiser: true 
+  social: 
+    - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
+    - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
+
 - 
   id: 100
   name: "We Need"
