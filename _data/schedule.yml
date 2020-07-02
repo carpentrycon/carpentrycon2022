@@ -81,12 +81,12 @@
     - {
     	startTime: "08:00",
     	endTime: "12:00",
-    	sessionIds: [404,404,46, 59, 404]
+    	sessionIds: [404,59,46, 404, 404]
     }
     - {
       startTime: "12:00",
       endTime: "16:00",
-      sessionIds: [26, 37, 50,404, 404]
+      sessionIds: [26, 37, 50,52, 404]
     }
     - {
     	startTime: "16:00",
