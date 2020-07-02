@@ -67,7 +67,7 @@
   surname: "Kuzak"
   company: "eScience Center"
   title: "Community Manager"
-  bio: "Mateusz obtained his master degree in Biotechnology with specialization Biophysics, at the Jagiellonian University, Krakow, Poland. He used live-cell imaging techniques and fluorescence confocal microscopy to study the dynamics and structure of the cell nucleus. In 2010, he moved to Amsterdam and worked at the RNA Biology & Applied Bioinformatics Unit at the University of Amsterdam in the Virtual Laboratory for Plant Breeding project as a scientific programmer. Mateusz worked there on the development of the web based interactive visualization for allelic variation in crop plants and on next-generation sequencing data analysis. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
+  bio: "Mateusz is a Community Manager at the Netherlands eScience Center where he coordinates the training program and supports communities around research software and reproducible and open science. Mateusz co-leads Software Development Best Practices Working Group in ELIXIR Europe and is the Carpentries trainer, instructor, mentor and former Executive Council member. Before joining the Center, Mateusz made the whole journey from the wet lab, using microscopy to study cell biophysics, through bioinformatics to Research Software Engineering and Scientific Community Management. Full bio: https://www.esciencecenter.nl/team/mateusz-kuzak-msc/"
   thumbnailUrl: MateuszKuzak.jpeg
   ribbon: 
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
