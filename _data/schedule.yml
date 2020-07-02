@@ -16,12 +16,12 @@
     - {
         startTime: "12:00",
         endTime: "16:00",
-        sessionIds: [404, 040, 010,404, 404]
+        sessionIds: [000, 040, 010,404, 404]
     }
     - {
     	startTime: "16:00",
     	endTime: "20:00",
-    	sessionIds: [000,404,044, 009, 404]
+    	sessionIds: [404,404,044, 009, 404]
     }
     - {
         startTime: "20:00",
@@ -147,4 +147,39 @@
     	startTime: "16:00",
     	endTime: "20:00",
     	sessionIds: [404, 012, 404, 404, 404]
+    }
+- 
+  date: "2020-08-16"
+  dateReadable: "CarpentryCon Week 6"
+  tracks: 
+    - {title: "Mon, Aug 16", color: "#4be44a"}
+    - {title: "Tue, Aug 17", color: "#9a30f4"}
+    - {title: "Wed, Aug 18", color: "#6e9e63"}
+    - {title: "Thur, Aug 19", color: "#03a9f4"}
+    - {title: "Fri, Aug 20", color: "#e41e63"}
+  timeslots:
+    - {
+    	startTime: "00:00",
+    	endTime: "04:00",
+    	sessionIds: [404,404,404, 042, 404]
+    }
+    - {
+    	startTime: "04:00",
+    	endTime: "08:00",
+    	sessionIds: [404,404,404, 042, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "16:00",
+        sessionIds: [404, 404, 033, 042, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "20:00",
+    	sessionIds: [404,003,404, 404, 404]
+    }
+    - {
+      startTime: "20:00",
+      endTime: "24:00",
+      sessionIds: [026,404,404, 404, 404]
     }
