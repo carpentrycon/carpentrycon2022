@@ -128,3 +128,23 @@
         endTime: "24:00",
         sessionIds: [404,404,015, 404, 404]
     } 
+- 
+  date: "2020-08-09"
+  dateReadable: "CarpentryCon Week 5"
+  tracks: 
+    - {title: "Mon, Aug 9", color: "#4be44a"}
+    - {title: "Tue, Aug 10", color: "#9a30f4"}
+    - {title: "Wed, Aug 11", color: "#6e9e63"}
+    - {title: "Thur, Aug 12", color: "#03a9f4"}
+    - {title: "Fri, Aug 13", color: "#e41e63"}
+  timeslots:
+    - {
+        startTime: "12:00",
+        endTime: "16:00",
+        sessionIds: [001, 024, 034,011, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "20:00",
+    	sessionIds: [404, 012, 404, 404, 404]
+    }
