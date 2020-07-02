@@ -14,9 +14,9 @@
     	sessionIds: [404,040,404, 028, 404]
     }
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [000, 040, 010,404, 404]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [000, 040, 010,404, 404]
     }
     - {
     	startTime: "16:00",
@@ -24,9 +24,9 @@
     	sessionIds: [404,404,044, 009, 404]
     }
     - {
-        startTime: "20:00",
-        endTime: "24:00",
-        sessionIds: [000,404,404, 404, 404]
+      startTime: "20:00",
+      endTime: "24:00",
+      sessionIds: [000,404,404, 404, 404]
     }
 - 
   date: "2020-07-19"
@@ -64,9 +64,9 @@
     	sessionIds: [007,021,404, 404, 404]
     }
     - {
-        startTime: "20:00",
-        endTime: "24:00",
-        sessionIds: [404,022,027, 044, 404]
+      startTime: "20:00",
+      endTime: "24:00",
+      sessionIds: [404,022,027, 044, 404]
     }
 - 
   date: "2020-07-26"
@@ -84,9 +84,9 @@
     	sessionIds: [404,404,036, 009, 404]
     }
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [016, 001, 039,404, 404]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [016, 001, 039,404, 404]
     }
     - {
     	startTime: "16:00",
@@ -114,9 +114,9 @@
     	sessionIds: [404,023,404, 404, 404]
     }
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [017, 014, 404,008, 038]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [017, 014, 404,008, 038]
     }
     - {
     	startTime: "16:00",
@@ -124,9 +124,9 @@
     	sessionIds: [404,404,045, 035, 404]
     }
     - {
-        startTime: "20:00",
-        endTime: "24:00",
-        sessionIds: [404,404,015, 404, 404]
+      startTime: "20:00",
+      endTime: "24:00",
+      sessionIds: [404,404,015, 404, 404]
     } 
 - 
   date: "2020-08-09"
@@ -139,9 +139,9 @@
     - {title: "Fri, Aug 13", color: "#e41e63"}
   timeslots:
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [001, 024, 034,011, 404]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [001, 024, 034,011, 404]
     }
     - {
     	startTime: "16:00",
@@ -169,9 +169,9 @@
     	sessionIds: [404,404,404, 042, 404]
     }
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [404, 404, 033, 042, 404]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [404, 404, 033, 042, 404]
     }
     - {
     	startTime: "16:00",
@@ -204,9 +204,9 @@
     	sessionIds: [404,404,404, 031, 404]
     }
     - {
-        startTime: "12:00",
-        endTime: "16:00",
-        sessionIds: [404, 002, 020,031, 404]
+      startTime: "12:00",
+      endTime: "16:00",
+      sessionIds: [404, 002, 020,031, 404]
     }
     - {
     	startTime: "16:00",
