@@ -1,0 +1,30 @@
+- 
+  date: "2020-07-13"
+  dateReadable: "CarpentryCon Week 1"
+  tracks: 
+    - {title: "Mon, July 13", color: "#4be44a"}
+    - {title: "Tue, July 14", color: "#9a30f4"}
+    - {title: "Wed, July 14", color: "#6e9e63"}
+    - {title: "Thur, July 15", color: "#03a9f4"}
+    - {title: "Fri, July 16", color: "#e41e63"}
+  timeslots:
+    - {
+    	startTime: "08:00",
+    	endTime: "12:00",
+    	sessionIds: [404,040,404, 028, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "16:00",
+        sessionIds: [404, 040, 010,404, 404]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "20:00",
+    	sessionIds: [000,404,044, 009, 404]
+    }
+    - {
+        startTime: "20:00",
+        endTime: "24:00",
+        sessionIds: [000,404,404, 404, 404]
+    }
