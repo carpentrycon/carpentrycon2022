@@ -59,7 +59,7 @@
 -
   id: 59
   title: "How to prevent and kick burnout to the curb"
-  description: "Since becoming part of the Carpentries' community, I can't imagine what my life was like before. I have learned so many things in the past few year, even though it was a long, hard road and many lessons were learned. Burnout was a reality for me, and I am certain that it is for many others as well. I would thus like to propose a breakout session where people can share their experiences, challenges, and solutions to preventing/treating burnout. We not only want an active community, but a healthy one."
+  description: "16 July 2020: 16h00 UTC <br><br>Since becoming part of the Carpentries' community, I can't imagine what my life was like before. I have learned so many things in the past few year, even though it was a long, hard road and many lessons were learned. Burnout was a reality for me, and I am certain that it is for many others as well. I would thus like to propose a breakout session where people can share their experiences, challenges, and solutions to preventing/treating burnout. We not only want an active community, but a healthy one."
   subtype: breakout
   speakers: [703]
   language: en  
@@ -310,7 +310,7 @@
 - 
   id: 51
   title: "Library Carpentry Wikidata lesson sprint"
-  description: "14 July 2020: 10h00 - 16h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
+  description: "14 July 2020: 08h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
   subtype: breakout
   speakers: [735]
   language: en
@@ -345,7 +345,7 @@
 - 
   id: 56
   title: "Carpentries Instructor Experiences of Teaching Online"
-  description: "The Carpentries Core Team will be inviting experienced instructors who have ran Carpentries workshops online so far to share their experiences in a themed discussion format. This platform will also allow instructors to share ideas and ask questions related to teaching online workshops. The discussion will take place over two timeslots allowing instructors from various time zones the opportunity to attend the breakout session."
+  description: "15 July 2020: 17h00 UTC<br><br>The Carpentries Core Team will be inviting experienced instructors who have ran Carpentries workshops online so far to share their experiences in a themed discussion format. This platform will also allow instructors to share ideas and ask questions related to teaching online workshops. The discussion will take place over two timeslots allowing instructors from various time zones the opportunity to attend the breakout session."
   subtype: breakout
   speakers: [739]
   language: en
