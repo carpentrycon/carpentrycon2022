@@ -1,4 +1,11 @@
 -
+  id: 000
+  title: "Opening Keynote by Dr. Kari Jordan"
+  description: "13 July 2020: 14h00 UTC and 24h00 UTC<br><br>This will be the first session of CarpentryCon @ Home and will be delivered by The Carpentries Executive Director, Dr. Kari L. Jordan."
+  subtype: skillup
+  speakers: [000]
+  language: en
+-
   id: 001
   title: "Curriculum Development in The Carpentries"
   description: "This skill-up session is aimed at anyone who wants to learn more about how to design good lessons and the lesson development process promoted by The Carpentries.<br><br>If you'd like to create your own lesson, or contribute to the ongoing development of existing curricula, but aren't sure where to start, this session is for you!<br><br>The session will be in 2 parts. First, we will review the principles of curriculum design used for Carpentries lessons. Using the Curriculum Development Handbook, we will present how to use Backward Design to identify what to include in a lesson, decide on the exercises suitable for formative assessment, and the general development life-cycle of a lesson. In the second part, we will present and answer questions about The Carpentries Incubator and The Carpentries Lab, venues to collaborate and share community-developed lessons in the style of The Carpentries.<br><br>After attending the session, participants will be able to design new lessons in style of The Carpentries, create exercises suitable to the learning objectives of their lessons, and contribute to the development of existing curricula."
@@ -59,7 +66,7 @@
 -
   id: 010
   title: "Frictionless data management for open and reproducible science"
-  description: "Generating insight and conclusions from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete. These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative (frictionlessdata.io) at Open Knowledge Foundation (okfn.org) aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis, and with an emphasis on reproducible research and open data. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. Participants will learn where to find open scientific data, how to computationally prepare this data for further analysis and generate conclusions, and also best practices for sharing data and documenting metadata. This hands-on workshop is aimed for researchers interested in open science and reproducible research that are at a beginner programming level (for instance, some familiarity with Python or R and the command line), but more advanced programmers are also welcome."
+  description: "15 July 2020: 15h00 UTC<br><br>Generating insight and conclusions from scientific data is not always a straightforward process. Data is often hard to find, archived in difficult to use formats, poorly structured and/or incomplete. These issues create friction and make it difficult to use, publish and share data. The Frictionless Data initiative (frictionlessdata.io) at Open Knowledge Foundation (okfn.org) aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis, and with an emphasis on reproducible research and open data. In this workshop, participants will learn about different sources of friction in working with scientific data and how to alleviate them using the open source Frictionless Data tools. Participants will learn where to find open scientific data, how to computationally prepare this data for further analysis and generate conclusions, and also best practices for sharing data and documenting metadata. This hands-on workshop is aimed for researchers interested in open science and reproducible research that are at a beginner programming level (for instance, some familiarity with Python or R and the command line), but more advanced programmers are also welcome."
   subtype: breakout
   speakers: [708]
   language: en
@@ -110,19 +117,19 @@
   title: "Building Text-as-Data Communities"
   description: "In this session we hope to bring together text-as-data practitioners and those in academic support roles to discuss models for building communities related to computational text analysis. Many early career scholars interested in text analytics find themselves at institutions that provide little direct support for learning and practicing emerging methods related to text as data (e.g., topic modeling or sentiment analysis). Even where expertise does exist on a particular campus, it can be difficult for an individual scholar—especially those in the humanities or social sciences—to bridge disciplinary and bureaucratic boundaries to find peers and mentors in computational research areas. The Carpentries offer one helpful foundation for learning essential data science tools; this session explores opportunities for building upon that foundation to address the growing needs and interests of scholars in text analytics. <br><br>At our institution, we recently initiated the Text as Data Practice Group, a discipline-agnostic monthly gathering for scholars to experiment and learn from each other, from local experts, and from open access tutorials in a social setting. The group operates in the spirit of creating community, nurturing peer-to-peer learning, and exploring emerging text and data analysis methods on campus. We plan to provide an overview of this program, and then lead participants through discussion prompts to share their own thoughts about successes, challenges, and opportunities related to building communities for text as data. Participants will learn about different models to develop and nurture communities in computational research."
   subtype: breakout
-  speakers: [714]
+  speakers: [715]
   language: en
 -
   id: 017
   title: "Beyond technical skills: Leveraging the Carpentries for professional development"
   description: "For folks coming from an academic background, it can be difficult to both identify and develop professional skills that aren't explicitly related to our field of research. This breakout session will help participants identify and assess professional skills they would like to explore, and help locate potential pathways in Carpentries to meet those needs."
   subtype: breakout
-  speakers: [715]
+  speakers: [714]
   language: en
 -
   id: 018
   title: "Social Meetup Australia and New Zealand"
-  description: "A great opportunity to meet, reconnect and plan future activities with The Carpentries Community in Australia and New Zealand."
+  description: "21 July 2020: 02h00 UTC<BR><BR>A great opportunity to meet, reconnect and plan future activities with The Carpentries Community in Australia and New Zealand."
   subtype: social
   speakers: [719]
   language: en
@@ -208,7 +215,7 @@
 -
   id: 028
   title: "Online workshops - How to scale up your online workshop to reach 100 learners?"
-  description: "In the CodeRefinery project we teach tools and practices for collaborative reproducible research software development, following the Carpentries style of teaching and workshop organization. Due to the outbreak of Covid-19, we were forced to cancel several in-person workshops planned in the spring 2020. As The Carpentries started piloting online workshops, we also shifted our gear to hold online workshops. After successful CodeRefinery online workshop with middle-sized cohort of participants (approximately 25 learners on average per day), we held a 'mega' CodeRefinery online workshop where we accepted 120 registrations as both learners and helpers.<br><br>In this panel session, we will present how we ran the workshops including small but critical tactics. (The current plan is that) Organizer, instructor, expert helper, helper, and learner, each of them will present their perspective and discuss our experiences and lessons learned. (Note: If it is difficult to have a panelist for any of the roles, we will try to summarize feedback from those who fall under the role and a lead or co-lead will present on their behalf). This session aims to reach audience that are interested in online workshops and scaling up community, regardless of their roles. We hope that our experiences will provide with some inspiration to the session participants for planning their organization of or participation in workshops.<br><br>We will use HackMD as a platform of questions and answers during the panel session and answer them in the QA session at the end. We used HackMD in the Mega CodeRefinery online workshop and thus hope we could demonstrate some advantages of using HackMD"
+  description: "16 July 2020: 11h00 UTC<br><br>In the CodeRefinery project we teach tools and practices for collaborative reproducible research software development, following the Carpentries style of teaching and workshop organization. Due to the outbreak of Covid-19, we were forced to cancel several in-person workshops planned in the spring 2020. As The Carpentries started piloting online workshops, we also shifted our gear to hold online workshops. After successful CodeRefinery online workshop with middle-sized cohort of participants (approximately 25 learners on average per day), we held a 'mega' CodeRefinery online workshop where we accepted 120 registrations as both learners and helpers.<br><br>In this panel session, we will present how we ran the workshops including small but critical tactics. (The current plan is that) Organizer, instructor, expert helper, helper, and learner, each of them will present their perspective and discuss our experiences and lessons learned. (Note: If it is difficult to have a panelist for any of the roles, we will try to summarize feedback from those who fall under the role and a lead or co-lead will present on their behalf). This session aims to reach audience that are interested in online workshops and scaling up community, regardless of their roles. We hope that our experiences will provide with some inspiration to the session participants for planning their organization of or participation in workshops.<br><br>We will use HackMD as a platform of questions and answers during the panel session and answer them in the QA session at the end. We used HackMD in the Mega CodeRefinery online workshop and thus hope we could demonstrate some advantages of using HackMD"
   subtype: panel
   speakers: [723]
   language: en
@@ -220,17 +227,7 @@
   - series of lightning talks by different stake holders<br>
   - an open discussion on how to move forward."
   subtype: breakout
-  speakers: [724]
-  language: en
-- 
-  id: 029
-  title: "HPC Carpentry - a way forward"
-  description: "At CarpentryCon 2018, the community expressed the will and desire to create a Carpentry-inspired curriculum for teaching new users of High Performance Computing systems how to use such resources effectively. Subsequently the HPC Carpentry GitHub team was created and relevant existing material was repurposed and integrated into a single home. By mid 2020, development in the hpc-carpentry repos has stalled, with only a subset of the original goals met.<br><br>In Europe, there are at least two initiatives that have the potential to provide the human resources to refine and extend the teaching material, but with clear goals of their own derived from their own context. We would like to involve the community in a discussion on how to encourage and integrate such initiatives to help sustain the development of the existing material, and extend it to new topics.<br><br>For this, we propose a breakout session composed of<br>
-  - a review of activity to date<br>
-  - series of lightning talks by different stake holders<br>
-  - an open discussion on how to move forward."
-  subtype: breakout
-  speakers: [725]
+  speakers: [724,725]
   language: en
 - 
   id: 030
@@ -313,7 +310,7 @@
 - 
   id: 040
   title: "Library Carpentry Wikidata lesson sprint"
-  description: "The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
+  description: "14 July 2020: 10h00 - 16h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
   subtype: breakout
   speakers: [735]
   language: en
@@ -321,7 +318,7 @@
   id: 041
   title: "Introduction to the Library Carpentry Wikidata Lesson"
   description: "The Library Carpentry Wikidata lesson aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this lightning talk we would like to give a short overview to the lesson and collect feedback for further improvements."
-  subtype: breakout
+  subtype: lightning
   speakers: [735]
   language: en
 - 

@@ -1,4 +1,17 @@
 - 
+  id: 000
+  name: "Kari"
+  surname: "L. Jordan"
+  company: "The Carpentries"
+  title: "Executive Director"
+  bio: "Dr. Kari L. Jordan studied mechanical engineering at Michigan Technological University. Her doctoral research explored self-efficacy of underrepresented engineering students. After completing a post-doc in the Engineering Fundamentals Department at Embry-Riddle Aeronautical University, she was hired to lead Data Carpentry’s Assessment Efforts. She currently serves as Wxecutive Director for The Carpentries. Kari enjoys running the Engineer Like a Girl after-school program in her free time, and teaching Zumba fitness."
+  thumbnailUrl: KariJordan.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/drkariljordan"}
+    - {name: "github", link: "https://github.com/kariljordan"}
+- 
   id: 700
   name: "François"
   surname: "Michonneau"
@@ -9,7 +22,7 @@
   ribbon: 
     - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
-    - {name: "twitter", link: "hhttps://twitter.com/fmic_"}
+    - {name: "twitter", link: "https://twitter.com/fmic_"}
     - {name: "github", link: "https://github.com/fmichonneau"}  
 - 
   id: 701
@@ -479,7 +492,7 @@
   company: "Code for Science and Society"
   title: "Data Science Community Conference and Events Fund Program Manager "
   bio: "Dr. Emily Lescak is the Data Science Community Conference and Events Fund Program Manager at Code for Science and Society, where she has developed a grants program to support events that promote inclusive practices and broaden participation in research-driven open data science communities. She has nearly 10 years of experience working in research data science focused on population genetics, evolution, and management of Alaskan fish populations. Emily has a strong background in mentoring and leadership in science advocacy initiatives."
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: EmilyLescak.jpeg
   social: 
     - {name: "github", link: "https://github.com/ealescak"}
     - {name: "twitter", link: "https://twitter.com/elescak"}
