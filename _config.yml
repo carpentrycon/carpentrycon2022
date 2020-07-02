@@ -44,6 +44,7 @@ helpwanted: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q
 # Navigation
 navigationLinks:
   - {permalink: "/", text: "Home"}
+  - {permalink: "/schedule/", text: "Schedule"}
   - {permalink: "/speakers/", text: "Speakers"}
 #  - {permalink: "/sponsorship/", text: "Sponsorship"}
 #  - {permalink: "/programme/", text: "Programme"}
