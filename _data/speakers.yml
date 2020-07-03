@@ -28,7 +28,7 @@
   id: 701
   name: "Malvika"
   surname: "Sharan"
-  company: "The Turing Way project, Turing Institute"
+  company: "The Turing Way project, Turing Institute, UK"
   title: "Community Manager"
   bio: "Malvika Sharan is passionate about enabling collaborative culture, mentorship and inclusive practices in data science. Malvika is also co-founder of the Open Life Science project and serves on the Open Bioinformatics Foundation (OBF) Board. "
   thumbnailUrl: MalvikaSharan.png
@@ -277,7 +277,7 @@
   id: 723
   name: "Naoe"
   surname: "Tatara"
-  company: "Code Refinery, Norway."
+  company: "Code Refinery, Norway"
   title: "Regional Coordinator"
   bio: "Naoe Tatara is a regional coordinator of CodeRefinery and Carpentries for Nordic countries, based in Oslo. Naoe has worked for a long time as an interdisciplinary researcher mainly in the field of design and development of technology for personal health (eHealth). Naoe has a high interest in interaction between human and technology, user experience, and universal design of ICT. "
   thumbnailUrl: Carpentries.png
