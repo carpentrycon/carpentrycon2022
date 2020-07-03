@@ -4,9 +4,9 @@
   tracks: 
     - {title: "Mon, July 13", color: "#4be44a"}
     - {title: "Tue, July 14", color: "#9a30f4"}
-    - {title: "Wed, July 14", color: "#6e9e63"}
-    - {title: "Thur, July 15", color: "#03a9f4"}
-    - {title: "Fri, July 16", color: "#e41e63"}
+    - {title: "Wed, July 15", color: "#6e9e63"}
+    - {title: "Thur, July 16", color: "#03a9f4"}
+    - {title: "Fri, July 17", color: "#e41e63"}
   timeslots:
     - {
     	startTime: "08:00",
