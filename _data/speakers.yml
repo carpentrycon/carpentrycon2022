@@ -212,8 +212,8 @@
   surname: "Pérez-Suárez"
   company: "Research IT Services, University College London"
   title: "Research Software Engineer"
-  bio: "I am David, a senior research software developer at RITS - UCL. I used to be a solar physicist and I've been always interested in open science and better software practice. "
-  thumbnailUrl: Carpentries.png
+  bio: "David is a research software engineer that doubles as a solar physicist. He has been involved with the Carpentries since 2012. He's an open-everything advocate and he is obsessed with collaborative tools. "
+  thumbnailUrl: DavidPerez.png
   ribbon: 
     - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
