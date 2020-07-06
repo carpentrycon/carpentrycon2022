@@ -526,6 +526,22 @@ team of volunteer instructors across the region.s"
     - {abbr: "Maintainer ", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/MueRabea"}
+-
+  id: 743
+  name: "Radovan"
+  surname: "Bast"
+  company: "UiT The Arctic University of Norway"
+  title: "Senior Research Software Engineer"
+  bio: "Radovan is the project leader of the CodeRefinery project and has taught in many CodeRefinery workshops, both in-person and online. In the mega CodeRefinery workshop, he served as both instructor and expert helper. Working as senior engineer in a research software engineer role at UiT The Arctic University of Norway. "
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/bast"}
+    - {name: "twitter", link: "https://twitter.com/__radovan"}
+    - {name: "site", link: "https://bast.fr"}
+  
+
 
 
 
