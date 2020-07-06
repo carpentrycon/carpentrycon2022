@@ -413,12 +413,14 @@
   surname: "Rockenberger"
   company: "University of Oslo Library"
   title: "Research Data Management Advisor"
+  bio: "Annika works at the University of Oslo Library as an advisor for research data management and serves as the local coordinator of Carpentries activities. She has a background in the humanities and research experience with a variety of digital projects. Since 2015 she’s been involved with the Carpentries, since 2018 as a certified instructor and since 2020 as an instructor trainer."
   thumbnailUrl: Carpentries.png
   ribbon: 
-    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+    - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
     - {name: "github", link: "https://github.com/arockenberger"}
     - {name: "site", link: "http://www.annikarockenberger.com"}
+    - {name: "twitter", link: "http://twitter.com/ARockenberger"}
 -
   id: 734
   name: "Ariel"
@@ -429,8 +431,7 @@
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
-    - {name: "github", link: "https://github.com/arockenberger"}
-    - {name: "site", link: "http://www.annikarockenberger.com"}
+    - {name: "github", link: "https://github.com/arieldeardorff"}
 -
   id: 735
   name: "Konrad"
