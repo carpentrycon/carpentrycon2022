@@ -513,6 +513,18 @@ team of volunteer instructors across the region.s"
     - {name: "github", link: "https://github.com/angela-li"}
     - {name: "twitter", link: "https://twitter.com/CivicAngela"}
     - {name: "site", link: "http://angela-li.github.io/"}
+-
+  id: 742
+  name: "Rabea"
+  surname: "Müller"
+  company: "TH Köln – University of Applied Sciences, Germany"
+  title: "Library Science student"
+  bio: "Rabea is studying Library Science at the TH Köln – University of Applied Sciences and is member of the Data Science and Services department of ZB MED. She is involved in several activites in the Carpentries community as an Instructor and Maintainer."
+  thumbnailUrl: RabeaMuller.jpg
+  ribbon: 
+    - {abbr: "Maintainer ", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MueRabea"}
 
 
 

@@ -312,7 +312,7 @@
   title: "Library Carpentry Wikidata lesson sprint"
   description: "14 July 2020: 08h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
   subtype: breakout
-  speakers: [735]
+  speakers: [742,735]
   language: en
 - 
   id: 49
