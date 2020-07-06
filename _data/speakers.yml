@@ -540,6 +540,19 @@ team of volunteer instructors across the region.s"
     - {name: "github", link: "https://github.com/bast"}
     - {name: "twitter", link: "https://twitter.com/__radovan"}
     - {name: "site", link: "https://bast.fr"}
+-
+  id: 744
+  name: "Richard"
+  surname: "Darst"
+  company: "Aalto University, Finland"
+  title: "Staff Scientist"
+  bio: "Richard is a HPC and Scientific Computing Specialist with emphasis on Research Software Engineering, training, and usability. He took initiative of the mega CodeRefinery online workshop and was the lead organizer, HackMD master, and expert helper.  He has been a member of CodeRefinery since 2017. He works as a staff scientist at Aalto Scientific Computing, Aalto University, Finland with connections to Computer Science-IT and Research Services (Data Agent) teams."
+  thumbnailUrl: Carpentries.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/rkdarst"}
+    - {name: "site", link: "http://rkd.zgib.net/"}
   
 
 
