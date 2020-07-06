@@ -54,12 +54,13 @@
   surname: "Peterson"
   company: "North-West University, South Africa"
   title: "Researcher and Post-doctoral fellow: Pharmaceutics"
-  bio: "Bianca obtained her doctoral degree in Environmental Sciences (Molecular Biology) at the department of Microbiology, North-West University (NWU), Potchefstroom, in August 2017. She is currently a post-doctoral research associate at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen™), NWU, Potchefstroom under the supervision of Professor J.D. Steyn, where she conducts data analyses. Part of her post-doctoral responsibilities entail guidance, supervision and mentoring of undergraduate and post-graduate students. Furthermore, she is the director and trainer of Conquest Analytics and Training, which is a consulting company specialising in data analysis and data skills training. She is passionate about research (specifically genetics) and teaching foundational computational skills. She believes that the extraordinary advancement of technology, particularly in Life Sciences, has made bioinformatics skills crucial to ensure people acquire the necessary skills and competencies to survive and contribute to the rapidly changing society. As a result, she certified as a Carpentries instructor in 2016, teaching foundational computational skills at 2-day hands-on workshops. She then attended the first CODATA-RDA Research Data Science Summer School in Trieste, Italy, in 2016, and returned in 2017 as a helper. She taught at the first South African Summer School in January 2020, and joined the Summer School Working Group as a co-chair to help strategise, co-organise and co-teach and these Summer Schools worldwide and help to develop the train-the-trainer model. "
+  bio: "Bianca obtained her doctoral degree in Environmental Sciences (Molecular Biology) at the department of Microbiology, North-West University (NWU), Potchefstroom, in August 2017. She is currently a post-doctoral research associate at the Centre of Excellence for Pharmaceutical Sciences (Pharmacen™), NWU, Potchefstroom under the supervision of Professor J.D. Steyn, where she conducts data analyses. Part of her post-doctoral responsibilities entail guidance, supervision and mentoring of undergraduate and post-graduate students. Furthermore, she is the director and trainer of Conquest Analytics and Training, which is a consulting company specialising in data analysis and data skills training. She is passionate about research (specifically genetics) and teaching foundational computational skills. She believes that the extraordinary advancement of technology, particularly in Life Sciences, has made bioinformatics skills crucial to ensure people acquire the necessary skills and competencies to survive and contribute to the rapidly changing society. As a result, she certified as a Carpentries instructor in 2016, teaching foundational computational skills at 2-day hands-on workshops. She then attended the first CODATA-RDA Research Data Science Summer School in Trieste, Italy, in 2016, and returned in 2017 as a helper. She taught at the first South African Summer School in January 2020, and joined the Summer School Working Group as a co-chair to help strategise, co-organise and co-teach at these Summer Schools worldwide and help to develop the train-the-trainer model. "
   thumbnailUrl: BiancaPeterson.jpg
   ribbon: 
     - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
       - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
+      - {name: "linkedin", link: "https://www.linkedin.com/in/bianca-peterson-007b5b117/"}
       - {name: "github", link: "http://github.com/BinxiePeterson"}
 - 
   id: 704
@@ -436,7 +437,7 @@
   surname: "Förstner"
   company: "ZB MED, Germany"
   title: "Data Services Librarian"
-  bio: "I am a researcher in the field of in bioinformatics / computational biology / systems biology. My methodical focus is the integration and interpretation of large data sets - mainly generated using high-throughput sequencing technologies but also text corpora - with the aim to translate them into biological and medical insights. As part of that I am advocating open science with all its facetes (data, publications, source code of research software, educational resources, publication metrics etc.) and am active in several groups/communities promoting this."
+  bio: "I am a researcher in the field of in bioinformatics / computational biology / systems biology. My methodical focus is the integration and interpretation of large data sets - mainly generated using high-throughput sequencing technologies but also text corpora - with the aim to translate them into biological and medical insights. As part of that I am advocating open science with all its facets (data, publications, source code of research software, educational resources, publication metrics etc.) and am active in several groups/communities promoting this."
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Executive Council", title: "Carpentries Executive Council", url: "https://carpentries.org/governance/"}
@@ -479,7 +480,8 @@
   surname: "van Rensburg"
   company: "The Carpentries"
   title: "Regional Consultant for Southern Africa"
-  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries and an Extraordinary Researcher at Optentia Research Focus Area,  North-West University, Vaal Triangle Campus.<br><br>Angelique has also collaborated in the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa). Angelique has worked jointly with the Pathways to Resilience Research Project (2009-2015). The Pathways to Resilience Research Project investigated social-ecological contributions to youth resilience across five countries (i.e. Canada, Colombia, China, New Zealand and South Africa)"
+  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries Angelique aims at developing strategies and workflows to adapt The Carpentries’ membership and workshop programs to function optimally in Southern Africa. In addition the role aims to assist and advise in developing a plan to create and support a strong
+team of volunteer instructors across the region.s"
   thumbnailUrl: Carpentries.png
   social: 
     - {name: "github", link: "https://github.com/elletjies"}
