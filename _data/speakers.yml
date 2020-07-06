@@ -266,8 +266,8 @@
   surname: "Ko"
   company: "Stanford University, USA"
   title: "Lecturer and Researcher"
-  bio: "My goal is to support equity in student learning, especially in STEM fields, whether that be through direct teaching/mentoring or supporting other educators and educational programs. <br><br>I am currently a full-time lecturer for the Thinking Matters Program at Stanford University. In this role, I teach courses on cryptography, viruses, human genomes, and cancer from a scientific, ethical, and societal standpoint. "
-  thumbnailUrl: Carpentries.png
+  bio: "Dr. Melissa Ko earned an S.B. in biology from MIT and a PhD in cancer biology from Stanford University. Her graduate research used visualizations and computational modeling to reveal mechanisms of drug resistance in different cancer subtypes and identify more effective treatment combinations. As a current Thinking Matters Fellow at Stanford, Melissa teaches freshmen-level classes including Living with Viruses, The Cancer Problem, and Our Genome, while conducting educational research on how social networks develop among instructors participating in professional development. In addition, Melissa has designed biology courses at other local institutions like Foothill College and Santa Clara University and teaches with the Software/Data Carpentries and Stanford Pre-Collegiate Studies to introduce learners to programming in R and Python. Outside of work, Melissa enjoys volunteer work, fun coding projects, cooking, playing video games, reading, and taking her dog for walks in the park.  "
+  thumbnailUrl: MelissaKo.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
