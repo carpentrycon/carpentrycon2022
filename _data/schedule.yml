@@ -86,7 +86,7 @@
     - {
       startTime: "12:00",
       endTime: "16:00",
-      sessionIds: [26, 37, 50,52, 404]
+      sessionIds: [404, 37, 50,52, 404]
     }
     - {
     	startTime: "16:00",
@@ -126,7 +126,7 @@
     - {
       startTime: "20:00",
       endTime: "24:00",
-      sessionIds: [404,404,17, 404, 404]
+      sessionIds: [404,26,17, 404, 404]
     } 
 - 
   date: "2020-08-09"
