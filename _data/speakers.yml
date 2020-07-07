@@ -103,8 +103,8 @@
   surname: "Winfree"
   company: "Frictionless Data, Open Knowledge Foundation"
   title: "Product Owner"
-  bio: "Lilly is the product manager for the Frictionless Data for Reproducible Research open source project. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Outside of work, you'll find her hanging out with her dogs, running, baking, eating tacos, or reading sci-fi."
-  thumbnailUrl: Carpentries.png
+  bio: "Lilly is the product manager for the Frictionless Data for Reproducible Research project at Open Knowledge Foundation. She has her PhD in neuroscience from Oregon Health and Science University, where she researched brain injury in fruit flies and became an advocate for open science and open data. Outside of work, you'll find her hanging out with her dogs, running, baking, eating tacos, or reading sci-fi."
+  thumbnailUrl: LillyWinfree.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/lilscientista"}
     - {name: "github", link: "https://github.com/lwinfree"}  
