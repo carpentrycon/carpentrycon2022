@@ -21,7 +21,7 @@
     - {
     	startTime: "16:00",
     	endTime: "20:00",
-    	sessionIds: [404,404,56, 404, 404]
+    	sessionIds: [404,404,56, 42, 404]
     }
     - {
       startTime: "20:00",
