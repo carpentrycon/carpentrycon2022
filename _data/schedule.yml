@@ -91,12 +91,12 @@
     - {
     	startTime: "16:00",
     	endTime: "20:00",
-    	sessionIds: [404,404,404, 16, 404]
+    	sessionIds: [15,404,404, 16, 404]
     }
     - {
       startTime: "20:00",
       endTime: "24:00",
-      sessionIds: [15,404,404, 404, 34]
+      sessionIds: [404,404,404, 404, 34]
     } 
 - 
   date: "2020-08-02"

@@ -98,7 +98,7 @@
 -
   id: 15
   title: "Native scripting in Windows: the Command Prompt interface"
-  description: "Software Carpentry focuses on task automation and proposes Bash shell as an effective tool to this end. However, in Windows it is not a native tool and it can lead to problems with software designed primarily for Windows (many scriptable engineering packages are such). However, there exists a native tool with capabilities comparable to that of the shell. Learning how to effectively use the command prompt would provide attendees with a technical skill very interesting to the engineering community at large. This in turn would help grow the interest in The Carpentries workshops and, in a wider perspective, the diffusion of Open Science practices in the engineering community."
+  description: "27 July 2020: 18h00 UTC<br><br>Software Carpentry focuses on task automation and proposes Bash shell as an effective tool to this end. However, in Windows it is not a native tool and it can lead to problems with software designed primarily for Windows (many scriptable engineering packages are such). However, there exists a native tool with capabilities comparable to that of the shell. Learning how to effectively use the command prompt would provide attendees with a technical skill very interesting to the engineering community at large. This in turn would help grow the interest in The Carpentries workshops and, in a wider perspective, the diffusion of Open Science practices in the engineering community."
   subtype: skillup
   speakers: [711]
   language: en
