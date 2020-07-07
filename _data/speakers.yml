@@ -188,10 +188,10 @@
   id: 715
   name: "Cody"
   surname: "Hennesy"
-  company: "University of Minnesota"
-  title: "Librarian"
-  bio: "Cody Hennesy joined the University of Minnesota as the Journalism & Digital Media Librarian in November 2018, and was formerly the E-Learning and Information Studies Librarian at the University of California, Berkeley. His work has focused on developing library services and support for text data mining (TDM) research and other emerging literacies in the digital humanities and computational social sciences. He has spoken nationally and published on TDM and other DH topics, recently co-authoring 'Law & Literacy in Non-Consumptive Text Mining: Guiding Researchers Through the Landscape of Computational Text Analysis' for ACRL’s forthcoming Copyright Conversations (2019). "
-  thumbnailUrl: CodyHennesy.jpg
+  company: "University of Minnesota, Twin Cities, USA"
+  title: "Journalism and Digital Media Librarian"
+  bio: "Cody Hennesy (he/him/his) is the Journalism and Digital Media Librarian at the University of Minnesota, Twin Cities "
+  thumbnailUrl: CodyHennesy.png
   ribbon: 
     - {abbr: "Organiser", title: "CarpentryCon @ Home Organiser", url: "https://2020.carpentrycon.org/task-force/"}
   social: 
@@ -609,6 +609,23 @@ team of volunteer instructors across the region.s"
   social: 
     - {name: "github", link: "https://github.com/ciakovx"}
     - {name: "site", link: "http://ciakovx.github.io/"}
+-
+  id: 749
+  name: "Alexis"
+  surname: "Logsdon"
+  company: "University of Minnesota, Twin Cities, USA"
+  title: "Humanities Research and Digital Scholarship Librarian"
+  bio: "Alexis Logsdon (she/her/hers) is Humanities Research and Digital Scholarship Librarian at the University of Minnesota, Twin Cities. "
+  thumbnailUrl: AlexisLogsdon.jpg
+-
+  id: 750
+  name: "Wanda"
+  surname: "Marsolek"
+  company: "University of Minnesota, Twin Cities, USA"
+  title: "Engineering Liaison and Data Curation Librarian"
+  bio: "Wanda Marsolek (they/them/theirs) is the Engineering Liaison and Data Curation Librarian at the University of Minnesota, Twin Cities. "
+  thumbnailUrl: WandaMarsolek.jpg
+
   
 
 
