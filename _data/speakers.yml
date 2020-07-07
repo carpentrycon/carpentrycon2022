@@ -77,11 +77,14 @@
     - {name: "github", link: "https://github.com/mkuzak"}
 - 
   id: 706
-  name: "Kay"
-  surname: "Bjornen"
+  name: "Kay K."
+  surname: "Bjornen, PhD"
   company: "Oklahoma State University, USA"
   title: "Visiting Assistant Professor"
-  thumbnailUrl: Carpentries.png
+  bio: "Kay is the Research Data Initiatives Librarian at the Oklahoma State University Library.  She received her MLIS from the University of Oklahoma after a career as a chemist and research manager for ConocoPhillips.  She is responsible for outreach to OSU researchers through consultation and support of research data management and has been a co-coordinator and certified instructor for the OSU Carpentries since 2018."
+  thumbnailUrl: KayBjornen.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/BjornenKay"}
     - {name: "github", link: "https://github.com/kbjornen"}
@@ -281,7 +284,7 @@
   company: "Code Refinery, Norway"
   title: "Regional Coordinator"
   bio: "Naoe is the Carpentries and CodeRefinery’s Regional Coordinator in the Nordic countries. In the mega CodeRefinery online workshop, she served as Zoom-host. She works at the University of Oslo Library as an advisor within Digital Scholarship services and supports training activities including Carpentries at the university. Naoe's ORCID: https://orcid.org/0000-0002-0049-1634 "
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: NaoeTatara.jpg
   ribbon: 
     - {abbr: "Regional Coordinator", title: "Carpentries Regional Coordinator, Nordic Countries", url: "https://carpentries.org/regionalcoordinators/"}
   social: 
@@ -414,7 +417,7 @@
   company: "University of Oslo Library"
   title: "Research Data Management Advisor"
   bio: "Annika works at the University of Oslo Library as an advisor for research data management and serves as the local coordinator of Carpentries activities. She has a background in the humanities and research experience with a variety of digital projects. Since 2015 she’s been involved with the Carpentries, since 2018 as a certified instructor and since 2020 as an instructor trainer."
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: AnnikaRockenberger.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
@@ -533,7 +536,7 @@ team of volunteer instructors across the region.s"
   company: "UiT The Arctic University of Norway"
   title: "Senior Research Software Engineer"
   bio: "Radovan is the project leader of the CodeRefinery project and has taught in many CodeRefinery workshops, both in-person and online. In the mega CodeRefinery workshop, he served as both instructor and expert helper. Working as senior engineer in a research software engineer role at UiT The Arctic University of Norway. "
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: RadovanBast.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
@@ -553,6 +556,58 @@ team of volunteer instructors across the region.s"
   social: 
     - {name: "github", link: "https://github.com/rkdarst"}
     - {name: "site", link: "http://rkd.zgib.net/"}
+-
+  id: 745
+  name: "Anne"
+  surname: "Fouilloux"
+  company: "University of Oslo, Norway"
+  title: "Staff Scientist"
+  bio: "Anne is an experienced instructor in the CodeRefinery, Carpentries, and a series of training workshops. She served as both instructor and expert helper in the mega CodeRefinery online workshop. She works as a Research Software Engineer at the Department of Geosciences at University of Oslo."
+  thumbnailUrl: AnneFouilloux.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/annefou"}
+    - {name: "twitter", link: "https://twitter.com/AnneFouilloux"}
+-
+  id: 746
+  name: "Nathalia Graf"
+  surname: "Grachet, PhD"
+  company: "Tfaily lab, University of Arizona, USA"
+  title: "Postdoctoral Researcher"
+  bio: "Nathalia is originally from Brazil. She received a B.S. in Agricultural Engineering in 2012, attended graduate school at Oklahoma State University. She received her M.S. in Entomology and Plant Pathology in 2015, and her Ph.D. in Plant Pathology studying plant-pathogen interactions of bermudagrass and the soil-borne fungal pathogens of spring dead spot. Nathalia’s research interests broadened when she attended two computational biology courses at Cold Spring Harbor Laboratory in 2017 and 2018. She learned the basics of Python programming and bioinformatics, and fell in love! She became a certified instructor for the Software and Data Carpentry in the Fall of 2018, and have taught campus-wide workshops in a variety of topics including Python and Unix command line. Nathalia joined the Tfaily lab in October 2019. Currently, she is developing data analysis pipelines for a variety of research projects in the Tfaily lab, including soil organic matter composition by mass spectrometry techniques, microbial community, multi-omics data integration."
+  thumbnailUrl: NathaliaGraf.png
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/nathaliagrachet"}
+    - {name: "github", link: "https://github.com/ngrafgr"}
+-
+  id: 747
+  name: "Phillip"
+  surname: "Doehle"
+  company: "Tfaily lab, University of Arizona, USA"
+  title: "Postdoctoral Researcher"
+  bio: "Phillip Doehle - Phillip is the Digital Services Librarian at Oklahoma State University. He coordinates the university’s Carpentries initiative, teaching introductory data-science skills to researchers. He has been actively involved in the Carpentries since 2015. Phillip holds a Master’s degree in applied math from Oklahoma State University."
+  thumbnailUrl: PhillipDoehle.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+    - {name: "github", link: "https://github.com/pdoehle"}
+-
+  id: 748
+  name: "Clarke"
+  surname: "Iakovakis"
+  company: "Tfaily lab, University of Arizona, USA"
+  title: "Postdoctoral Researcher"
+  bio: "Clarke started as the Scholarly Services Librarian at Oklahoma State University in August, 2018. He has been working in both public and academic libraries for over 10 years, serving as a shelver, a circulation clerk, a reference and instruction librarian, an electronic thesis & dissertation coordinator, and most recently in scholarly communications. He is currently attempting to finish his master's thesis for a History degree from the University of Houston-Clear Lake on the origins of the Department of Homeland Security.  Clarke serves as an instructor for the OSU Carpentries and is a lesson maintainer for the Library Carpentry R module."
+  thumbnailUrl: ClarkeIakovakis.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+    - {abbr: "Maintainer", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/ciakovx"}
+    - {name: "site", link: "http://ciakovx.github.io/"}
   
 
 
