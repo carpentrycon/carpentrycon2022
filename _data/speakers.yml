@@ -138,13 +138,14 @@
   surname: "Di Stasio"
   company: "Luleå University of Technology, Sweden"
   title: "Post-doctoral Researcher & Professional Engineer"
-  bio: "Luca Di Stasio is a Professional Engineer (Italian License, 2013). He completed a Ph.D. in Polymeric Composite Materials at Luleå University of Technology (2019) and a Ph.D. in Materials Science at Université de Lorraine (2019). Luca earned a M.Sc. in Space Engineering from Politecnico di Milano (2013); a M.Sc. in Mechanical Engineering from Drexel University (2012); a B.Sc. in Aerospace Engineering from Politecnico di Milano (2010). To know more about Luca visit http://www.lucadistasioengineering.com."
-  thumbnailUrl: Carpentries.png
+  bio: "Currently a Postdoctoral Research Fellow in Computational Solid Mechanics at KAUST, Saudi Arabia, I am a Professional Engineer (Italian License, 2013) and I completed a Ph.D. in Polymeric Composite Materials at Luleå University of Technology (2019) and a Ph.D. in Materials Science at Université de Lorraine (2019). To know more about me visit http://www.lucadistasioengineering.com. "
+  thumbnailUrl: LucaDiStasio.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/lucadistasio"}
     - {name: "github", link: "https://github.com/LucaDiStasio"}
+    - {name: "site", link: "https://lucadistasioengineering.com/"}
 -
   id: 712
   name: "Olalekan"
