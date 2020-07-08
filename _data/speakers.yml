@@ -123,7 +123,7 @@
   id: 710
   name: "Sara"
   surname: "El-Gebali"
-  company: "Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  company: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
   title: "Founder"
   bio: "Dr. Sara El-Gebali is the team leader for the research data management group at the Max Delbrück Center for Molecular Medicine in Berlin and the founder of OpenCider (Open Computational Inclusion and Digital Equity Resource) https://selgebali.gitbook.io/opencider/ . Before joining the MDC, she was a scientific database curator at the European Molecular Biology Laboratories (EMBL)-EBI and EMBO and my background is in cancer biology. She is a strong advocate for community building, inclusive spaces and the promotion of women and underrepresented minorities in STEM and open research."
   thumbnailUrl: SaraElGebali.jpg
@@ -625,6 +625,16 @@ team of volunteer instructors across the region.s"
   title: "Engineering Liaison and Data Curation Librarian"
   bio: "Wanda Marsolek (they/them/theirs) is the Engineering Liaison and Data Curation Librarian at the University of Minnesota, Twin Cities. "
   thumbnailUrl: WandaMarsolek.jpg
+-
+  id: 751
+  name: "Nazeefa"
+  surname: "Fatima"
+  company: "Open Computational Inclusion and Digital Equity Resource (OpenCIDER)"
+  title: "Co-founder"
+  bio: "I am a computational biologist based in Sweden. I studied bioinformatics at the Lunds Universitet and, during my studies, I developed skills in data analysis for genomics and transcriptomics research. After completing masters, I worked for the National Genomics Infrastructure. Besides research, I contribute my time to RSG-Sweden and the International Society of Computational Biology. I care about mental health, accessible research, community building, and increasing visibility of people underrepresented in the field of computational biology."
+  thumbnailUrl: NazeefaFatima.png
+  social: 
+    - {name: "github", link: "https://github.com/Nazeeefa"}
 
   
 
