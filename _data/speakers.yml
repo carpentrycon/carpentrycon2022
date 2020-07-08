@@ -644,6 +644,33 @@ team of volunteer instructors across the region.s"
   thumbnailUrl: MonicaGranados.png
   social: 
     - {name: "site", link: "https://monica.granados.com"}
+-
+  id: 753
+  name: "Lorraine"
+  surname: "Ling"
+  company: "Pringle Lab, Stanford University, USA"
+  title: "Coral Genomics and Symbiosis Postdoctoral Scholar"
+  bio: "Lori is a postdoctoral scholar studying coral genomics and symbiosis in the Pringle Lab at Stanford University. Lori was trained as a Carpentries Instructor in 2016 at Stanford and since then has co-instructed many R-flavored workshops (SWC & DC) on campus. "
+  thumbnailUrl: LorraineLing.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/lori_ling"}
+-
+  id: 754
+  name: "Darach"
+  surname: "Miller"
+  company: "Joint Initiative for Metrology in Biology, USA"
+  title: "Yeast Geneticist and Postdoctoral Researcher"
+  bio: "Darach Miller is a card-carrying yeast geneticist and postdoctoral researcher at the Joint Initiative for Metrology in Biology."
+  thumbnailUrl: Carpentries.png
+-
+  id: 755
+  name: "Claudia"
+  surname: "Engel"
+  company: "Stanford University, USA"
+  title: "Academic Technology Specialist and Lecturer in Anthroplogy"
+  bio: "Claudia is Academic Technology Specialist and Lecturer in Anthroplogy at Stanford University. In collaboration with graduate students and faculty she facilitates and conducts innovative digital research in Anthropology."
+  thumbnailUrl: Carpentries.png
+  
 
 
   

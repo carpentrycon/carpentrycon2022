@@ -202,7 +202,7 @@
   With the COVID-19 global pandemic and the shift to virtual learning, motivating learners to actively engage during our workshops requires the instructor to thoughtfully adapt their teaching approaches. In this breakout session, instructors will share their own challenges and successes with getting learners to connect to the material and one another while teaching programming remotely. First, we will dive into different principles of belonging and active learning, and brainstorm how best to apply these ideas to the online context. We will then work together to break down some hypothetical scenarios around online learning and propose new ways to address the needs/conflicts presented in each situation. Throughout this session, we will discuss the array of software tools available (e.g. Zoom, Canvas, Google docs) and how their features can be best leveraged to improve the learner experience. By attending this breakout session, participants will be able to interact with other instructors, share fresh teaching ideas, and reflect on their own teaching philosophy.<br>
   Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
   subtype: breakout
-  speakers: [722]
+  speakers: [722,754,755]
   language: en  
 -
   id: 30
@@ -214,7 +214,7 @@
   - Discuss activities and structural changes that leverage learners from different levels of preparation through differentiated instruction<br><br>
   In an era of social distancing, difficulties in creating an authentic feeling of connection and presence for online learners exacerbates already challenging hurdles to learner persistence in programming. A sense of belonging has long been known to influence learners and their intent to actively engage or even stay in a class. Feelings of belonging are often significantly lower in learners identifying with groups historically underrepresented in STEM. How can we continue to foster belonging even when we are separated by a screen? In this session, we will explore how we can intentionally craft and monitor the structure (e.g. modes of participation) and framing (e.g. instructor talk) of our online workshops to create a positive learning community. Importantly, we will dive into a commonly cited challenge, different background levels of preparation, and discuss ways to address this diversity in learners. Through a differentiated instruction framework, we can identify learner differences and provide flexible content/goals without establishing barriers or setting lower expectations. Through this session, participants will ultimately consider different building blocks for an equitable learning experience and identify small, meaningful steps to improving student belonging when they teach."
   subtype: skillup
-  speakers: [722]
+  speakers: [722,753]
   language: en
 -
   id: 32
