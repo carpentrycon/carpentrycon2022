@@ -635,6 +635,16 @@ team of volunteer instructors across the region.s"
   thumbnailUrl: NazeefaFatima.png
   social: 
     - {name: "github", link: "https://github.com/Nazeeefa"}
+-
+  id: 752
+  name: "Monica"
+  surname: "Granados"
+  company: "Environment and Climate Change Canada"
+  title: "Mitacs Canadian Science Policy Fellow"
+  bio: "Dr. Monica Granados is committed to making science more open and accessible. She is currently a Mitacs Canadian Science Policy Fellow at Environment and Climate Change Canada working on open science, she is on the leadership team of PREreview working to bring more diversity to peer review, a Frictionless Data Fellow and on the Board of Directors of the Canadian Open Data Society."
+  thumbnailUrl: MonicaGranados.png
+  social: 
+    - {name: "site", link: "https://monica.granados.com"}
 
   
 
