@@ -670,6 +670,18 @@ team of volunteer instructors across the region.s"
   title: "Academic Technology Specialist and Lecturer in Anthroplogy"
   bio: "Claudia is Academic Technology Specialist and Lecturer in Anthroplogy at Stanford University. In collaboration with graduate students and faculty she facilitates and conducts innovative digital research in Anthropology."
   thumbnailUrl: Carpentries.png
+-
+  id: 756
+  name: "Florencia"
+  surname: "D'Andrea"
+  company: "Joint Initiative for Metrology in Biology, USA"
+  title: "Yeast Geneticist and Postdoctoral Researcher"
+  bio: "Florencia is a postdoc researcher who approached The Carpentries interested in the lessons specifically designed for scientists. She currently participates in programming-related communities such as ReproHack and R-Ladies and is chair of LatinR 2020."
+  thumbnailUrl: Florencia.jpg
+  social: 
+    - {name: "github", link: "https://github.com/flor14"}
+    - {name: "site", link: "http://florencia.netlify.app/"}
+    - {name: "twitter", link: "http://twitter.com/cantoflor_87"}
   
 
 

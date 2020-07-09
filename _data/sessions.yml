@@ -158,7 +158,7 @@
   title: "¡Traduciendo!"
   description: "This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
   subtype: skillup
-  speakers: [718]
+  speakers: [718,756]
   language: es
 - 
   id: 23
@@ -172,7 +172,7 @@
   title: "Social Meetup Hablamos Español"
   description: "The Carpentries Community in Spanish is growing, and we would like to get to know each other, share our thoughts and aspirations and help each other creating new valuable connections.<br><br>Queremos invitar a la comunidad que habla Español a una reunión informal para conocernos y hablar de temas varios y establecer contactos."
   subtype: social
-  speakers: [719]
+  speakers: [719,756]
   language: en
 -
   id: 27
