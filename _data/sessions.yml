@@ -158,7 +158,7 @@
 -
   id: 20
   title: "Packaging and Publishing in Python"
-  description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (https://carpentries-incubator.github.io/python-packaging-publishing/). This will be the second time this lesson is taught. We will will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
+  description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (https://carpentries-incubator.github.io/python-packaging-publishing/). This will be the second time this lesson is taught. We will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
   - You identify with any of the learner personas for the lesson<br>
   - You have a rough idea how these tools work and want to firm up your knowledge to convince your research group to adopt more of these practices (eg by teaching the workshop locally later)"
   start: 
