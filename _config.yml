@@ -40,6 +40,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform" # call for proposals doc goes in here
 c4sponsorsUrl: "https://carpentries.typeform.com/to/hqoY3I" # call for sponsors doc goes in here
 helpwanted: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"
+register: https://docs.google.com/forms/d/e/1FAIpQLSexQKsVHsvTBsH6OVwvO2J8ZhfDxei98Ot_vxA3TbXG2RuIEw/viewform
 
 # Navigation
 navigationLinks:
@@ -66,7 +67,8 @@ eventDate: "July 14 - August 31, 2020"
 #typeoutTextValues: '""'
 #typeoutFallback: ""
 heroButtons:
-  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22", text: "Help Wanted: See which sessions need your help"}
+#  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22", text: "Help Wanted: See which sessions need your help"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSexQKsVHsvTBsH6OVwvO2J8ZhfDxei98Ot_vxA3TbXG2RuIEw/viewform", text: "Register for CarpentryCon@Home Sessions"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
 #  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
