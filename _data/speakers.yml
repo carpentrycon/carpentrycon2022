@@ -13,17 +13,17 @@
     - {name: "github", link: "https://github.com/kariljordan"}
 - 
   id: 700
-  name: "François"
-  surname: "Michonneau"
-  company: "The Carpentries"
-  title: "Senior Director of Technology"
-  bio: "François is the Senior Director of Technology at The Carpentries. As member of the Infrastructure and Curriculum Teams, he enjoys developing tools that helps beginners learn. He enjoys teaching R and the tidyverse to learners with little or no programming experience. When you meet him, you can talk about best teaching practices, reproducibility, marine biodiversity (data), and/or sea cucumbers."
-  thumbnailUrl: FrancoisMichonneau.jpg
+  name: "Andrea"
+  surname: "Jones-Rooy, Ph.D."
+  company: "NYU Center for Data Science, USA"
+  title: "Director of Undergraduate Studies and Visiting Associate Professor"
+  bio: "Andrea Jones-Rooy, Ph.D. is the Director of Undergraduate Studies and Visiting Associate Professor at the NYU Center for Data Science where she also teaches their popular flagship course, Data Science for Everyone. She earned her Ph.D. in political science at the University of Michigan, Ann Arbor, and has previously taught at Carnegie Mellon and NYU Shanghai. Andrea's goal is to get as many people to think like social scientists as possible, and so she also regularly gives keynote presentations at companies as well as runs trainings and leads research projects for large companies where she uses social scientific methods to help them ask and answer questions about their workforce. Andrea is also a standup comedian, circus performer, and host of the weekly live-streaming YouTube show, Ask a Political Scientist, which is an interactive show that brings political science and stand up comedy together (at last)."
+  thumbnailUrl: AndreaJR.jpg
   ribbon: 
-    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+    - {abbr: "Keynote Speaker", title: "CarpentryCon Keynote Speaker"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/fmic_"}
-    - {name: "github", link: "https://github.com/fmichonneau"}  
+    - {name: "twitter", link: "https://twitter.com/jonesrooy"} 
+    - {name: "site", link: "http://www.jonesrooy.com"} 
 - 
   id: 701
   name: "Malvika"
@@ -39,15 +39,14 @@
     - {name: "github", link: "https://github.com/MalvikaSharan"}
 - 
   id: 702
-  name: "Rohit"
-  surname: "Goswami"
-  company: "Indian Institute of Technology Kanpur"
-  thumbnailUrl: RohitGoswami.jpg
-  ribbon: 
-    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  name: "Stefanie"
+  surname: "Butland"
+  company: "rOpenSci"
+  thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"} 
+      - {name: "twitter", link: "https://twitter.com/stefaniebutland"}
+      - {name: "github", link: "https://github.com/stefaniebutland"}
+      - {name: "site", link: "https://stefaniebutland.netlify.com/"}  
 - 
   id: 703
   name: "Bianca"
@@ -75,6 +74,19 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
+- 
+  id: 705
+  name: "François"
+  surname: "Michonneau"
+  company: "The Carpentries"
+  title: "Senior Director of Technology"
+  bio: "François is the Senior Director of Technology at The Carpentries. As member of the Infrastructure and Curriculum Teams, he enjoys developing tools that helps beginners learn. He enjoys teaching R and the tidyverse to learners with little or no programming experience. When you meet him, you can talk about best teaching practices, reproducibility, marine biodiversity (data), and/or sea cucumbers."
+  thumbnailUrl: FrancoisMichonneau.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/fmic_"}
+    - {name: "github", link: "https://github.com/fmichonneau"}
 - 
   id: 706
   name: "Kay K."
@@ -196,6 +208,17 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/codyhennesy"}
     - {name: "github", link: "https://github.com/chennesy"}
+- 
+  id: 716
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Indian Institute of Technology Kanpur"
+  thumbnailUrl: RohitGoswami.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  social: 
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"}
 -
   id: 717
   name: "Sarah"
@@ -682,6 +705,42 @@ team of volunteer instructors across the region.s"
     - {name: "github", link: "https://github.com/flor14"}
     - {name: "site", link: "http://florencia.netlify.app/"}
     - {name: "twitter", link: "http://twitter.com/cantoflor_87"}
+-
+  id: 757
+  name: "Sher!"
+  surname: "Hurt"
+  company: "Deputy Director of Workshops and Meetings"
+  title: "The Carpentries"
+  bio: "SherAaron (Sher!) Hurt is the Deputy Director of Workshops and Meetings for The Carpentries. In this role she oversees the logistics for over 600 international workshops held annually by The Carpentries and Community Members. In addition she is the Core Team Liaison for The CarpentryCon events. She earned her B.S. in Business Management at Michigan Technological University and M.A. degree in Hospitality Management at Florida International University. SherAaron enjoys applying Carpentries coding practices in her professional and personal pursuits. In her free time she enjoys traveling, exploring different cultures, loose leaf tea and kickboxing."
+  thumbnailUrl: SherAaronHurt.jpg
+  social: 
+    - {name: "github", link: "https://github.com/sheraaronhurt"}
+    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
+-
+  id: 758
+  name: "Kelly"
+  surname: "Barnes"
+  company: "Deputy Director of Instructor Training"
+  title: "The Carpentries"
+  bio: "I am a Social Psychologist by training, but have always viewed education through an interdisciplinary lens shaped heavily by my undergraduate, liberal arts education. I believe having the opportunity to learn leaves us with a responsibility to use that education to better the world. I am passionate about people and knowledge and in every role I take on, I strive to use information to improve people’s lives. After my PhD, I moved into the public sector. I’ve worked in government for the past four years, most recently as a Senior Research and Statistics Advisor with the Ontario Ministry of the Solicitor General. I loved serving the public, but I’m a teacher at heart so I’m thrilled to be part of the education community again. I am currently the Deputy Director of Instructor Training for The Carpentries."
+  thumbnailUrl: KellyBarnes.jpg
+  social: 
+    - {name: "github", link: "https://github.com/klbarnes20"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/klbarnes20/"}
+    - {name: "twitter", link: "https://twitter.com/kbarne2"}
+-
+  id: 777
+  name: "Serah"
+  surname: "Rono"
+  company: "Director of Community Development and Engagement"
+  title: "The Carpentries"
+  bio: "Serah Njambi Rono is a computer scientist and a writer. She has served as a technologist and Developer Advocate in the Open Data, Open Source, Open Science space for more than 6 years now, and has broad and valuable experience in listening to and shepherding communities, developing and implementing strategies for various technical projects, as well as for community building, outreach and the sustainability of existing, mature communities. <br>Serah is currently  the Director of Community Development and Engagement at The Carpentries. She invests her time and energies to work that serves as a precursor to propelling change  across communities in different domains, and believes that the work does not stop until all communities are at par in terms of access to resources and empowerment by information that open source initiatives make available. This is the measure by which she defines impact . Often, the outcome of her work has been a spark in community conversations, contributions and adoptions on different subjects, and pockets of knowledge transfer."
+  thumbnailUrl: SerahRono.jpg
+  social: 
+    - {name: "github", link: "https://github.com/serahrono"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
+    - {name: "twitter", link: "https://twitter.com/serahrono"}
+
   
 
 

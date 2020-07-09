@@ -10,7 +10,7 @@
   title: "Curriculum Development in The Carpentries"
   description: "This skill-up session is aimed at anyone who wants to learn more about how to design good lessons and the lesson development process promoted by The Carpentries.<br><br>If you'd like to create your own lesson, or contribute to the ongoing development of existing curricula, but aren't sure where to start, this session is for you!<br><br>The session will be in 2 parts. First, we will review the principles of curriculum design used for Carpentries lessons. Using the Curriculum Development Handbook, we will present how to use Backward Design to identify what to include in a lesson, decide on the exercises suitable for formative assessment, and the general development life-cycle of a lesson. In the second part, we will present and answer questions about The Carpentries Incubator and The Carpentries Lab, venues to collaborate and share community-developed lessons in the style of The Carpentries.<br><br>After attending the session, participants will be able to design new lessons in style of The Carpentries, create exercises suitable to the learning objectives of their lessons, and contribute to the development of existing curricula."
   subtype: skillup
-  speakers: [700]
+  speakers: [705]
   language: en
 -
   id: 45
@@ -24,7 +24,7 @@
   title: "Reproducible Environments with the Nix Packaging System"
   description: "The issue of dependency management is one which is of interest to all scientists and researchers who wish to develop reproducible results with software. The Nix package management system is one which is cross-platform and will enable the instructors to pin their dependencies to mimic perfectly, the environment of the learners, as a very basic example see https://github.com/HaoZeke/nixCarp. It is a more robust, secure and lightweight alternative to using a docker container and is a very important pedagogical tool as well. The workshop would cover the generation of nix-pkg derivations, which being written as they are in a functional style of programming, needs some description. Furthermore it would cover the best practices of the nix community when it comes to using the nix-shell environments. My experience as a nixpkg manager would let me communicate this tool to my fellow instructors and those at the event. I feel like this would be very beneficial to the audience. Nix, like git is a deep and complicated tool, but which can be used to reap fantastic dividends with a low learning curve if taught correctly."
   subtype: skillup
-  speakers: [702]
+  speakers: [716]
   language: en 
 -
   id: 58
@@ -348,7 +348,7 @@
   title: "Carpentries Instructor Experiences of Teaching Online"
   description: "15 July 2020: 17h00 UTC<br><br>The Carpentries Core Team will be inviting experienced instructors who have ran Carpentries workshops online so far to share their experiences in a themed discussion format. This platform will also allow instructors to share ideas and ask questions related to teaching online workshops. The discussion will take place over two timeslots allowing instructors from various time zones the opportunity to attend the breakout session."
   subtype: breakout
-  speakers: [739]
+  speakers: [739,757,758,777]
   language: en
 - 
   id: 57
@@ -363,6 +363,20 @@
   description: "In order to support the use of data in various contexts, it is important to have champions who demonstrate the value of tools, shepherd new users, and provide support to those learning to use data. In this talk, I’ll cover my experiences with data community building and share strategies from open source communities. I’ll discuss the value of the data community builder and their role within / outside of institutions for encouraging uptake of technical tools. Some of the skills needed for these roles may not be what you think: building relationships, being empathetic toward use cases (and users!), organizing events, teaching effectively, and setting strategy for expanding data networks, among others. This is a shortened version of the csv,conf I gave linked here: bit.ly/2020-05-csvconf"
   subtype: lightning
   speakers: [741]
+  language: en
+-
+  id: 61
+  title: "CarpentryCon @ Home Keynote"
+  description: "CarpentryCon @ Home Keynote will be delivered by Dr. Andrea Jones-Rooy."
+  subtype: keynote
+  speakers: [700]
+  language: en
+-
+  id: 62
+  title: "CarpentryCon @ Home Fireside Chat"
+  description: "CarpentryCon @ Home fireside chat will be moderated by Dr. Kari L. Jordan, The Carpentries Executive Director. Stefanie Butland, Community Manager at rOpenSci and Serah Rono, Director of Community at The Carpentries will be panelists in this session."
+  subtype: keynote
+  speakers: [000,702,777]
   language: en
 
 
