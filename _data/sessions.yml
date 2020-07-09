@@ -17,7 +17,7 @@
 -
   id: 45
   title: "Developing Open Leadership mindset for our learners through mentoring"
-  description: "Leadership skills such as openness, inclusivity, project road mapping, and community building are essential for modern science and research today. Despite this, these skills are rarely taught.<br>br>We believe that scientists and researchers should learn how to effectively lead projects openly, collaboratively, and thoughtfully from day one.To facilitate this, we created Open Life Science (http://openlifesci.org/), a 16-week training and mentorship program that prepares early career researchers and academic leaders to become open science ambassadors for their own projects but for the communities around them.<br><br>In this session, we will discuss mentoring and training our members in Open Science skills, introduce to the Open Life Science (OLS) program's open source resources, and run a “taster session” where we will touch on some of the important aspects of open research, whilst giving it the feel of a collaborative, informative and classic OLS full-cohort call."
+  description: "Leadership skills such as openness, inclusivity, project road mapping, and community building are essential for modern science and research today. Despite this, these skills are rarely taught.<br>br>We believe that scientists and researchers should learn how to effectively lead projects openly, collaboratively, and thoughtfully from day one.To facilitate this, we created Open Life Science (<a href='http://openlifesci.org/'>http://openlifesci.org/</a>), a 16-week training and mentorship program that prepares early career researchers and academic leaders to become open science ambassadors for their own projects but for the communities around them.<br><br>In this session, we will discuss mentoring and training our members in Open Science skills, introduce to the Open Life Science (OLS) program's open source resources, and run a “taster session” where we will touch on some of the important aspects of open research, whilst giving it the feel of a collaborative, informative and classic OLS full-cohort call."
   start: 
   subtype: skillup
   speakers: [701,731]
@@ -25,7 +25,7 @@
 -
   id: 10
   title: "Reproducible Environments with the Nix Packaging System"
-  description: "The issue of dependency management is one which is of interest to all scientists and researchers who wish to develop reproducible results with software. The Nix package management system is one which is cross-platform and will enable the instructors to pin their dependencies to mimic perfectly, the environment of the learners, as a very basic example see https://github.com/HaoZeke/nixCarp. It is a more robust, secure and lightweight alternative to using a docker container and is a very important pedagogical tool as well. The workshop would cover the generation of nix-pkg derivations, which being written as they are in a functional style of programming, needs some description. Furthermore it would cover the best practices of the nix community when it comes to using the nix-shell environments. My experience as a nixpkg manager would let me communicate this tool to my fellow instructors and those at the event. I feel like this would be very beneficial to the audience. Nix, like git is a deep and complicated tool, but which can be used to reap fantastic dividends with a low learning curve if taught correctly."
+  description: "The issue of dependency management is one which is of interest to all scientists and researchers who wish to develop reproducible results with software. The Nix package management system is one which is cross-platform and will enable the instructors to pin their dependencies to mimic perfectly, the environment of the learners, as a very basic example see <a href='https://github.com/HaoZeke/nixCarp'>https://github.com/HaoZeke/nixCarp</a>. It is a more robust, secure and lightweight alternative to using a docker container and is a very important pedagogical tool as well. The workshop would cover the generation of nix-pkg derivations, which being written as they are in a functional style of programming, needs some description. Furthermore it would cover the best practices of the nix community when it comes to using the nix-shell environments. My experience as a nixpkg manager would let me communicate this tool to my fellow instructors and those at the event. I feel like this would be very beneficial to the audience. Nix, like git is a deep and complicated tool, but which can be used to reap fantastic dividends with a low learning curve if taught correctly."
   start: 
   subtype: skillup
   speakers: [716]
@@ -63,7 +63,7 @@
 -
   id: 44
   title: "Embedding Accessible Low-Tech Strategies Into Your Data Literacy Approach"
-  description: "This session is a follow up to my recent talk: Low-Income Data Diaries - How “Low-Tech” Data Experiences Can Inspire Accessible Data Skills and Tool Design (https://youtu.be/XV_jxbB1cBY) at csv,conf,v5. In that csvconf.com talk, I made the case that a significant population of data stakeholders exist in low-technical skills and low-technological infrastructure context, and find current data literacy approaches (Data Literacy 1.0) inaccessible. The main takeaway from the csv,conf talk was the need to rethink and redesign a new approach (Data Literacy 2.0) that makes data skills and resources more accessible to these stakeholders. Whereas the prior talk set the stage for the current challenge, this session will dive into strategies and resources that I have discovered and develop to get started with embedding low-tech skills and resources into our data literacy approaches."
+  description: "This session is a follow up to my recent talk: Low-Income Data Diaries - How “Low-Tech” Data Experiences Can Inspire Accessible Data Skills and Tool Design (<a href='https://youtu.be/XV_jxbB1cBY'>https://youtu.be/XV_jxbB1cBY</a>) at csv,conf,v5. In that csvconf.com talk, I made the case that a significant population of data stakeholders exist in low-technical skills and low-technological infrastructure context, and find current data literacy approaches (Data Literacy 1.0) inaccessible. The main takeaway from the csv,conf talk was the need to rethink and redesign a new approach (Data Literacy 2.0) that makes data skills and resources more accessible to these stakeholders. Whereas the prior talk set the stage for the current challenge, this session will dive into strategies and resources that I have discovered and develop to get started with embedding low-tech skills and resources into our data literacy approaches."
   start: 
   subtype: breakout
   speakers: [707]
@@ -158,7 +158,7 @@
 -
   id: 20
   title: "Packaging and Publishing in Python"
-  description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (https://carpentries-incubator.github.io/python-packaging-publishing/). This will be the second time this lesson is taught. We will will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
+  description: "This workshop covers how to make your code more reusable and citable. Starting from an expectation of miscellaneous scripts and notebooks that are common among competent practitioners of python, who focus on their research analysis, we will cover how to organize your code into a pip-installable package with a live documentation website.<br><br>The (alpha) lesson materials are located in the Carpentries Incubator (<a href='https://carpentries-incubator.github.io/python-packaging-publishing/'>https://carpentries-incubator.github.io/python-packaging-publishing/</a>). This will be the second time this lesson is taught. We will will collect feedback to improve the materials for others to use them.<br><br>You should attend this workshop if:<br>
   - You identify with any of the learner personas for the lesson<br>
   - You have a rough idea how these tools work and want to firm up your knowledge to convince your research group to adopt more of these practices (eg by teaching the workshop locally later)"
   start: 
@@ -262,7 +262,7 @@
 - 
   id: 34
   title: "Puzzled Pint Social"
-  description: "Puzzled Pint (http://www.puzzledpint.com/) is a group that releases a monthly set of puzzles to be done w/ friends over a pint. Puzzles include letter and word games, decoding, and more. Let's get together over a virtual pint, form teams, and solve the July puzzles!"
+  description: "Puzzled Pint (<a href='http://www.puzzledpint.com/'>http://www.puzzledpint.com/</a>) is a group that releases a monthly set of puzzles to be done w/ friends over a pint. Puzzles include letter and word games, decoding, and more. Let's get together over a virtual pint, form teams, and solve the July puzzles!"
   start: 
   subtype: social
   speakers: [726]
@@ -310,7 +310,7 @@
 - 
   id: 46
   title: "Learning Ally Skills"
-  description: "Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (https://frameshiftconsulting.com/ally-skills-workshop/)."
+  description: "Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (<a href='https://frameshiftconsulting.com/ally-skills-workshop/'>https://frameshiftconsulting.com/ally-skills-workshop/</a>)."
   start: 
   subtype: skillup
   speakers: [701,731]
@@ -350,7 +350,7 @@
 - 
   id: 51
   title: "Library Carpentry Wikidata lesson sprint"
-  description: "14 July 2020: 08h00 UTC<br><br>The Library Carpentry Wikidata lesson (https://github.com/LibraryCarpentry/lc-wikidata) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
+  description: "14 July 2020: 08h00 UTC<br><br>The Library Carpentry Wikidata lesson (<a href='https://github.com/LibraryCarpentry/lc-wikidata'>https://github.com/LibraryCarpentry/lc-wikidata</a>) aims to introduce the linked open data platform Wikidata to people working in libraries and was created with contribution from the WikiCite community. It covers the basic ideas behind Wikidata, editing and creation of entries as well as querying of Wikidata using the querying language SPARQL. The lesson will soon be ready to be used in workshops and will be taught to test audiences. In this half day sprit we would like to fill gaps and further improve the lesson."
   start: 
   subtype: breakout
   speakers: [742,735]
@@ -374,7 +374,7 @@
 - 
   id: 54
   title: "Library Carpentry FAIR Data & Software Lesson Sprint"
-  description: "The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
+  description: "The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (<a href='https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/'>https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/</a>) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
   start: 
   subtype: sprint
   speakers: [737]
