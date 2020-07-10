@@ -4,7 +4,7 @@
   surname: "L. Jordan"
   company: "The Carpentries"
   title: "Executive Director"
-  bio: "Dr. Kari L. Jordan studied mechanical engineering at Michigan Technological University. Her doctoral research explored self-efficacy of underrepresented engineering students. After completing a post-doc in the Engineering Fundamentals Department at Embry-Riddle Aeronautical University, she was hired to lead Data Carpentry’s Assessment Efforts. She currently serves as Executive Director for The Carpentries. Kari enjoys running the Engineer Like a Girl after-school program in her free time, and teaching Zumba fitness."
+  bio: "Dr. Kari L. Jordan studied mechanical engineering at Michigan Technological University. Her doctoral research explored self-efficacy of underrepresented engineering students. After completing a post-doc in the Engineering Fundamentals Department at Embry-Riddle Aeronautical University, she was hired to lead Data Carpentry's Assessment Efforts. She currently serves as Executive Director for The Carpentries. Kari enjoys running the Engineer Like a Girl after-school program in her free time, and teaching Zumba fitness."
   thumbnailUrl: KariJordan.jpg
   ribbon: 
     - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
@@ -225,7 +225,7 @@
   surname: "Brown"
   company: "Brown University, USA"
   title: "Postdoctoral researcher"
-  bio: "I am a Data Science Initiative Postdoc at Brown University affiliated to the Division of Applied Mathematics and hosted by Professor Bjorn Sandstede. Previously, I completed a Chancellor’s Postdoctoral Fellow in Computer Science at the University of California, Berkeley with faculty mentor Professor Mike Jordan. I completed a BS in Electrical Engineering with a minor in Biomedical Engineering in 2011 a MS in Electrical and Computer Engineering and a PhD in Electrical Engineering in 2016 advised by Jennifer Dy both at Northeastern University. My graduate studies were supported by a Draper Laboratory Fellowship and a National Science Foundation Graduate Research Fellowship. My other professional activities include teaching computational data analysis skills to researchers with The Carpentries and serving as the treasurer emeritus on the Women in Machine Learning, Inc Senior Advisory Council. "
+  bio: "I am a Data Science Initiative Postdoc at Brown University affiliated to the Division of Applied Mathematics and hosted by Professor Bjorn Sandstede. Previously, I completed a Chancellor's Postdoctoral Fellow in Computer Science at the University of California, Berkeley with faculty mentor Professor Mike Jordan. I completed a BS in Electrical Engineering with a minor in Biomedical Engineering in 2011 a MS in Electrical and Computer Engineering and a PhD in Electrical Engineering in 2016 advised by Jennifer Dy both at Northeastern University. My graduate studies were supported by a Draper Laboratory Fellowship and a National Science Foundation Graduate Research Fellowship. My other professional activities include teaching computational data analysis skills to researchers with The Carpentries and serving as the treasurer emeritus on the Women in Machine Learning, Inc Senior Advisory Council. "
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
@@ -267,7 +267,7 @@
   surname: "Pedersen"
   company: "University of Toronto Libraries, Canada"
   title: "Metadata Librarian"
-  bio: "Jordan Pedersen is Metadata Librarian at the University of Toronto Libraries, a certified Carpentries Instructor and a recent graduate from the Master of Information program at the University of Toronto’s iSchool. "
+  bio: "Jordan Pedersen is Metadata Librarian at the University of Toronto Libraries, a certified Carpentries Instructor and a recent graduate from the Master of Information program at the University of Toronto's iSchool. "
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -306,7 +306,7 @@
   surname: "Tatara"
   company: "Code Refinery, Norway"
   title: "Regional Coordinator"
-  bio: "Naoe is the Carpentries and CodeRefinery’s Regional Coordinator in the Nordic countries. In the mega CodeRefinery online workshop, she served as Zoom-host. She works at the University of Oslo Library as an advisor within Digital Scholarship services and supports training activities including Carpentries at the university. Naoe's ORCID: https://orcid.org/0000-0002-0049-1634 "
+  bio: "Naoe is the Carpentries and CodeRefinery's Regional Coordinator in the Nordic countries. In the mega CodeRefinery online workshop, she served as Zoom-host. She works at the University of Oslo Library as an advisor within Digital Scholarship services and supports training activities including Carpentries at the university. Naoe's ORCID: https://orcid.org/0000-0002-0049-1634 "
   thumbnailUrl: NaoeTatara.jpg
   ribbon: 
     - {abbr: "Regional Coordinator", title: "Carpentries Regional Coordinator, Nordic Countries", url: "https://carpentries.org/regionalcoordinators/"}
@@ -357,9 +357,10 @@
   surname: "Vanichkina"
   company: "Sydney Informatics Hub, Australia"
   title: "Data Analytics Trainer and Data Scientist "
-  bio: "Hi! I’m Darya, a Data Scientist & Professional Educator. I work at the University of Sydney’s Informatics Hub as a data science consultant, supporting researchers from across the university by solving their big (and not-so-big) data problems. I also coordinate SIH’s data science training program, where I mentor staff in best teaching practices, develop and deliver advanced analytics training for researchers.<br><br>I’m passionate about using data to understand the world, and love solving real problems using data science, machine learning, statistics and high-performance/cloud computing. I’ve had a lot of amazing opportunities in my life, and my way of giving back to the universe for them is to train and teach.<br><br>I’m proud to be a Software and Data Carpentry Instructor, Maintainer, Curriculum Contributor, and Mentor, and am passionate about enabling reproducible research using open source tools. I’m also an RStudio certified trainer; reach out to me here if you’re interested in custom corporate training."
-  thumbnailUrl: Carpentries.png
+  bio: "Hi! I'm Darya, a Data Scientist & Professional Educator. I work at the University of Sydney's Informatics Hub as a data science consultant, supporting researchers from across the university by solving their big (and not-so-big) data problems. I also coordinate SIH's data science training program, where I mentor staff in best teaching practices, develop and deliver advanced analytics training for researchers.<br><br>I'm passionate about using data to understand the world, and love solving real problems using data science, machine learning, statistics and high-performance/cloud computing. I've had a lot of amazing opportunities in my life, and my way of giving back to the universe for them is to train and teach.<br><br>I'm proud to be a Software and Data Carpentry Instructor, Maintainer, Curriculum Contributor, and Mentor, and am passionate about enabling reproducible research using open source tools. I'm also an RStudio certified trainer; reach out to me here if you're interested in custom corporate training."
+  thumbnailUrl: DaryaVanichkina.jpg
   ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
     - {name: "site", link: "http://www.daryavanichkina.com"}
@@ -400,7 +401,7 @@
   surname: "Wilson"
   company: "RStudio, Canada"
   title: "Educator"
-  bio: "I left academia in 2010 and spent the next seven years building Software Carpentry into a non-profit organization that helps thousands of researchers worldwide every year. I also helped organize a summit meeting of grassroots groups trying to improve inclusion and diversity in the tech sector, edited a book on evidence-based software engineering and a series on software architecture, and wrote some more children’s books.<br><br>I left Software Carpentry in January 2017, and after a brief stints with Rangle.io (sponsors of the wonderful Bridge program) and DataCamp (which ended badly), I am now in the Education group at RStudio, makers of a world-class IDE and other fine tools. My main responsibility is RStudio’s instructor training and certification program, but my job gives me a chance to do a lot of other things, including a book called Teaching Tech Together and another on JavaScript for data scientists. "
+  bio: "I left academia in 2010 and spent the next seven years building Software Carpentry into a non-profit organization that helps thousands of researchers worldwide every year. I also helped organize a summit meeting of grassroots groups trying to improve inclusion and diversity in the tech sector, edited a book on evidence-based software engineering and a series on software architecture, and wrote some more children's books.<br><br>I left Software Carpentry in January 2017, and after a brief stints with Rangle.io (sponsors of the wonderful Bridge program) and DataCamp (which ended badly), I am now in the Education group at RStudio, makers of a world-class IDE and other fine tools. My main responsibility is RStudio's instructor training and certification program, but my job gives me a chance to do a lot of other things, including a book called Teaching Tech Together and another on JavaScript for data scientists. "
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -439,7 +440,7 @@
   surname: "Rockenberger"
   company: "University of Oslo Library"
   title: "Research Data Management Advisor"
-  bio: "Annika works at the University of Oslo Library as an advisor for research data management and serves as the local coordinator of Carpentries activities. She has a background in the humanities and research experience with a variety of digital projects. Since 2015 she’s been involved with the Carpentries, since 2018 as a certified instructor and since 2020 as an instructor trainer."
+  bio: "Annika works at the University of Oslo Library as an advisor for research data management and serves as the local coordinator of Carpentries activities. She has a background in the humanities and research experience with a variety of digital projects. Since 2015 she's been involved with the Carpentries, since 2018 as a certified instructor and since 2020 as an instructor trainer."
   thumbnailUrl: AnnikaRockenberger.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
@@ -507,7 +508,7 @@
   surname: "van Rensburg"
   company: "The Carpentries"
   title: "Regional Consultant for Southern Africa"
-  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries Angelique aims at developing strategies and workflows to adapt The Carpentries’ membership and workshop programs to function optimally in Southern Africa. In addition the role aims to assist and advise in developing a plan to create and support a strong
+  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries Angelique aims at developing strategies and workflows to adapt The Carpentries' membership and workshop programs to function optimally in Southern Africa. In addition the role aims to assist and advise in developing a plan to create and support a strong
 team of volunteer instructors across the region.s"
   thumbnailUrl: AngeliqueVanRensburg.jpg
   social: 
@@ -532,7 +533,7 @@ team of volunteer instructors across the region.s"
   surname: "Li"
   company: "GeoDa Center, University of Chicago, USA"
   title: "Spatial data science/education"
-  bio: "I’m currently working as the R Spatial Advocate for the Center for Spatial Data Science at UChicago. Most recently, I did data science for transit at TransLoc and wrote a spatial econometrics thesis on the Detroit housing market. I am also Maintainer Community Lead for The Carpentries."
+  bio: "I'm currently working as the R Spatial Advocate for the Center for Spatial Data Science at UChicago. Most recently, I did data science for transit at TransLoc and wrote a spatial econometrics thesis on the Detroit housing market. I am also Maintainer Community Lead for The Carpentries."
   thumbnailUrl: Carpentries.png
   ribbon: 
     - {abbr: "Maintainer Community Lead", title: "Carpentries Maintainer Community Lead", url: "https://carpentries.org/maintainers/"}
@@ -544,9 +545,9 @@ team of volunteer instructors across the region.s"
   id: 742
   name: "Rabea"
   surname: "Müller"
-  company: "TH Köln – University of Applied Sciences, Germany"
+  company: "TH Köln -- University of Applied Sciences, Germany"
   title: "Library Science student"
-  bio: "Rabea is studying Library Science at the TH Köln – University of Applied Sciences and is member of the Data Science and Services department of ZB MED. She is involved in several activites in the Carpentries community as an Instructor and Maintainer."
+  bio: "Rabea is studying Library Science at the TH Köln -- University of Applied Sciences and is member of the Data Science and Services department of ZB MED. She is involved in several activites in the Carpentries community as an Instructor and Maintainer."
   thumbnailUrl: RabeaMuller.jpg
   ribbon: 
     - {abbr: "Maintainer ", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
@@ -598,7 +599,7 @@ team of volunteer instructors across the region.s"
   surname: "Grachet, PhD"
   company: "Tfaily lab, University of Arizona, USA"
   title: "Postdoctoral Researcher"
-  bio: "Nathalia is originally from Brazil. She received a B.S. in Agricultural Engineering in 2012, attended graduate school at Oklahoma State University. She received her M.S. in Entomology and Plant Pathology in 2015, and her Ph.D. in Plant Pathology studying plant-pathogen interactions of bermudagrass and the soil-borne fungal pathogens of spring dead spot. Nathalia’s research interests broadened when she attended two computational biology courses at Cold Spring Harbor Laboratory in 2017 and 2018. She learned the basics of Python programming and bioinformatics, and fell in love! She became a certified instructor for the Software and Data Carpentry in the Fall of 2018, and have taught campus-wide workshops in a variety of topics including Python and Unix command line. Nathalia joined the Tfaily lab in October 2019. Currently, she is developing data analysis pipelines for a variety of research projects in the Tfaily lab, including soil organic matter composition by mass spectrometry techniques, microbial community, multi-omics data integration."
+  bio: "Nathalia is originally from Brazil. She received a B.S. in Agricultural Engineering in 2012, attended graduate school at Oklahoma State University. She received her M.S. in Entomology and Plant Pathology in 2015, and her Ph.D. in Plant Pathology studying plant-pathogen interactions of bermudagrass and the soil-borne fungal pathogens of spring dead spot. Nathalia's research interests broadened when she attended two computational biology courses at Cold Spring Harbor Laboratory in 2017 and 2018. She learned the basics of Python programming and bioinformatics, and fell in love! She became a certified instructor for the Software and Data Carpentry in the Fall of 2018, and have taught campus-wide workshops in a variety of topics including Python and Unix command line. Nathalia joined the Tfaily lab in October 2019. Currently, she is developing data analysis pipelines for a variety of research projects in the Tfaily lab, including soil organic matter composition by mass spectrometry techniques, microbial community, multi-omics data integration."
   thumbnailUrl: NathaliaGraf.png
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -611,7 +612,7 @@ team of volunteer instructors across the region.s"
   surname: "Doehle"
   company: "Oklahoma State University, USA"
   title: "Digital Services Librarian"
-  bio: "Phillip Doehle - Phillip is the Digital Services Librarian at Oklahoma State University. He coordinates the university’s Carpentries initiative, teaching introductory data-science skills to researchers. He has been actively involved in the Carpentries since 2015. Phillip holds a Master’s degree in applied math from Oklahoma State University."
+  bio: "Phillip Doehle - Phillip is the Digital Services Librarian at Oklahoma State University. He coordinates the university's Carpentries initiative, teaching introductory data-science skills to researchers. He has been actively involved in the Carpentries since 2015. Phillip holds a Master's degree in applied math from Oklahoma State University."
   thumbnailUrl: PhillipDoehle.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -722,12 +723,25 @@ team of volunteer instructors across the region.s"
   surname: "Barnes"
   title: "Deputy Director of Instructor Training"
   company: "The Carpentries"
-  bio: "I am a Social Psychologist by training, but have always viewed education through an interdisciplinary lens shaped heavily by my undergraduate, liberal arts education. I believe having the opportunity to learn leaves us with a responsibility to use that education to better the world. I am passionate about people and knowledge and in every role I take on, I strive to use information to improve people’s lives. After my PhD, I moved into the public sector. I’ve worked in government for the past four years, most recently as a Senior Research and Statistics Advisor with the Ontario Ministry of the Solicitor General. I loved serving the public, but I’m a teacher at heart so I’m thrilled to be part of the education community again. I am currently the Deputy Director of Instructor Training for The Carpentries."
+  bio: "I am a Social Psychologist by training, but have always viewed education through an interdisciplinary lens shaped heavily by my undergraduate, liberal arts education. I believe having the opportunity to learn leaves us with a responsibility to use that education to better the world. I am passionate about people and knowledge and in every role I take on, I strive to use information to improve people's lives. After my PhD, I moved into the public sector. I've worked in government for the past four years, most recently as a Senior Research and Statistics Advisor with the Ontario Ministry of the Solicitor General. I loved serving the public, but I'm a teacher at heart so I'm thrilled to be part of the education community again. I am currently the Deputy Director of Instructor Training for The Carpentries."
   thumbnailUrl: KellyBarnes.jpg
   social: 
     - {name: "github", link: "https://github.com/klbarnes20"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/klbarnes20/"}
     - {name: "twitter", link: "https://twitter.com/kbarne2"}
+-
+  id: 759
+  name: "Brian"
+  surname: "Ballsun-Stanton"
+  company: "Macquarie University Faculty of Arts, Sydney, Australia"
+  title: "Solutions Architect (Digital Humanities)"
+  bio: "Brian is solutions architect (Digital Humanities) for Macquarie University's Faculty of Arts. He has over 8 years designing and delivering technical solutions for academic and student research projects at the Macquarie University Faculty of Arts and UNSW Australia. Chief Investigator in grants and prizes across the humanities and social sciences totalling over AUD $2,610,000. These have included Technical Director for a field-data collection project, delivering 50+ field data collection modules since 2013. Active member of The Carpentries Trainers Leadership group, Instructor Trainer, and Instructor in good standing. Lead instructor for 10+ carpentries workshops delivered since 2017 and active in local initiatives such as the Research Bazaar Sydney. Developed a partnership with Ubisoft that led to Macquarie University's engagement on the Google Arts and Culture Platform, using AI to assist researchers in translating Ancient Egyptian Hieroglyphs. Co-supervised two MRES students using technology as a fundamental component of their research. Provision of technical advice, database designs and solution-focused support for academic and student research projects across Australian and International academic institutions. An internationally respected researcher in the Digital Humanities with eleven peer-reviewed publications, book-chapters, and conference presentations."
+  thumbnailUrl: BrianBallsunStanton.png
+  ribbon: 
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "site", link: "http://www.drbbs.org"}
+    - {name: "github", link: "https://github.com/denubis"}
 -
   id: 777
   name: "Serah"
@@ -740,8 +754,6 @@ team of volunteer instructors across the region.s"
     - {name: "github", link: "https://github.com/serahrono"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
     - {name: "twitter", link: "https://twitter.com/serahrono"}
-
-  
 
 
   
