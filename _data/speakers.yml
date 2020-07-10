@@ -729,20 +729,7 @@ team of volunteer instructors across the region.s"
     - {name: "linkedin", link: "https://www.linkedin.com/in/klbarnes20/"}
     - {name: "twitter", link: "https://twitter.com/kbarne2"}
 -
-  id: 777
-  name: "Serah"
-  surname: "Rono"
-  title: "Director of Community Development and Engagement"
-  company: "The Carpentries"
-  bio: "Serah Njambi Rono is a computer scientist and a writer. She has served as a technologist and Developer Advocate in the Open Data, Open Source, Open Science space for more than 6 years now, and has broad and valuable experience in listening to and shepherding communities, developing and implementing strategies for various technical projects, as well as for community building, outreach and the sustainability of existing, mature communities. <br>Serah is currently  the Director of Community Development and Engagement at The Carpentries. She invests her time and energies to work that serves as a precursor to propelling change  across communities in different domains, and believes that the work does not stop until all communities are at par in terms of access to resources and empowerment by information that open source initiatives make available. This is the measure by which she defines impact . Often, the outcome of her work has been a spark in community conversations, contributions and adoptions on different subjects, and pockets of knowledge transfer."
-  thumbnailUrl: SerahRono.jpg
-  social: 
-    - {name: "github", link: "https://github.com/serahrono"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
-    - {name: "twitter", link: "https://twitter.com/serahrono"}
-
--
-  id: 778
+  id: 759
   name: "Brian"
   surname: "Ballsun-Stanton"
   company: "Macquarie University Faculty of Arts, Sydney, Australia"
@@ -754,7 +741,18 @@ team of volunteer instructors across the region.s"
   social: 
     - {name: "site", link: "http://www.drbbs.org"}
     - {name: "github", link: "https://github.com/denubis"}
-    
+-
+  id: 777
+  name: "Serah"
+  surname: "Rono"
+  title: "Director of Community Development and Engagement"
+  company: "The Carpentries"
+  bio: "Serah Njambi Rono is a computer scientist and a writer. She has served as a technologist and Developer Advocate in the Open Data, Open Source, Open Science space for more than 6 years now, and has broad and valuable experience in listening to and shepherding communities, developing and implementing strategies for various technical projects, as well as for community building, outreach and the sustainability of existing, mature communities. <br>Serah is currently  the Director of Community Development and Engagement at The Carpentries. She invests her time and energies to work that serves as a precursor to propelling change  across communities in different domains, and believes that the work does not stop until all communities are at par in terms of access to resources and empowerment by information that open source initiatives make available. This is the measure by which she defines impact . Often, the outcome of her work has been a spark in community conversations, contributions and adoptions on different subjects, and pockets of knowledge transfer."
+  thumbnailUrl: SerahRono.jpg
+  social: 
+    - {name: "github", link: "https://github.com/serahrono"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
+    - {name: "twitter", link: "https://twitter.com/serahrono"}
 
 
   
