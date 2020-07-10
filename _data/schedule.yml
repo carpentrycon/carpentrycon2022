@@ -9,6 +9,11 @@
     - {title: "Fri, July 17", color: "#e41e63"}
   timeslots:
     - {
+      startTime: "00:00",
+      endTime: "04:00",
+      sessionIds: [404, 000,404, 404, 404]
+    }
+    - {
     	startTime: "08:00",
     	endTime: "12:00",
     	sessionIds: [404,51,404, 404, 404]
@@ -22,11 +27,6 @@
     	startTime: "16:00",
     	endTime: "20:00",
     	sessionIds: [404,404,56, 42, 404]
-    }
-    - {
-      startTime: "20:00",
-      endTime: "24:00",
-      sessionIds: [000,404,404, 404, 404]
     }
 - 
   date: "2020-07-19"
