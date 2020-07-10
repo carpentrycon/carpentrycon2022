@@ -714,6 +714,8 @@ team of volunteer instructors across the region.s"
   company: "The Carpentries"
   bio: "SherAaron (Sher!) Hurt is the Deputy Director of Workshops and Meetings for The Carpentries. In this role she oversees the logistics for over 600 international workshops held annually by The Carpentries and Community Members. In addition she is the Core Team Liaison for The CarpentryCon events. She earned her B.S. in Business Management at Michigan Technological University and M.A. degree in Hospitality Management at Florida International University. SherAaron enjoys applying Carpentries coding practices in her professional and personal pursuits. In her free time she enjoys traveling, exploring different cultures, loose leaf tea and kickboxing."
   thumbnailUrl: SheraaronHurt.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "github", link: "https://github.com/sheraaronhurt"}
     - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
@@ -725,6 +727,8 @@ team of volunteer instructors across the region.s"
   company: "The Carpentries"
   bio: "I am a Social Psychologist by training, but have always viewed education through an interdisciplinary lens shaped heavily by my undergraduate, liberal arts education. I believe having the opportunity to learn leaves us with a responsibility to use that education to better the world. I am passionate about people and knowledge and in every role I take on, I strive to use information to improve people's lives. After my PhD, I moved into the public sector. I've worked in government for the past four years, most recently as a Senior Research and Statistics Advisor with the Ontario Ministry of the Solicitor General. I loved serving the public, but I'm a teacher at heart so I'm thrilled to be part of the education community again. I am currently the Deputy Director of Instructor Training for The Carpentries."
   thumbnailUrl: KellyBarnes.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "github", link: "https://github.com/klbarnes20"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/klbarnes20/"}
@@ -750,6 +754,8 @@ team of volunteer instructors across the region.s"
   company: "The Carpentries"
   bio: "Serah Njambi Rono is a computer scientist and a writer. She has served as a technologist and Developer Advocate in the Open Data, Open Source, Open Science space for more than 6 years now, and has broad and valuable experience in listening to and shepherding communities, developing and implementing strategies for various technical projects, as well as for community building, outreach and the sustainability of existing, mature communities. <br>Serah is currently  the Director of Community Development and Engagement at The Carpentries. She invests her time and energies to work that serves as a precursor to propelling change  across communities in different domains, and believes that the work does not stop until all communities are at par in terms of access to resources and empowerment by information that open source initiatives make available. This is the measure by which she defines impact . Often, the outcome of her work has been a spark in community conversations, contributions and adoptions on different subjects, and pockets of knowledge transfer."
   thumbnailUrl: SerahRono.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "github", link: "https://github.com/serahrono"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
