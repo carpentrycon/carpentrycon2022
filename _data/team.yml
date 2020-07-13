@@ -32,7 +32,7 @@
   name: "Ouso"
   surname: "Daniel"
   title: "Task Force Co-chair"
-  thumbnailUrl: DanielOuso.jpg
+  thumbnailUrl: DanielOuso.png
   cochair: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/ousodanos"}
