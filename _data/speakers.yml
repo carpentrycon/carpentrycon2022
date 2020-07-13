@@ -41,12 +41,14 @@
   id: 702
   name: "Stefanie"
   surname: "Butland"
-  company: "rOpenSci"
-  thumbnailUrl: Carpentries.png
+  company: "rOpenSci, Canada"
+  title: "Community Manager"
+  bio: "I have my dream job as the Community Manager for rOpenSci where I help build up the social and technical infrastructure for open and reproducible research software in R. I'm a biologist, former low-throughput bioinformatician, and compulsive people-connector and knowledge-sharer. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. I was one of the inaugural AAAS Community Engagement Fellows and am actively involved with the new Center for Scientific Collaboration and Community Engagement. My favourite word is 'welcome' and I love helping people recognize themselves - where they shine, and where they fit."
+  thumbnailUrl: StefanieButland-photo-by-novak-rogic.jpg
   social: 
       - {name: "twitter", link: "https://twitter.com/stefaniebutland"}
       - {name: "github", link: "https://github.com/stefaniebutland"}
-      - {name: "site", link: "https://stefaniebutland.netlify.com/"}  
+      - {name: "site", link: "https://stefaniebutland.netlify.com/"}
 - 
   id: 703
   name: "Bianca"
@@ -430,7 +432,8 @@
   surname: "Tsang"
   company: "eLife, UK"
   title: "Innovation Community Manager"
-  thumbnailUrl: Carpentries.png
+  bio: "Emmy Tsang is the Innovation Community Manager at eLife, a non-profit organisation with the mission to accelerate research communication and discovery. She is responsible for the day-to-day running of the eLife Innovation Initiative, which supports the development of open-source tools, technologies and processes aimed at improving the discovery, sharing, consumption and evaluation of scientific research. She is passionate about building communities, fostering collaborations and developing technological solutions to make research more open, reproducible and user-friendly."
+  thumbnailUrl: EmmyTsang.jpg
   social: 
     - {name: "github", link: "https://github.com/emmyft"}
     - {name: "twitter", link: "http://twitter.com/emmy_ft"}
@@ -497,11 +500,13 @@
   id: 738
   name: "Hannah C."
   surname: "Gunderman"
-  company: "Carnegie Mellon University Libraries"
+  company: "Carnegie Mellon University Libraries, USA"
   title: "Research Data Management Consultant"
-  thumbnailUrl: Carpentries.png
+  bio: "Hannah C. Gunderman is a Research Data Management Consultant with Carnegie Mellon University Libraries. She is relatively new to librarianship, having earned a Ph.D. in Geography in 2018 and working for several years in human geography research at Oak Ridge National Laboratory before shifting careers. Her research interests include using popular culture to teach data science, inclusivity in data management education, and cultural geography. In her free time, she enjoys video games and hanging out with her dogs and cats."
+  thumbnailUrl: HannahGunderman.png
   social: 
     - {name: "github", link: "https://github.com/hannahcgunderman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hannahcgunderman/"}
 -
   id: 739
   name: "Angelique"
@@ -658,6 +663,7 @@ team of volunteer instructors across the region.s"
   thumbnailUrl: NazeefaFatima.png
   social: 
     - {name: "github", link: "https://github.com/Nazeeefa"}
+    - {name: "twitter", link: "https://twitter.com/_nazeefatima"}
 -
   id: 752
   name: "Monica"
@@ -746,6 +752,27 @@ team of volunteer instructors across the region.s"
   social: 
     - {name: "site", link: "http://www.drbbs.org"}
     - {name: "github", link: "https://github.com/denubis"}
+-
+  id: 760
+  name: "Emma"
+  surname: "Slayton"
+  company: "Carnegie Mellon University Libraries, USA"
+  title: "Data Curation, Visualization, and GIS specialist"
+  bio: "Emma Slayton serves as the Data Curation, Visualization, and GIS specialist at Carnegie Mellon University Libraries. She obtained an MPhil from the University of Oxford in 2013 and completed her Ph.D. at the Faculty of Archaeology, Leiden University in 2018. Her current work centers around improving and supporting digital literacy efforts."
+  thumbnailUrl: EmmaSlayton.jpg
+- 
+  id: 761
+  name: "Ouso"
+  surname: "Daniel"
+  title: "Task Force Co-chair"
+  company: "CarpentryCon @ Home"
+  bio: "Ouso has a research background in molecular biology with latter interests in bioinformatics. He has  MSc. in Molecular biology and Bioinformatics from Jomo Kenyatta University of Agriculture and Technology, Kenya. He has worked short contracts as bioinformatics support (training) at ICIPE, recently completed the Frictionless Data fellowship at the Open Knowledge Foundation and is a certified Carpentries instructor. Ouso is currently co-chair of the CarpentryCon Task Force. He is interested in computational interventions in biological research and also involved with open and reproducible science advocacy."
+  thumbnailUrl: DanielOuso.png
+  ribbon: 
+    - {abbr: "Organiser", title: "CarpentryCon @ Home Organising Co-chair", url: "https://2020.carpentrycon.org/task-force/"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ousodanos"}
+    - {name: "github", link: "https://github.com/ousodaniel"}
 -
   id: 777
   name: "Serah"

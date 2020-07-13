@@ -3,7 +3,7 @@
   title: "Opening Keynote by Dr. Kari Jordan"
   description: "13 July 2020: 14h00 UTC <br>  14 July 2020: 00h00 UTC <br><br>This will be the first session of CarpentryCon @ Home and will be delivered by The Carpentries Executive Director, Dr. Kari L. Jordan."
   etherpad: https://pad.carpentries.org/cchome-keynote-opening
-  start:  "13 July at 14h00 UTC <br>  14 July at 24h00 UTC"
+  start:  "13 July at 14h00 UTC <br>  14 July at 00h00 UTC"
   subtype: keynote
   speakers: [000]
   language: en
@@ -92,7 +92,7 @@
   etherpad: https://pad.carpentries.org/cchome-skillup-frictionless-data
   start:  15 July at 13h00 UTC
   subtype: breakout
-  speakers: [708,752]
+  speakers: [708,752,761]
   language: en
 - 
   id: 18
@@ -475,6 +475,15 @@
   start:  26 August at 21h00 UTC <br>  27 August at 15h00 UTC
   subtype: keynote
   speakers: [000,702,777]
+  language: en
+-
+  id: 63
+  title: "CarpentryCon Lightning Talks"
+  description: "07 August 2020: 13h00 UTC <br><br>CarpentryCon Lightning talks session will feature 5 minute talks by Carpentries community members on various data science, open science, open source and core skills work they are involved in."
+  etherpad: https://pad.carpentries.org/cchome-lightning-talks 
+  start:  07 August at 13h00 UTC
+  subtype: Lightning
+  speakers: [760,721,732,735,738,741]
   language: en
 
 
