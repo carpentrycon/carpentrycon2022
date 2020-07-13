@@ -513,9 +513,10 @@
   surname: "van Rensburg"
   company: "The Carpentries"
   title: "Regional Consultant for Southern Africa"
-  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries Angelique aims at developing strategies and workflows to adapt The Carpentries' membership and workshop programs to function optimally in Southern Africa. In addition the role aims to assist and advise in developing a plan to create and support a strong
-team of volunteer instructors across the region.s"
+  bio: "Angelique, PhD (Educational Psychology), is the Regional Consultant for Southern Africa at The Carpentries Angelique aims at developing strategies and workflows to adapt The Carpentries' membership and workshop programs to function optimally in Southern Africa. In addition the role aims to assist and advise in developing a plan to create and support a strong team of volunteer instructors across the regions."
   thumbnailUrl: AngeliqueVanRensburg.jpg
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "github", link: "https://github.com/elletjies"}
     - {name: "twitter", link: "https://twitter.com/AngvanRensburg"}
