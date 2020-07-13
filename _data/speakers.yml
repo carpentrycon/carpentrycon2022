@@ -40,7 +40,7 @@
 - 
   id: 702
   name: "Stefanie"
-  surname: "Butland"
+  surname: "Butland (she/her)"
   company: "rOpenSci, Canada"
   title: "Community Manager"
   bio: "I have my dream job as the Community Manager for rOpenSci where I help build up the social and technical infrastructure for open and reproducible research software in R. I'm a biologist, former low-throughput bioinformatician, and compulsive people-connector and knowledge-sharer. My research life involved bacteria, plants, insects, and mammals, first at the bench and then on a laptop. I was one of the inaugural AAAS Community Engagement Fellows and am actively involved with the new Center for Scientific Collaboration and Community Engagement. My favourite word is 'welcome' and I love helping people recognize themselves - where they shine, and where they fit."
@@ -773,6 +773,16 @@ team of volunteer instructors across the region.s"
   social: 
     - {name: "twitter", link: "https://twitter.com/ousodanos"}
     - {name: "github", link: "https://github.com/ousodaniel"}
+-
+  id: 762
+  name: "Sarah"
+  surname: "Young"
+  company: "Carnegie Mellon University Libraries, USA"
+  title: "Researcher"
+  bio: "Sarah Young is a librarian at Carnegie Mellon University and where she supports teaching, research and library collections for Public Policy and Management, Decision Sciences, Statistics and Information Systems. Sarah is a member of the Libraries' Open Science, Data Collaboration and Research Data Services teams and is a trained Carpentries instructor.  In addition, she provides evidence synthesis support and training to researchers around the world in global and public health, public policy, development and agriculture. She is currently helping to develop a new Library Carpentry lesson for R and a systematic review package called litsearchr. She holds an advanced degree in international development and earned her MLIS from the University of Pittsburgh in 2011."
+  thumbnailUrl: SarahYoung.jpg
+  ribbon: 
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
 -
   id: 777
   name: "Serah"
