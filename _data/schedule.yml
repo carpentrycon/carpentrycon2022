@@ -114,9 +114,14 @@
       sessionIds: [404,61,404, 404, 404]
     }
     - {
+      startTime: "10:00",
+      endTime: "12:00",
+      sessionIds: [404, 404, 404,404, 48]
+    }
+    - {
       startTime: "12:00",
       endTime: "16:00",
-      sessionIds: [19, 16, 42,44, 48]
+      sessionIds: [19, 16, 42,44, 63]
     }
     - {
     	startTime: "16:00",
