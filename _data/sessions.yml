@@ -6,6 +6,8 @@
   start:  "13 July at 14h00 UTC <br>  14 July at 00h00 UTC"
   subtype: keynote
   speakers: [000]
+  video: 
+  presentation: 
   language: en
 -
   id: 37
@@ -15,6 +17,8 @@
   start:  28 July at 13h00 UTC
   subtype: skillup
   speakers: [705]
+  video: 
+  presentation: 
   language: en
 -
   id: 45
@@ -24,6 +28,8 @@
   start:  25 August at 14h00 UTC
   subtype: skillup
   speakers: [701,731]
+  video: 
+  presentation: 
   language: en
 -
   id: 10
@@ -33,6 +39,8 @@
   start:  18 August at 16h30 UTC
   subtype: skillup
   speakers: [716]
+  video: 
+  presentation: 
   language: en 
 -
   id: 58
@@ -42,6 +50,8 @@
   start:  22 July at 10h00 UTC
   subtype: breakout
   speakers: [703]
+  video: 
+  presentation: 
   language: en  
 -
   id: 52
@@ -53,6 +63,8 @@
   start:  30 July at 12h00 UTC
   subtype: skillup
   speakers: [704]
+  video: 
+  presentation: 
   language: en 
 -
   id: 14
@@ -66,6 +78,8 @@
   start:  20 July at 17h00 UTC
   subtype: breakout
   speakers: [706,746,747,748]
+  video: 
+  presentation: 
   language: en
 -
   id: 44
@@ -75,6 +89,8 @@
   start:  6 August at 13h00 UTC
   subtype: breakout
   speakers: [707]
+  video: 
+  presentation: 
   language: en 
 -
   id: 59
@@ -84,6 +100,8 @@
   start:  28 July at 09h00 UTC <br>  14 August at 14h00 UTC
   subtype: breakout
   speakers: [703]
+  video: 
+  presentation: 
   language: en  
 -
   id: 12
@@ -93,6 +111,8 @@
   start:  15 July at 13h00 UTC
   subtype: breakout
   speakers: [708,752,761]
+  video: 
+  presentation: 
   language: en
 - 
   id: 18
@@ -102,6 +122,8 @@
   start:  13 August at 13h00 UTC
   subtype: workshop
   speakers: [709]
+  video: 
+  presentation: 
   language: en
 -
   id: 40
@@ -118,6 +140,8 @@
   start:  11 August at 16h00 UTC
   subtype: sprint
   speakers: [710,751]
+  video: 
+  presentation: 
   language: en
 -
   id: 15
@@ -127,6 +151,8 @@
   start:  27 July at 18h00 UTC
   subtype: skillup
   speakers: [711]
+  video: 
+  presentation: 
   language: en
 -
   id: 16
@@ -136,6 +162,8 @@
   start:  04 August at 12h00 UTC
   subtype: breakout
   speakers: [712]
+  video: 
+  presentation: 
   language: en
 -
   id: 17
@@ -145,6 +173,8 @@
   start:  05 August at 22h00 UTC
   subtype: breakout
   speakers: [713]
+  video: 
+  presentation: 
   language: en
 -
   id: 26
@@ -154,6 +184,8 @@
   start:  04 August at 21h00 UTC
   subtype: breakout
   speakers: [715,749,750]
+  video: 
+  presentation: 
   language: en
 -
   id: 19
@@ -163,6 +195,8 @@
   start:  03 August at 16h00 UTC
   subtype: breakout
   speakers: [714]
+  video: 
+  presentation: 
   language: en
 -
   id: 31
@@ -172,6 +206,8 @@
   start:  21 July at 02h00 UTC
   subtype: social
   speakers: [719]
+  video: 
+  presentation: 
   language: en
 -
   id: 20
@@ -183,6 +219,8 @@
   start:  23 July at 13h00 UTC
   subtype: breakout
   speakers: [717]
+  video: 
+  presentation: 
   language: en
 -
   id: 22
@@ -192,6 +230,8 @@
   start:  26 August at 12h00 UTC
   subtype: sprint
   speakers: [718]
+  video: 
+  presentation: 
   language: en
 -
   id: 24
@@ -201,6 +241,8 @@
   start:  21 July at 17h00 UTC
   subtype: skillup
   speakers: [718,756]
+  video: 
+  presentation:
   language: es
 - 
   id: 23
@@ -210,6 +252,8 @@
   start:  
   subtype: social
   speakers: [717]
+  video: 
+  presentation: 
   language: en
 -
   id: 25
@@ -219,6 +263,8 @@
   start:  03 August at 22h00 UTC
   subtype: social
   speakers: [719,756]
+  video: 
+  presentation: 
   language: en
 -
   id: 27
@@ -228,6 +274,8 @@
   start:  11 August at 14h00 UTC
   subtype: panel
   speakers: [720]
+  video: 
+  presentation: 
   language: en
 -
   id: 28
@@ -237,6 +285,8 @@
   start:  
   subtype: lightning
   speakers: [721]
+  video: 
+  presentation: 
   language: en
 -  
   id: 29
@@ -252,6 +302,8 @@
   start:  17 August at 22h00 UTC
   subtype: breakout
   speakers: [722,754,755]
+  video: 
+  presentation: 
   language: en  
 -
   id: 30
@@ -266,6 +318,8 @@
   start:  22 July at 22h00 UTC
   subtype: skillup
   speakers: [722,753]
+  video: 
+  presentation: 
   language: en
 -
   id: 32
@@ -275,6 +329,8 @@
   start:  26 August at 10h00 UTC
   subtype: panel
   speakers: [723,743, 744,745]
+  video: 
+  presentation: 
   language: en
 - 
   id: 33
@@ -287,6 +343,8 @@
   start:  20 July at 07h00 and 15h00 UTC
   subtype: breakout
   speakers: [724,725]
+  video: 
+  presentation: 
   language: en
 - 
   id: 34
@@ -296,6 +354,8 @@
   start:  31 July at 21h00 UTC
   subtype: social
   speakers: [726]
+  video: 
+  presentation: 
   language: en
 - 
   id: 35
@@ -305,6 +365,8 @@
   start:  27 August at 20h00 UTC <br>  28 August at 10h00 and 15h00 UTC
   subtype: feedback
   speakers: [726]
+  video: 
+  presentation: 
   language: en
 -
   id: 39
@@ -314,6 +376,8 @@
   start:  24 August at 02h00 UTC
   subtype: skillup
   speakers: [727,759]
+  video: 
+  presentation: 
   language: en
 -
   id: 41
@@ -323,6 +387,8 @@
   start:  19 August at 14h00 UTC
   subtype: skillup
   speakers: [728]
+  video: 
+  presentation: 
   language: en
 -
   id: 42
@@ -332,6 +398,8 @@
   start:  16 July at 16h00 UTC <br>  05 August at 12h00 UTC
   subtype: skillup
   speakers: [729]
+  video: 
+  presentation: 
   language: en
 - 
   id: 43
@@ -341,6 +409,8 @@
   start:  06 August at 16h00 UTC
   subtype: other
   speakers: [730]
+  video: 
+  presentation: 
   language: en
 - 
   id: 46
@@ -350,6 +420,8 @@
   start:  29 July at 09h00 UTC
   subtype: skillup
   speakers: [701,731]
+  video: 
+  presentation: 
   language: en
 - 
   id: 47
@@ -359,6 +431,8 @@
   start:  
   subtype: lightning
   speakers: [732]
+  video: 
+  presentation: 
   language: en
 - 
   id: 48
@@ -376,6 +450,8 @@
   start:  07 August at 10h00 UTC
   subtype: social
   speakers: [723,733]
+  video: 
+  presentation: 
   language: en
 - 
   id: 50
@@ -385,6 +461,8 @@
   start:  29 July at 16h00 UTC
   subtype: breakout
   speakers: [734]
+  video: 
+  presentation: 
   language: en
 - 
   id: 51
@@ -394,6 +472,8 @@
   start:  14 July at 08h00 UTC
   subtype: breakout
   speakers: [742,735]
+  video: 
+  presentation: 
   language: en
 - 
   id: 49
@@ -403,6 +483,8 @@
   start:   
   subtype: lightning
   speakers: [735]
+  video: 
+  presentation: 
   language: en
 - 
   id: 53
@@ -412,6 +494,8 @@
   start:  
   subtype: lightning
   speakers: [736]
+  video: 
+  presentation: 
   language: en
 - 
   id: 54
@@ -421,6 +505,8 @@
   start:  20 August at 07h00 UTC
   subtype: sprint
   speakers: [737]
+  video: 
+  presentation: 
   language: en
 - 
   id: 55
@@ -430,6 +516,8 @@
   start:  
   subtype: lightning
   speakers: [738]
+  video: 
+  presentation: 
   language: en
 - 
   id: 56
@@ -439,6 +527,8 @@
   start:  15 July at 17h00 UTC <br>  23 July at 21h00 UTC
   subtype: breakout
   speakers: [739,757,758,777]
+  video: 
+  presentation: 
   language: en
 - 
   id: 57
@@ -448,6 +538,8 @@
   start:  05 August at 17h00 UTC
   subtype: breakout
   speakers: [740]
+  video: 
+  presentation: 
   language: en
 -
   id: 60
@@ -457,6 +549,8 @@
   start:  
   subtype: lightning
   speakers: [741]
+  video: 
+  presentation: 
   language: en
 -
   id: 61
@@ -466,6 +560,8 @@
   start:  04 August at 00h00 UTC
   subtype: keynote
   speakers: [700]
+  video: 
+  presentation: 
   language: en
 -
   id: 62
@@ -475,6 +571,8 @@
   start:  26 August at 21h00 UTC <br>  27 August at 15h00 UTC
   subtype: keynote
   speakers: [000,702,777]
+  video: 
+  presentation: 
   language: en
 -
   id: 63
@@ -484,6 +582,8 @@
   start:  07 August at 13h00 UTC
   subtype: Lightning
   speakers: [760,721,732,735,762,738,741]
+  video: 
+  presentation: 
   language: en
 
 
