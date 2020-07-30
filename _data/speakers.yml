@@ -794,6 +794,9 @@
   thumbnailUrl: TobyHodges.jpg
   ribbon:
     - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  social: 
+    - {name: "github", link: "https://github.com/tobyhodges"}
+    - {name: "twitter", link: "https://twitter.com/tbyhdgs"}
 -
   id: 764
   name: "Petri"
