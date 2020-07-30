@@ -804,7 +804,7 @@
   company: "Aalto University, Finland"
   title: "Master's Thesis Student"
   bio: "Petri is a master's thesis student at Aalto University. Thesis topic is "Detecting Saltatory pattern from Cardiotocography data". He has worked with several roles with companies offering hardware and software solutions. He has solid background with C-programming language, and he has during past few years learned new programming paradigms and languages. He is relatively new to modern tools such as are included in CodeRefinery workshop."
-  thumbnailUrl: TobyHodges.jpg
+  thumbnailUrl: PetriJehkonen.png
   ribbon:
     - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
   social: 
