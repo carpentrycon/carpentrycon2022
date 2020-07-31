@@ -256,9 +256,9 @@
 -
   id: 24
   title: "¡Traduciendo!"
-  description: "21 July 2020: 17h00 UTC<br><br>This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
+  description: "21 July 2020: 17h00 UTC <br>10 August 2020: 17h00 UTC<br><br>This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
   etherpad: https://pad.carpentries.org/cchome-sprint-traduciendo
-  start:  21 July at 17h00 UTC
+  start:  21 July at 17h00 UTC <br>10 August 2020 at 17h00 UTC
   duration: 6 hours 
   subtype: skillup
   speakers: [718,756]
