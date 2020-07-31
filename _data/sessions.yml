@@ -28,7 +28,7 @@
   description: "25 August 2020: 14h00 UTC <br><br>Leadership skills such as openness, inclusivity, project road mapping, and community building are essential for modern science and research today. Despite this, these skills are rarely taught.<br>br>We believe that scientists and researchers should learn how to effectively lead projects openly, collaboratively, and thoughtfully from day one.To facilitate this, we created Open Life Science (<a href='http://openlifesci.org/'>http://openlifesci.org/</a>), a 16-week training and mentorship program that prepares early career researchers and academic leaders to become open science ambassadors for their own projects but for the communities around them.<br><br>In this session, we will discuss mentoring and training our members in Open Science skills, introduce to the Open Life Science (OLS) program's open source resources, and run a “taster session” where we will touch on some of the important aspects of open research, whilst giving it the feel of a collaborative, informative and classic OLS full-cohort call."
   etherpad: https://pad.carpentries.org/cchome-open-leadership-mentoring
   start:  25 August at 14h00 UTC
-  duration: 
+  duration: 90 min
   subtype: skillup
   speakers: [701,731]
   video: 
@@ -66,7 +66,7 @@
   <br>The session addresses the challenges in opening up research software and facilitation of software sustainability."
   etherpad: https://pad.carpentries.org/cchome-FAIR-software
   start:  30 July at 12h00 UTC
-  duration: 
+  duration: 3 hours
   subtype: skillup
   speakers: [704]
   video: 
@@ -94,7 +94,7 @@
   description: "6 August 2020: 13h00 UTC <br><br>This session is a follow up to my recent talk: Low-Income Data Diaries - How “Low-Tech” Data Experiences Can Inspire Accessible Data Skills and Tool Design (<a href='https://youtu.be/XV_jxbB1cBY'>https://youtu.be/XV_jxbB1cBY</a>) at csv,conf,v5. In that csvconf.com talk, I made the case that a significant population of data stakeholders exist in low-technical skills and low-technological infrastructure context, and find current data literacy approaches (Data Literacy 1.0) inaccessible. The main takeaway from the csv,conf talk was the need to rethink and redesign a new approach (Data Literacy 2.0) that makes data skills and resources more accessible to these stakeholders. Whereas the prior talk set the stage for the current challenge, this session will dive into strategies and resources that I have discovered and develop to get started with embedding low-tech skills and resources into our data literacy approaches."
   etherpad: https://pad.carpentries.org/cchome-accessible-strategies
   start:  6 August at 13h00 UTC
-  duration: 
+  duration: 75 min
   subtype: breakout
   speakers: [707]
   video: 
@@ -197,7 +197,7 @@
   description: "04 August 2020: 21h00 UTC<br><br>In this session we hope to bring together text-as-data practitioners and those in academic support roles to discuss models for building communities related to computational text analysis. Many early career scholars interested in text analytics find themselves at institutions that provide little direct support for learning and practicing emerging methods related to text as data (e.g., topic modeling or sentiment analysis). Even where expertise does exist on a particular campus, it can be difficult for an individual scholar —- especially those in the humanities or social sciences—to bridge disciplinary and bureaucratic boundaries to find peers and mentors in computational research areas. The Carpentries offer one helpful foundation for learning essential data science tools; this session explores opportunities for building upon that foundation to address the growing needs and interests of scholars in text analytics. <br><br>At our institution, we recently initiated the Text as Data Practice Group, a discipline-agnostic monthly gathering for scholars to experiment and learn from each other, from local experts, and from open access tutorials in a social setting. The group operates in the spirit of creating community, nurturing peer-to-peer learning, and exploring emerging text and data analysis methods on campus. We plan to provide an overview of this program, and then lead participants through discussion prompts to share their own thoughts about successes, challenges, and opportunities related to building communities for text as data. Participants will learn about different models to develop and nurture communities in computational research."
   etherpad: https://pad.carpentries.org/cchome-textasdata-communities
   start:  04 August at 21h00 UTC
-  duration: 
+  duration: 60 min
   subtype: breakout
   speakers: [715,749,750]
   video: 
@@ -247,7 +247,7 @@
   description: "26 August 2020: 12h00 UTC<br><br>Have you heard that some lessons are being translated into different languages? Would you like to participate in these efforts but you are not sure where to start? Would you like to help but you only speak English? That and more questions will be answered in this practical session. I'll give a general introduction to the history of translation on the Carpentries, where we stand now, what are the tools available, and how it is everything connected together.<br><br>You will learn how the translations work, what is needed to do to start a new team of translators in your native language or join one formed already and hopefully we will be able to start translating the Code of Conduct to your native language."
   etherpad: https://pad.carpentries.org/cchome-translation
   start:  26 August at 12h00 UTC
-  duration: 
+  duration: 60min
   subtype: sprint
   speakers: [718]
   video: 
@@ -259,7 +259,7 @@
   description: "21 July 2020: 17h00 UTC<br><br>This sprint is to welcome new translators to the Spanish translation community.<br>¿Estás enamorado de las Carpentries? ¿Entiendes suficiente el inglés como para traducir cachitos de una lección? Únete a este sprint para aprender la herramienta que usamos (Transifex) y para empezar a traducir parte de las lecciones de las Carpentries. Tu ayuda será apreciada por millones de hispano-hablantes a lo largo y ancho del planeta!!"
   etherpad: https://pad.carpentries.org/cchome-sprint-traduciendo
   start:  21 July at 17h00 UTC
-  duration: 
+  duration: 6 hours 
   subtype: skillup
   speakers: [718,756]
   video: 
@@ -325,7 +325,7 @@
   Engagement in this sprint will be based on note-taking and discussions in breakout rooms."
   etherpad: https://pad.carpentries.org/cchome-virtual-classroom
   start:  17 August at 22h00 UTC
-  duration: 
+  duration: 60 min
   subtype: breakout
   speakers: [722,754,755]
   video: 
@@ -354,7 +354,7 @@
   description: "26 August 2020: 10h00 UTC<br><br>In the CodeRefinery project we teach tools and practices for collaborative reproducible research software development, following the Carpentries style of teaching and workshop organization. Due to the outbreak of Covid-19, we were forced to cancel several in-person workshops planned in the spring 2020. As The Carpentries started piloting online workshops, we also shifted our gear to hold online workshops. After successful CodeRefinery online workshop with middle-sized cohort of participants (approximately 25 learners on average per day), we held a 'mega' CodeRefinery online workshop where we accepted 120 registrations as both learners and helpers.<br><br>In this panel session, we will present how we ran the workshops including small but critical tactics. (The current plan is that) Organizer, instructor, expert helper, helper, and learner, each of them will present their perspective and discuss our experiences and lessons learned. (Note: If it is difficult to have a panelist for any of the roles, we will try to summarize feedback from those who fall under the role and a lead or co-lead will present on their behalf). This session aims to reach audience that are interested in online workshops and scaling up community, regardless of their roles. We hope that our experiences will provide with some inspiration to the session participants for planning their organization of or participation in workshops.<br><br>We will use HackMD as a platform of questions and answers during the panel session and answer them in the QA session at the end. We used HackMD in the Mega CodeRefinery online workshop and thus hope we could demonstrate some advantages of using HackMD"
   etherpad: https://pad.carpentries.org/cchome-online-workshop-at-scale
   start:  26 August at 10h00 UTC
-  duration: 
+  duration: 90 min
   subtype: panel
   speakers: [723,743, 744,745,764]
   video: 
@@ -369,7 +369,7 @@
   - an open discussion on how to move forward."
   etherpad: https://pad.carpentries.org/cchome-hpc-carpentry
   start:  20 July at 07h00 and 15h00 UTC
-  duration: 
+  duration: 90 min
   subtype: breakout
   speakers: [724,725]
   video: https://www.youtube.com/embed/Xo3Ab2GFj24
@@ -381,7 +381,7 @@
   description: "31 July 2020: 21h00 UTC<br><br>Puzzled Pint (<a href='http://www.puzzledpint.com/'>http://www.puzzledpint.com/</a>) is a group that releases a monthly set of puzzles to be done w/ friends over a pint. Puzzles include letter and word games, decoding, and more. Let's get together over a virtual pint, form teams, and solve the July puzzles!"
   etherpad: https://pad.carpentries.org/cchome-social-puzzled-pint
   start:  31 July at 21h00 UTC
-  duration: 
+  duration: 3-4 hours
   subtype: social
   speakers: [726]
   video: 
@@ -429,7 +429,7 @@
   description: "16 July 2020: 16h00 UTC <br>  05 August 2020: 12h00 UTC<br><br>The current Carpentries git lesson introduces collaboration to learners by adding individuals as a collaborator to the repository. However, this type of collaboration workflow does not scale past more than a couple of collaborators before conflicts become unbearable.<br>Depending on when you joined the carpentries, you may be familar with the forking workflow for collaboration to make a change to an existing lesson but, there is no formal guide to new instructors on how they can learn the skills needed to become a lesson maintainer.<br>As a community of practice, we are always learning, and maintaining our teaching materials need a steady influx of new maintainers to keep our lessons up-to-date.<br><br>This skill-up is an extension to the current software-carpentry Git lesson for those who are thinking about becoming a lesson maintainer and want to learn about the forking-branching-PR skills needed while maintaining lessons. It also supports current and new maintainers who want a more solid foundation for the commands and workflows they are using while maintaining lessons. The skill-up would cover the forking model of collaboration, how to create and merge branches, how to submit pull requests in this collaboration model, and how to edit and update branches before accepting changes for open source projects."
   etherpad: https://pad.carpentries.org/cchome-maintainer-git-skills
   start:  16 July at 16h00 UTC <br>  05 August at 12h00 UTC
-  duration: 
+  duration: 3.5 hours
   subtype: skillup
   speakers: [729]
   video: 
@@ -453,7 +453,7 @@
   description: "29 July 2020: 09h00 UTC<br><br>Ally Skills Session will aim to have open discussions with people interested in learning how to step up and use their societal advantages to support others in your workplace and communities. This session is intended to be 1.5 hours long.<br><br>After a short introduction, we will break out in smaller groups to discuss real-world scenarios in which an ally could take action. Each group will then report-out and share their insight.Participants will learn ally skills by practicing them in discussion groups: listening, amplifying voices, apologizing and correcting themselves, and more.<br><br>The workshop will end with each participant setting a specific goal for their future ally work. The trainers are trained by Valerie Aurora through her workshop from Frameshift Consulting. Materials are available online openly here (<a href='https://frameshiftconsulting.com/ally-skills-workshop/'>https://frameshiftconsulting.com/ally-skills-workshop/</a>)."
   etherpad: https://pad.carpentries.org/cchome-ally-skills
   start:  29 July at 09h00 UTC
-  duration: 
+  duration: 90 min
   subtype: skillup
   speakers: [701,731]
   video: 
@@ -497,7 +497,7 @@
   description: "29 July 2020: 16h00 UTC<br><br>As more libraries get involved with the Carpentries we are seeing exciting collaborations and partnerships develop around Carpentries workshops. Some academic libraries have partnered with other departments on campus to co-fund membership, other academic and public libraries have worked with their regional partners to create more formal Carpentries consortia, and others are building informal teaching networks that bridge different types of libraries. The new virtual teaching environment is also reducing barriers to collaboration and opening up new opportunities for co-teaching across institutional and regional boundaries. These partnerships can be a way to reduce workshops costs and teaching burnout, and create more sustainable teaching and learning networks.<br><br>This breakout session will give librarians and library staff from academic, public, and special libraries a chance to share their successes collaborating on all kinds of Carpentries workshops. We will also brainstorm new ways in which we might build viable Carpentry networks in our communities."
   etherpad: https://pad.carpentries.org/cchome-library-collaborations
   start:  29 July at 16h00 UTC
-  duration: 
+  duration: 90 min
   subtype: breakout
   speakers: [734]
   video: 
