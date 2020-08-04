@@ -201,12 +201,12 @@
     - {
     	startTime: "00:00",
     	endTime: "04:00",
-    	sessionIds: [39,404,404, 404, 64]
+    	sessionIds: [39,404,404, 64, 64]
     }
     - {
     	startTime: "08:00",
     	endTime: "12:00",
-    	sessionIds: [404,404,32, 404, 35]
+    	sessionIds: [404,404,32, 64, 35]
     }
     - {
       startTime: "12:00",
@@ -214,9 +214,14 @@
       sessionIds: [404, 45,22,62, 35]
     }
     - {
+      startTime: "16:00",
+      endTime: "20:00",
+      sessionIds: [404, 404,404,64, 64]
+    }
+    - {
       startTime: "20:00",
       endTime: "24:00",
-      sessionIds: [404, 404, 62, 35, 404]
+      sessionIds: [404, 404, 62, 35, 64]
     }
 
 

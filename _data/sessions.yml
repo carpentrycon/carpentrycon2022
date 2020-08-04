@@ -547,7 +547,7 @@
   start:  20 August at 07h00 UTC
   duration: 20 min
   subtype: sprint
-  speakers: [737]
+  speakers: [737, 765,766]
   video: 
   presentation: 
   language: en
@@ -638,12 +638,12 @@
 -
   id: 64
   title: "Library Carpentry FAIR Data & Software Lesson Sprint"
-  description: "20 August 2020: 07h00 UTC<br><br>The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (<a href='https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/'>https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/</a>) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
+  description: "27 August 2020 from 02h00 UTC<br> to 28 August 2020: 22h00 UTC<br><br>The Library Carpentry FAIR Data & Software lesson aims to introduce researchers and librarians to FAIRer (Findable, Accessible, Interoperable, Reusable) research data and software management and development practices. Lesson content is based on the 2018 FAIR Data and Software: A Carpentries-based workshop at TIB, Hannover (<a href='https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/'>https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/</a>) with additional contributions since. The lesson is still in the early design / pre-alpha stage and this half day sprint will allow maintainers and contributors to map out next steps towards furthering the lesson."
   etherpad: https://pad.carpentries.org/cchome-sprint-lc-FAIR
-  start:  27 August 2020 at 24h00 UTC
-  duration: 
+  start:  27 August 2020 at 02h00 UTC <br> to 28 August 2020 at 16h00 UTC
+  duration: 44 hours
   subtype: sprint
-  speakers: [737]
+  speakers: [737, 765,766]
   video: 
   presentation: 
   language: en
