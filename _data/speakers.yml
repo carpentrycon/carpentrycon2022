@@ -788,12 +788,12 @@
   id: 763
   name: "Toby"
   surname: "Hodges"
-  company: "The Carpentries (soon)"
-  title: "Curriculum Community Developer (soon)"
+  company: "The Carpentries"
+  title: "Curriculum Community Developer"
   bio: "Toby has spent the last five years coordinating the EMBL Bio-IT community and will soon take up a new role as Curriculum Community Developer at The Carpentries. In this position, he will work with community members to facilitate the development of new Carpentries-style lessons. He enjoys teaching, meeting and connecting people, and collaboratively creating material that enables researchers to learn new skills."
   thumbnailUrl: TobyHodges.jpg
-  ribbon:
-    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  ribbon: 
+    - {abbr: "Core Team", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
   social: 
     - {name: "github", link: "https://github.com/tobyhodges"}
     - {name: "twitter", link: "https://twitter.com/tbyhdgs"}
