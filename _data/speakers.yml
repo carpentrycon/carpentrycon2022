@@ -814,7 +814,7 @@
   name: "Chris"
   surname: "Erdmann"
   company: "University of North Carolina Renaissance Computing Institute, USA"
-  title: "Community Expert for NHLBI BioData Catalyst project,"
+  title: "Community Expert for NHLBI BioData Catalyst project"
   bio: "Christopher Erdmann is an author, developer, and experimenter in the areas of digital libraries, social networking, library UX, interactive technologies, bibliometrics, and data services in libraries. He is currently an engagement, support, and training expert on the NHLBI BioData Catalyst project at University of North Carolina Renaissance Computing Institute. He has previously worked for organizations such as California Digital Library (Library Carpentry), North Carolina State University, Harvard-Smithsonian Center for Astrophysics, European Southern Observatory, Supreme Court of the US, United Nations, University of Washington, Smithsonian, and CNET. Chris holds an MLIS from the University of Washington iSchool and a BA from the University of California, Davis."
   ribbon:
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
@@ -822,6 +822,20 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/libcce"}
     - {name: "github", link: "https://github.com/libcce"}
+-
+  id: 766
+  name: "Liz"
+  surname: "Stokes"
+  company: "Australian Research Data Commons (ARDC), Australia"
+  title: "Senior Research Data Skills Specialist"
+  bio: "Liz Stokes is a Senior Research Data Skills Specialist at the Australian Research Data Commons. She runs data skills training and supports communities involved in research data management. Liz co-chairs the Library Carpentry Advisory Group with Ariel Deardorff, and is a recently badged Carpentries Instructor and Trainer. Liz is passionate about socialising better data management practices which enable reproducible research, for people who do the research and those providing support services."
+  ribbon:
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+    - {abbr: "Trainer", title: "Carpentries Trainer", url: "https://carpentries.org/trainers/"}
+  thumbnailUrl: LizStokes.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ragamouf"}
+    - {name: "github", link: "https://github.com/ragamouf"}
 -
   id: 777
   name: "Serah"
