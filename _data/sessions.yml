@@ -19,7 +19,7 @@
   duration: 
   subtype: skillup
   speakers: [705,763]
-  video: 
+  video: https://www.youtube.com/embed/0RDpJ1hqYOs
   presentation: 
   language: en
 -
@@ -55,7 +55,7 @@
   duration: 
   subtype: breakout
   speakers: [703]
-  video: 
+  video: https://www.youtube.com/embed/UlIvD_fPrZc
   presentation: 
   language: en  
 -
@@ -109,7 +109,7 @@
   duration: 
   subtype: breakout
   speakers: [703]
-  video: 
+  video: https://www.youtube.com/embed/1LQKWLUOG3Y
   presentation: 
   language: en  
 -
@@ -164,7 +164,7 @@
   duration: 
   subtype: skillup
   speakers: [711]
-  video: 
+  video: https://www.youtube.com/embed/hRYBGsCxfDY
   presentation: 
   language: en
 -
@@ -432,7 +432,7 @@
   duration: 3.5 hours
   subtype: skillup
   speakers: [729]
-  video: 
+  video: https://www.youtube.com/embed/uvWhSYBkZJ0
   presentation: 
   language: en
 - 
