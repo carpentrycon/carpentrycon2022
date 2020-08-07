@@ -617,9 +617,9 @@
   description: "26 August 2020: 21h00 UTC <br>  27 August 2020: 15h00 UTC<br><br>On  26 August 2020 at 21h00 UTC and 27 August 2020 at 15h00 UTC, a few community builders and wranglers will come together in two fireside chats to discuss different challenges, ideas and approaches around Growing Inclusive, Computational Communities and Leaders. Please <a href = 'https://forms.gle/6tY3cMAUhCtRJqiu5'>fill this form</a> with any questions or topics you would like to be part of the agenda for the fireside chats and we will make sure to include them in the discussions."
   etherpad: https://pad.carpentries.org/cchome-fireside-chat 
   start:  26 August at 21h00 UTC <br>  27 August at 15h00 UTC
-  duration: 
+  duration: 120min
   subtype: keynote
-  speakers: [702,763,777]
+  speakers: [741,702,714,763,777]
   video: 
   presentation: 
   language: en
