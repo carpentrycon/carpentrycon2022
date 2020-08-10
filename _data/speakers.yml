@@ -848,6 +848,17 @@
     - {name: "twitter", link: "https://twitter.com/ragamouf"}
     - {name: "github", link: "https://github.com/ragamouf"}
 -
+  id: 768
+  name: "Abigail"
+  surname: "Cabunoc Mayes"
+  company: "Mozilla Foundation"
+  title: "AI Strategy Lead"
+  bio: "Abigail Cabunoc Mayes (@abbycabs) leads Mozilla’s developer-focused trustworthy AI strategy around MozFest and open source. Previously, Abby founded and led Mozilla Open Leaders, a program that has worked with over 600 open projects globally. With a background in open source and community organizing, she is fueling a culture of openness in research and innovation. Prior to joining Mozilla, Abby worked as a bioinformatics software developer at the Ontario Institute for Cancer Research and at Michigan State University where she applied open source to research problems. She has been named in '100 awesome women in open source' by source{d} and is a current and past member of a variety of committees and editorial boards including the Journal of Open Source Software, the Open Source Systems Conference, and the Mozilla Open Source Support Awards."
+  thumbnailUrl: AbigailMayes.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ragamouf"}
+    - {name: "github", link: "https://github.com/ragamouf"}
+-
   id: 777
   name: "Serah"
   surname: "Rono"
