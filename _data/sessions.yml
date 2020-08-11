@@ -42,7 +42,7 @@
   start:  18 August at 16h30 UTC
   duration: 
   subtype: skillup
-  speakers: [716,756]
+  speakers: [716]
   video: 
   presentation: 
   language: en 
@@ -132,7 +132,7 @@
   start:  13 August at 13h00 UTC
   duration: 
   subtype: workshop
-  speakers: [709]
+  speakers: [709,756]
   video: 
   presentation: 
   language: en
