@@ -69,7 +69,7 @@
   duration: 3 hours
   subtype: skillup
   speakers: [704]
-  video: 
+  video: https://www.youtube.com/embed/-x81mpkQAWo
   presentation: 
   language: en 
 -
@@ -97,7 +97,7 @@
   duration: 75 min
   subtype: breakout
   speakers: [707]
-  video: 
+  video: https://www.youtube.com/embed/X8dGZlGaMEc
   presentation: 
   language: en 
 -
@@ -441,10 +441,10 @@
   description: "06 August 2020: 16h00 UTC<br><br>The Carpentries exist so that people don't have to teach themselves how to program, but ironically, most members of the Carpentry community have had to learn how to coordinate groups on their own. This talk lays out ten simple rules for running an effective meeting, and will help you get more done in less time and with less pain."
   etherpad: https://pad.carpentries.org/cchome-running-a-meeting
   start:  06 August at 16h00 UTC
-  duration: 
+  duration: 60min
   subtype: other
   speakers: [730]
-  video: 
+  video: https://www.youtube.com/embed/5f3-q9SzkeE
   presentation: 
   language: en
 - 
@@ -465,10 +465,10 @@
   description: "Code and data are important research output and integral to a full understanding of research findings and experimental approaches in a paper. However, traditional research articles seldom have these embedded in the manuscript’s narrative, but instead, leave them as 'supplementary materials', if they are openly available.<br><br>With Executable Research Articles (ERAs), eLife's vision is to enrich the traditional narrative of a research article with code, data and interactive figures that can be executed in the browser, downloaded and explored. It will give readers a direct insight into the methods, algorithms and key data behind the published research.<br><br>We realised that to incentivise authors to publish ERAs, we need to make this process of composing and publishing an ERA extremely easy and interoperable with existing authoring tools that our authors use.<br><br>In 3 minutes, I hope show one of the ways our authors can compose an ERA– we'd love to invite members of the Carpentries community to test our tool stack out and offer feedback."
   etherpad: 
   start:  
-  duration: 
+  duration: 60min
   subtype: lightning
   speakers: [732]
-  video: 
+  video: https://www.youtube.com/embed/HOG9dC2cj_I
   presentation: 
   language: en
 - 
