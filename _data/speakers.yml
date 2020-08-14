@@ -540,7 +540,7 @@
   company: "GeoDa Center, University of Chicago, USA"
   title: "Spatial data science/education"
   bio: "I'm currently working as the R Spatial Advocate for the Center for Spatial Data Science at UChicago. Most recently, I did data science for transit at TransLoc and wrote a spatial econometrics thesis on the Detroit housing market. I am also Maintainer Community Lead for The Carpentries."
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: AngelaLi.png
   ribbon: 
     - {abbr: "Maintainer Community Lead", title: "Carpentries Maintainer Community Lead", url: "https://carpentries.org/maintainers/"}
   social: 
