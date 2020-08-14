@@ -865,9 +865,20 @@
   company: " Python Software Foundation"
   title: "Vice-chair and Director"
   bio: "Marlene is the Vice-Chair and a director at the Python Software Foundation, the non-profit organization behind the popular computer programming language, Python. She is also the co-founder of ZimboPy, a Zimbabwean non-profit that empowers women to pursue careers in technology. She is based in Harare, Zimbabwe and is the current chair of Pycon Africa, the annual pan-African gathering of the Python community. Marlene is interested in seeing technology used for social good and to unite communities across borders globally. In her spare time, she gets particularly excited about building games to make learning more enjoyable and is currently pursuing a degree in computer science with the University of London."
-  thumbnailUrl: AbigailMayes.jpg
+  thumbnailUrl: MarleneMhangami.jpeg
   social: 
     - {name: "twitter", link: "https://twitter.com/marlene_zw"}
+-
+  id: 770
+  name: "Naomi"
+  surname: "Penfold"
+  company: " eLife"
+  title: "Community Manager"
+  bio: "Naomi is Community Manager at eLife, where she works with the eLife Early-Career Advisory Group, the eLife Community Ambassadors and the  early-career researcher community at large. She is a 2019 alumnus of the CSCCE's Community Engagement Fellowship Program."
+  thumbnailUrl: NaomiPenfold.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/npscience"}
+    - {name: "linkedin", link: " https://www.linkedin.com/in/naomipenfold/"}
 -
   id: 777
   name: "Serah"
