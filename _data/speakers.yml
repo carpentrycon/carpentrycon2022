@@ -214,13 +214,15 @@
   id: 716
   name: "Rohit"
   surname: "Goswami"
-  company: "Indian Institute of Technology Kanpur"
+  company: "University of Iceland"
   thumbnailUrl: RohitGoswami.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
-  social: 
+    - {abbr: "Maintainer", title: "Carpentries Maintainer", url: "https://carpentries.org/maintainers/"}
+  social:
       - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
+      - {name: "github", link: "https://github.com/HaoZeke"}
+      - {name: "site", link: "https://rgoswami.me"}
 -
   id: 717
   name: "Sarah"
@@ -894,23 +896,11 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/serahrono/"}
     - {name: "twitter", link: "https://twitter.com/serahrono"}
 
-
-  
-
-
-
-
-    
-  
-      
-  
-      
-      
-   
-    
-  
-    
-    
-  
-
-  
+-
+  id: 778
+  name: "Amrita"
+  surname: "Goswami"
+  company: "Indian Institute of Technology, Kanpur"
+  thumbnailUrl: AmritaGoswami.jpeg
+  social:
+      - {name: "github", link: "https://github.com/amritagos"}
