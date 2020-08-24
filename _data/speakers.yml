@@ -847,8 +847,8 @@
   bio: "Samantha is a PhD student at Aalto University and researcher at Finnish Geospatial Research Institute (FGI) with background in Natural Sciences and Geo information technology. Her thesis topic is the application of Machine Learning on Remote Sensing time series. She has working knowledge in Python programming and big data analysis. In the mega CodeRefinery workshop she served as a helper on a team of people from FGI."
   thumbnailUrl: SamanthaWittke.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/ragamouf"}
-    - {name: "github", link: "https://github.com/ragamouf"}
+    - {name: "twitter", link: " https://twitter.com/swittke1"}
+    - {name: "github", link: "https://github.com/samumantha"}
 -
   id: 768
   name: "Abigail"
