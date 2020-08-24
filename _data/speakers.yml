@@ -890,6 +890,18 @@
   social:
       - {name: "github", link: "https://github.com/amritagos"}
 -
+  id: 772
+  name: "Matúš"
+  surname: "Kalaš"
+  company: "Postdoctoral researcher, University of Bergen, Norway"
+  bio:"Matúš is a Postdoc at the Computational Biology Unit, with previous experiences from the software industry; especially with developing efficient user interfaces and integrating information systems. Since switching to the academia, he concentrates on open source software, open science, standardisation, software integration, ontologies, teaching, outreach, and community building."
+  ribbon:
+    - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
+  thumbnailUrl: MatúšKalaš.png
+  social:
+      - {name: "github", link: "https://github.com/matuskalas"}
+      - {name: "twitter", link: " https://twitter.com/matuskalas"}
+-
   id: 777
   name: "Serah"
   surname: "Rono"
