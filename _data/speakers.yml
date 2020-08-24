@@ -894,7 +894,7 @@
   name: "Matúš"
   surname: "Kalaš"
   company: "Postdoctoral researcher, University of Bergen, Norway"
-  bio:"Matúš is a Postdoc at the Computational Biology Unit, with previous experiences from the software industry; especially with developing efficient user interfaces and integrating information systems. Since switching to the academia, he concentrates on open source software, open science, standardisation, software integration, ontologies, teaching, outreach, and community building."
+  bio: "Matúš is a Postdoc at the Computational Biology Unit, with previous experiences from the software industry; especially with developing efficient user interfaces and integrating information systems. Since switching to the academia, he concentrates on open source software, open science, standardisation, software integration, ontologies, teaching, outreach, and community building."
   ribbon:
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   thumbnailUrl: MatúšKalaš.png
