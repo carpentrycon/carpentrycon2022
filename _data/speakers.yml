@@ -492,7 +492,8 @@
   surname: "Hettne"
   company: "Leiden University Libraries, Netherlands"
   title: "Digital Scholarship Librarian"
-  thumbnailUrl: Carpentries.png
+  bio: "Kristina Hettne (1978), PhD, is a Digital Scholarship Librarian at the Centre for Digital Scholarship, Leiden University Libraries in Leiden, The Netherlands. She obtained her Masters in Computer Science from Skövde University in Sweden in 2003 and shortly thereafter joined the computational toxicology group at AstraZeneca R&D in Mölndal, Sweden as a research scientist. In 2006, she moved to the Netherlands to pursue her PhD degree in bioinformatics of toxicogenomics, which she obtained from the University of Maastricht in 2012. In 2011 she joined the BioSemantics group at the Leiden University Medical Center as postdoctoral researcher. From 2015 to 2018 she led the group’s research on knowledge discovery applications as a senior researcher. In October 2018 she joined the Centre for Digital Scholarship at the Leiden University Libraries as a Digital Scholarship Librarian, where she helps researchers navigate Open Science and shape the future of research data management. She is the Centre’s liaison with GO FAIR and part of the FAIR Convergence Matrix development team for optimiSing the reuse of existing FAIR-related resources. She is a review editor for “Frontiers in Big Data”, member of the Advisory Board of the Wiley journal “Advanced Genetics”, and co-author of more than 35 research publications."
+  thumbnailUrl: KristinaHettne.jpg
   ribbon: 
     - {abbr: "Instructor", title: "Carpentries Instructor", url: "https://carpentries.org/instructors/"}
   social: 
