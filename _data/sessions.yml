@@ -31,7 +31,7 @@
   duration: 90 min
   subtype: skillup
   speakers: [701,731]
-  video: 
+  video: https://www.youtube.com/embed/4F3mec5xaDg
   presentation: 
   language: en
 -
@@ -43,7 +43,7 @@
   duration: 
   subtype: skillup
   speakers: [716,771]
-  video: 
+  video: https://www.youtube.com/embed/np6TPzME0aA
   presentation: 
   language: en 
 -
@@ -295,10 +295,10 @@
   description: "11 August 2020: 14h00 UTC<br><br>In 2019 the University of Toronto Libraries received funding from the Chief Librarian Innovation Grant to facilitate training of Carpentries instructors across the University of Toronto. Over the past year we have hosted an in-person instructor training session with 24 researchers, staff and students taking part, many of whom then became instructors for one of the 3 workshops from all 3 carpentries areas.<br><br>This panel includes perspectives from the folks who wrote the proposal, staff and student views on instructor training, and organizers of the carpentries workshops. We'll share what was valuable, challenging, and unexpected about the membership, and we'll open the session up in advance if the community would like to submit questions for the panelists.<br><br>In 2019 the University of Toronto Libraries received funding from the Chief Librarian Innovation Grant to facilitate training of Carpentries instructors across the University of Toronto. Over the past year we have hosted an in-person instructor training session with 24 researchers, staff and students taking part, many of whom then became instructors for one of the 3 workshops from all 3 carpentries areas.<br><br>This panel includes perspectives from the folks who wrote the proposal, staff and student views on instructor training, and organizers of the carpentries workshops. We'll share what was valuable, challenging, and unexpected about the membership, and we'll open the session up in advance if the community would like to submit questions for the panelists."
   etherpad: https://pad.carpentries.org/cchome-carpentries-membership
   start:  11 August at 14h00 UTC
-  duration: 
+  duration: 60min
   subtype: panel
   speakers: [720]
-  video: 
+  video: https://www.youtube.com/embed/03_sVX0skms
   presentation: 
   language: en
 -
@@ -357,7 +357,7 @@
   duration: 90 min
   subtype: panel
   speakers: [723,743, 744,745,764,767,772]
-  video: 
+  video: https://www.youtube.com/embed/r-5RsQqNInY
   presentation: 
   language: en
 - 
@@ -605,7 +605,7 @@
   description: "04 August 2020: 00h00 UTC<br><br>CarpentryCon @ Home Keynote will be delivered by Dr. Andrea Jones-Rooy."
   etherpad: https://pad.carpentries.org/cchome-keynote
   start:  04 August at 00h00 UTC
-  duration: 
+  duration: 60min
   subtype: keynote
   speakers: [700]
   video: 
@@ -614,7 +614,7 @@
 -
   id: 62
   title: "CarpentryCon @ Home Fireside Chat"
-  description: "26 August 2020: 21h00 UTC <br>  27 August 2020: 15h00 UTC<br><br>On  26 August 2020 at 21h00 UTC and 27 August 2020 at 15h00 UTC, a few community builders and wranglers will come together in two fireside chats to discuss different challenges, ideas and approaches around Growing Inclusive, Computational Communities and Leaders. Please <a href = 'https://forms.gle/6tY3cMAUhCtRJqiu5'>fill this form</a> with any questions or topics you would like to be part of the agenda for the fireside chats and we will make sure to include them in the discussions."
+  description: "26 August 2020: 21h00 UTC <br>  27 August 2020: 15h00 UTC<br><br>On  26 August 2020 at 21h00 UTC and 27 August 2020 at 15h00 UTC, a few community builders and wranglers will come together in two fireside chats to discuss different challenges, ideas and approaches around Growing Inclusive, Computational Communities and Leaders. Please <a href = 'https://forms.gle/6tY3cMAUhCtRJqiu5'>fill this form</a> with any questions or topics you would like to be part of the agenda for the fireside chats and we will make sure to include them in the discussions.<br><iframe width='560' height='315' src='https://www.youtube.com/embed/54SCfygtp5U' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br><iframe width='560' height='315' src='https://www.youtube.com/embed/6JRWbyuDyC0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
   etherpad: https://pad.carpentries.org/cchome-fireside-chat 
   start:  26 August at 21h00 UTC <br>  27 August at 15h00 UTC
   duration: 90min
@@ -629,10 +629,10 @@
   description: "07 August 2020: 13h00 UTC <br><br>CarpentryCon Lightning talks session will feature 5 minute talks by Carpentries community members on various data science, open science, open source and core skills work they are involved in."
   etherpad: https://pad.carpentries.org/cchome-lightning-talks 
   start:  07 August at 13h00 UTC
-  duration: 
+  duration: 60min
   subtype: Lightning
   speakers: [760,721,732,735,742,762,738,741]
-  video: 
+  video: https://www.youtube.com/embed/HOG9dC2cj_I
   presentation: 
   language: en
 -
