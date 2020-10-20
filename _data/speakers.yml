@@ -1,5 +1,5 @@
 - 
-  id: 000
+  id: 700
   name: "Kari"
   surname: "L. Jordan"
   company: "The Carpentries"
@@ -11,19 +11,6 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/drkariljordan"}
     - {name: "github", link: "https://github.com/kariljordan"}
-- 
-  id: 700
-  name: "Andrea"
-  surname: "Jones-Rooy, Ph.D."
-  company: "NYU Center for Data Science, USA"
-  title: "Director of Undergraduate Studies and Visiting Associate Professor"
-  bio: "Andrea Jones-Rooy, Ph.D. is the Director of Undergraduate Studies and Visiting Associate Professor at the NYU Center for Data Science where she also teaches their popular flagship course, Data Science for Everyone. She earned her Ph.D. in political science at the University of Michigan, Ann Arbor, and has previously taught at Carnegie Mellon and NYU Shanghai. Andrea's goal is to get as many people to think like social scientists as possible, and so she also regularly gives keynote presentations at companies as well as runs trainings and leads research projects for large companies where she uses social scientific methods to help them ask and answer questions about their workforce. Andrea is also a standup comedian, circus performer, and host of the weekly live-streaming YouTube show, Ask a Political Scientist, which is an interactive show that brings political science and stand up comedy together (at last)."
-  thumbnailUrl: AndreaJR.jpg
-  ribbon: 
-    - {abbr: "Keynote Speaker", title: "CarpentryCon Keynote Speaker"}
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jonesrooy"} 
-    - {name: "site", link: "http://www.jonesrooy.com"} 
 - 
   id: 701
   name: "Malvika"
