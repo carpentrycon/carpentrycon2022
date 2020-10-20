@@ -63,7 +63,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "cc2018.png"
 heroTitle: "CarpentryCon @ Home"
-#heroSubTitle: ""
+heroSubTitle: "A big thank you to Alfred P. Sloan foundation for making CarpentryCon @ Home possible."
 eventDate: "July 14 - August 31, 2020"
 #typeoutTextValues: '""'
 #typeoutFallback: ""
@@ -76,6 +76,7 @@ heroButtons:
 #  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 - {link: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8", text: "Watch Session Recordings from CarpentryCon @ Home"}
 heroTheme: "Growing Inclusive, Computational Communities and Leaders"
+
 
 # About Block
 aboutTitle: " CarpentryCon Conference Format"
