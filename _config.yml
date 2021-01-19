@@ -28,7 +28,7 @@ organiserDescription: "A community-led organisation that teaches foundational co
 organiserEmail: "carpentrycon@carpentries.org"
 organiserLogo: "/img/seo/organiser-logo.png"
 organiserLink: "https://carpentries.org"
-organiserYouTube: https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8
+organiserYouTube: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8"
 
 # Head
 metaKeywords: "event, researchers, librarians, programming, data science, rstats, python, pedagogy"

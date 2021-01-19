@@ -1,12 +1,12 @@
 -
-  id: 700
+  id: 11
   title: "Opening Keynote by Dr. Kari Jordan"
   description: "13 July 2020: 14h00 UTC <br>  14 July 2020: 00h00 UTC <br><br>This was the first session of CarpentryCon @ Home, delivered by The Carpentries Executive Director, Dr. Kari L. Jordan."
   etherpad: https://pad.carpentries.org/cchome-keynote-opening
   start:  "13 July at 14h00 UTC <br>  14 July at 00h00 UTC"
   duration: 30min
   subtype: keynote
-  speakers: [000]
+  speakers: [700]
   video: https://www.youtube.com/embed/Rp-yDgQHCQM
   presentation: 
   language: en
