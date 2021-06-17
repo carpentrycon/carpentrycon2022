@@ -133,7 +133,7 @@
   duration: 
   subtype: workshop
   speakers: [709,756]
-  video: 
+  video: https://youtube.com/embed/wZsPD7CgJC0
   presentation: 
   language: en
 -
@@ -250,7 +250,7 @@
   duration: 60min
   subtype: sprint
   speakers: [718]
-  video: 
+  video: https://youtube.com/embed/IzRCuk7XX18
   presentation: 
   language: en
 -
