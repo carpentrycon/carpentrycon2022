@@ -5,7 +5,7 @@ Check out CarpentryCon 2020 at http://2020.carpentrycon.org/.
 
 ## Purpose and Scope
 
-CarpentryCon is an annual conference that convenes the global Carpentries community. This conference zeroes in on:
+CarpentryCon is conference that convenes the global Carpentries community. This conference zeroes in on:
 
 - **Community Building:** bring together members of the Carpentry community, including instructors, partners, advocates, and staff, together with people sharing similar interests from around the globe. We will have a “come and learn” format that is different from most conferences.
 - **Sharing Knowledge:** The event will include sessions on teaching methods, curriculum development, community organisation, and leadership skills. (As noted in the preamble, the final list of sessions will be determined by the program committee in consultation with the community, balancing “who wants to learn what?” with “who’s willing to teach what?”.)
@@ -18,7 +18,7 @@ The CarpentryCon Task Force has been created within the carpentries to help orga
 
 All the plans, progress and resources of TF are reported within this repository.
 
-Details about the Task Force meetings are available [in this Etherpad](http://pad.software-carpentry.org/2020carpentrycontaskforce) and minutes are [regularly published here](https://github.com/carpentries/carpentrycon/tree/master/Minutes). 
+Details about the previous Task Force meetings are available [in this Etherpad](http://pad.software-carpentry.org/2020carpentrycontaskforce) and minutes are [regularly published here](https://github.com/carpentries/carpentrycon/tree/master/Minutes). 
 
 You can follow [CarpentryCon on Twitter](https://twitter.com/carpentrycon) for regular updates.
 
