@@ -1,5 +1,7 @@
-# [CarpentryCon 2020 Website](http://2020.carpentrycon.org/)
-Visible at http://2020.carpentrycon.org/.
+# CarpentryCon 2022
+This repo will build the forthcoming website for CarpentryCon 2022.
+
+Check out CarpentryCon 2020 at http://2020.carpentrycon.org/.
 
 ## Purpose and Scope
 
