@@ -23,7 +23,7 @@
 						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
-						<p class="theme-description">{{ session.description }}</p>
+						<p class="theme-description">{{ session.duration }}<br>{{ session.description }} <br><br><a href ="{{session.etherpad}}">View {{session.title}}'s Etherpad</a><br></p>
 						{% if session.presentation %}
 						<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
 						{% endif %}
