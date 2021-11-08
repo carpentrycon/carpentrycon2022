@@ -209,13 +209,14 @@ subscribeAction: "https://carpentries.us14.list-manage.com/subscribe/post?u=46d7
 socialLinks:
  - {link: "https://twitter.com/intent/user?screen_name=carpentrycon", icon: "twitter"}
  - {link: "https://www.facebook.com/carpentries/", icon: "facebook"}
+ - {link: "https://github.com/carpentrycon/carpentrycon2022", icon: "github"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
    - {link: "https://carpentries.org", text: "The Carpentries Website"}
-   - {link: "https://github.com/carpentrycon/carpentrycon2020", text: "CarpentryCon 2020 on GitHub"}
+   - {link: "https://2020.carpentrycon.org/", text: "CarpentryCon 2020"}
  -
   title: "Contacts"
   links:
