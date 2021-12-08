@@ -40,6 +40,35 @@ jobs:
           bundle install --jobs 4 --retry 3
           bundle update
 
+      - name: Get current version from S3
+        uses: prewk/s3-cp-action@0.1.1
+        with:
+          args: --recursive
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE: 's3://${{ secrets.AWS_S3_BUCKET }}'
+          DEST: './_site_prev'
+
       - name: Build site
         run: |
           bundle exec jekyll build
+
+      - name: Deploy to AWS S3
+        id: deploy
+        uses: fmichonneau/s3-sync-action@log-output
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: _site/
+
+      - name: Identify files to invalidate
+        uses: docker://fmichonneau/ga-compare-folders:latest
+        env:
+          FOLDER_1: _site_prev/
+          FOLDER_2: _site/
+          OUTPUT: changed_files.txt
+          ADD_ROOTS: true
