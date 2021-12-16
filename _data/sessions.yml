@@ -7,7 +7,7 @@
   duration: 30min
   subtype: keynote
   speakers: [700]
-  video: https://www.youtube.com/embed/Rp-yDgQHCQM
+  video: https://www.youtube-nocookie.com/embed/Rp-yDgQHCQM
   presentation: 
   language: en
 -
@@ -19,7 +19,7 @@
   duration: 
   subtype: skillup
   speakers: [705,763]
-  video: https://www.youtube.com/embed/0RDpJ1hqYOs
+  video: https://www.youtube-nocookie.com/embed/0RDpJ1hqYOs
   presentation: 
   language: en
 -
@@ -31,7 +31,7 @@
   duration: 90 min
   subtype: skillup
   speakers: [701,731]
-  video: https://www.youtube.com/embed/4F3mec5xaDg
+  video: https://www.youtube-nocookie.com/embed/4F3mec5xaDg
   presentation: 
   language: en
 -
@@ -43,7 +43,7 @@
   duration: 
   subtype: skillup
   speakers: [716,771]
-  video: https://www.youtube.com/embed/np6TPzME0aA
+  video: https://www.youtube-nocookie.com/embed/np6TPzME0aA
   presentation: 
   language: en 
 -
@@ -55,7 +55,7 @@
   duration: 
   subtype: breakout
   speakers: [703]
-  video: https://www.youtube.com/embed/UlIvD_fPrZc
+  video: https://www.youtube-nocookie.com/embed/UlIvD_fPrZc
   presentation: 
   language: en  
 -
@@ -69,7 +69,7 @@
   duration: 3 hours
   subtype: skillup
   speakers: [704]
-  video: https://www.youtube.com/embed/-x81mpkQAWo
+  video: https://www.youtube-nocookie.com/embed/-x81mpkQAWo
   presentation: 
   language: en 
 -
@@ -97,7 +97,7 @@
   duration: 75 min
   subtype: breakout
   speakers: [707]
-  video: https://www.youtube.com/embed/X8dGZlGaMEc
+  video: https://www.youtube-nocookie.com/embed/X8dGZlGaMEc
   presentation: 
   language: en 
 -
@@ -109,7 +109,7 @@
   duration: 
   subtype: breakout
   speakers: [703]
-  video: https://www.youtube.com/embed/1LQKWLUOG3Y
+  video: https://www.youtube-nocookie.com/embed/1LQKWLUOG3Y
   presentation: 
   language: en  
 -
@@ -121,7 +121,7 @@
   duration: 
   subtype: breakout
   speakers: [708,752,761]
-  video: https://www.youtube.com/embed/SCPYRiDXTQA
+  video: https://www.youtube-nocookie.com/embed/SCPYRiDXTQA
   presentation: 
   language: en
 - 
@@ -133,7 +133,7 @@
   duration: 
   subtype: workshop
   speakers: [709,756]
-  video: https://youtube.com/embed/wZsPD7CgJC0
+  video: https://youtube-nocookie.com/embed/wZsPD7CgJC0
   presentation: 
   language: en
 -
@@ -164,7 +164,7 @@
   duration: 
   subtype: skillup
   speakers: [711]
-  video: https://www.youtube.com/embed/hRYBGsCxfDY
+  video: https://www.youtube-nocookie.com/embed/hRYBGsCxfDY
   presentation: 
   language: en
 -
@@ -250,7 +250,7 @@
   duration: 60min
   subtype: sprint
   speakers: [718]
-  video: https://youtube.com/embed/IzRCuk7XX18
+  video: https://youtube-nocookie.com/embed/IzRCuk7XX18
   presentation: 
   language: en
 -
@@ -298,7 +298,7 @@
   duration: 60min
   subtype: panel
   speakers: [720]
-  video: https://www.youtube.com/embed/03_sVX0skms
+  video: https://www.youtube-nocookie.com/embed/03_sVX0skms
   presentation: 
   language: en
 -
@@ -357,7 +357,7 @@
   duration: 90 min
   subtype: panel
   speakers: [723,743, 744,745,764,767,772]
-  video: https://www.youtube.com/embed/r-5RsQqNInY
+  video: https://www.youtube-nocookie.com/embed/r-5RsQqNInY
   presentation: 
   language: en
 - 
@@ -372,7 +372,7 @@
   duration: 90 min
   subtype: breakout
   speakers: [724,725]
-  video: https://www.youtube.com/embed/Xo3Ab2GFj24
+  video: https://www.youtube-nocookie.com/embed/Xo3Ab2GFj24
   presentation: 
   language: en
 - 
@@ -432,7 +432,7 @@
   duration: 3.5 hours
   subtype: skillup
   speakers: [729]
-  video: https://www.youtube.com/embed/uvWhSYBkZJ0
+  video: https://www.youtube-nocookie.com/embed/uvWhSYBkZJ0
   presentation: 
   language: en
 - 
@@ -444,7 +444,7 @@
   duration: 60min
   subtype: other
   speakers: [730]
-  video: https://www.youtube.com/embed/5f3-q9SzkeE
+  video: https://www.youtube-nocookie.com/embed/5f3-q9SzkeE
   presentation: 
   language: en
 - 
@@ -456,7 +456,7 @@
   duration: 90 min
   subtype: skillup
   speakers: [701,731]
-  video: https://www.youtube.com/embed/jo2jUZJqIm0
+  video: https://www.youtube-nocookie.com/embed/jo2jUZJqIm0
   presentation: 
   language: en
 - 
@@ -468,7 +468,7 @@
   duration: 60min
   subtype: lightning
   speakers: [732]
-  video: https://www.youtube.com/embed/HOG9dC2cj_I
+  video: https://www.youtube-nocookie.com/embed/HOG9dC2cj_I
   presentation: 
   language: en
 - 
@@ -602,7 +602,7 @@
 -
   id: 62
   title: "CarpentryCon @ Home Fireside Chat"
-  description: "26 August 2020: 21h00 UTC <br>  27 August 2020: 15h00 UTC<br><br>On  26 August 2020 at 21h00 UTC and 27 August 2020 at 15h00 UTC, a few community builders and wranglers will come together in two fireside chats to discuss different challenges, ideas and approaches around Growing Inclusive, Computational Communities and Leaders. Please <a href = 'https://forms.gle/6tY3cMAUhCtRJqiu5'>fill this form</a> with any questions or topics you would like to be part of the agenda for the fireside chats and we will make sure to include them in the discussions.<br><iframe width='560' height='315' src='https://www.youtube.com/embed/54SCfygtp5U' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br><iframe width='560' height='315' src='https://www.youtube.com/embed/6JRWbyuDyC0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+  description: "26 August 2020: 21h00 UTC <br>  27 August 2020: 15h00 UTC<br><br>On  26 August 2020 at 21h00 UTC and 27 August 2020 at 15h00 UTC, a few community builders and wranglers will come together in two fireside chats to discuss different challenges, ideas and approaches around Growing Inclusive, Computational Communities and Leaders. Please <a href = 'https://forms.gle/6tY3cMAUhCtRJqiu5'>fill this form</a> with any questions or topics you would like to be part of the agenda for the fireside chats and we will make sure to include them in the discussions.<br><iframe class='lazyload' width='560' height='315' src='https://www.youtube-nocookie.com/embed/54SCfygtp5U' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe><br><iframe class='lazyload' width='560' height='315' src='https://www.youtube-nocookie.com/embed/6JRWbyuDyC0' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
   etherpad: https://pad.carpentries.org/cchome-fireside-chat 
   start:  26 August at 21h00 UTC <br>  27 August at 15h00 UTC
   duration: 90min
@@ -620,7 +620,7 @@
   duration: 60min
   subtype: Lightning
   speakers: [760,721,732,735,742,762,738,741]
-  video: https://www.youtube.com/embed/HOG9dC2cj_I
+  video: https://www.youtube-nocookie.com/embed/HOG9dC2cj_I
   presentation: 
   language: en
 -

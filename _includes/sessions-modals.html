@@ -20,7 +20,7 @@
 						{% endif %}
 						{% if session.video %}
 						<div class="theme-video embed-responsive embed-responsive-16by9">
-						    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
+						    <iframe class="lazyload embed-responsive-item" src="" data-src="{{ session.video }}"></iframe>
 						</div>
 						{% endif %}
 						<p class="theme-description">{{ session.duration }}<br>{{ session.description }} <br><br><a href ="{{session.etherpad}}">View {{session.title}}'s Etherpad</a><br></p>
