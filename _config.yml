@@ -17,8 +17,6 @@ description: "Biennial community conference for The Carpentries global community
 baseurl: ""
 url: "https://2020.carpentrycon.org"
 permalink: "/blog/:title/"
-googleAnalyticsTrackingId: ""
-googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # organiser Info
