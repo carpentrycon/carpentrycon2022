@@ -219,7 +219,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://carpentries.org", text: "The Carpentries Website"}
-   - {link: "https://2020.carpentrycon.org/", text: "CarpentryCon 2020"}
+   - {link: "https://carpentrycon.org/", text: "CarpentryCon Main Page"}
  -
   title: "Contacts"
   links:
