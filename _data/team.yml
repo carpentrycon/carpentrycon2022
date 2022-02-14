@@ -2,158 +2,98 @@
   id: 31
   name: "Aleksandra"
   surname: "Nenadic"
-  title: "Content/Communications Subcommittee Co-Chair"
   thumbnailUrl: AleksNenadic.png
-  comms: true 
   social: 
       - {name: "twitter", link: "https://twitter.com/aleks_nenadic"}
       - {name: "github", link: "https://github.com/anenadic"}
+  committees:
+      - {name: "comms", title: "Content/Communications Subcommittee Co-Chair"}
+      - {name: "website", title: "Website and Outreach Subcommittee Co-Chair"}
 
--
-  id: 60
-  name: "Aleksandra"
-  surname: "Nenadic"
-  title: "Website and Outreach Subcommittee Co-Chair"
-  thumbnailUrl: AleksNenadic.png
-  website: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/aleks_nenadic"}
-      - {name: "github", link: "https://github.com/anenadic"}
 -
   id: 61
   name: "Anne"
   surname: "Fouilloux"
-  title: "Website and Outreach Subcommittee Co-Chair"
   thumbnailUrl: AnneFouilloux.jpg
-  website: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/AnneFouilloux"}
     - {name: "github", link: "https://github.com/annefou"}
-
-- 
-  id: 22
-  name: "Anne"
-  surname: "Fouilloux"
-  title: "Budget Subcommittee"
-  thumbnailUrl: AnneFouilloux.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AnneFouilloux"}
-    - {name: "github", link: "https://github.com/annefou"}
+  committees:
+    - {name: "budget", title: "Budget Subcommittee"}
+    - {name: "website", title: "Website and Outreach Subcommittee Co-Chair"}
 
 -
   id: 62
   name: "Bianca"
   surname: "Peterson"
-  title: "Website and Outreach Subcommittee"
   thumbnailUrl: BiancaPeterson.jpg
-  website: true 
   social: 
       - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
       - {name: "github", link: "http://github.com/BinxiePeterson"}
-
-- 
-  id: 50
-  name: "Bianca"
-  surname: "Peterson"
-  title: "Program Subcommittee Co-chair"
-  thumbnailUrl: BiancaPeterson.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
-      - {name: "github", link: "http://github.com/BinxiePeterson"}
-
-- 
-  id: 33
-  name: "Bianca"
-  surname: "Peterson"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: BiancaPeterson.jpg
-  comms: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
-      - {name: "github", link: "http://github.com/BinxiePeterson"}
+  committees:
+      - {name: website, title: "Website and Outreach Subcommittee"}
+      - {name: program, title: "Program Subcommittee Co-chair"}
+      - {name: comms, title:  "Content/Communications Subcommittee"}
 
 - 
   id: 4
   name: "Christina"
   surname: "Koch"
-  title: "Task Force Co-chair"
   thumbnailUrl: ChristinaKoch.jpg
-  cochair: true 
   social: 
     - {name: "site", link: "http://christinalk.github.io"}
     - {name: "github", link: "https://github.com/ChristinaLK"}
     - {name: "twitter", link: "https://twitter.com/_christinaLK"}
-
-- 
-  id: 11
-  name: "Christina"
-  surname: "Koch"
-  title: "Accessibility Subcommittee Co-chair"
-  thumbnailUrl: ChristinaKoch.jpg
-  accessibility: true 
-  social: 
-    - {name: "site", link: "http://christinalk.github.io"}
-    - {name: "github", link: "https://github.com/ChristinaLK"}
-    - {name: "twitter", link: "https://twitter.com/_christinaLK"}
+  committees:
+      - {name: chairs, title: "Task Force Co-chair"}
+      - {name: accessibility, title: "Accessibility Subcommittee Co-chair"}
 
 - 
   id: 37
   name: "Cody"
   surname: "Hennesy"
-  title: "Content/Communications Subcommittee Co-Chair"
   thumbnailUrl: CodyHennesy.jpg
-  comms: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/codyhennesy"}
     - {name: "github", link: "https://github.com/chennesy"}
+  committees:
+      - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
 
 - 
   id: 26
   name: "Dan"
   surname: "Kerchner"
-  title: "Budget Subcommittee"
   thumbnailUrl: DanKerchner.jpg
-  budget: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/dankerchner"}
     - {name: "github", link: "https://github.com/kerchner"}
-
-- 
-  id: 85
-  name: "Dan"
-  surname: "Kerchner"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/dankerchner"}
-    - {name: "github", link: "https://github.com/kerchner"}
+  committees:
+    - {name: budget, title: "Budget Subcommittee"}
+    - {name: cchomeorganiser, title:  "CarpentryCon @ Home Organiser"}
 
 
 - 
   id: 71
   name: "Danielle"
   surname: "Quinn"
-  title: "CarpentryCon 2020 Advisor"
   thumbnailUrl: Carpentries.png
-  advisor: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/daniellequinn88"}
     - {name: "github", link: "https://github.com/DanielleQuinn"}
+  committees:
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
 
 
 -
   id: 57
   name: "Elizabeth"
   surname: "Wickes"
-  title: "Program Subcommittee"
   thumbnailUrl: ElizabethWickes.jpeg
-  program: true
   social:
       - {name: "twitter", link: "https://twitter.com/elliewix"}
       - {name: "github", link: "https://github.com/elliewix"}
+  committees:
+    - {name: program, title: "Program Subcommittee"}
 
 - 
   id: 24
@@ -165,7 +105,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
     - {name: "github", link: "https://github.com/elizabethwilliams8"}
-
+  committees:
+   - {name: staff, title:  "Staff Liaison"}
 
 
 - 
