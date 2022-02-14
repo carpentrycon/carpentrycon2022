@@ -265,6 +265,8 @@
   staff: true
   social: 
     - {name: "github", link: "https://github.com/kmomar"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
 
 - 
   id: 3
@@ -276,30 +278,10 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/ousodanos"}
     - {name: "github", link: "https://github.com/ousodaniel"}
-
-
-- 
-  id: 23
-  name: "Ouso"
-  surname: "Daniel"
-  title: "Budget Subcommittee"
-  thumbnailUrl: DanielOuso.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ousodanos"}
-    - {name: "github", link: "https://github.com/ousodaniel"}
-
-- 
-  id: 32
-  name: "Ouso"
-  surname: "Daniel"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: DanielOuso.jpg
-  comms: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ousodanos"}
-    - {name: "github", link: "https://github.com/ousodaniel"}
-
+  committees:
+    - {name: chairs, title: "Task Force Co-chair"}
+    - {name: budget, title: "Budget Subcommittee"}
+    - {name: comms, title: "Content/Communications Subcommittee"}
 
 - 
   id: 56
@@ -311,18 +293,9 @@
   social: 
       - {name: "twitter", link: "https://twitter.com/rg0swami"}
       - {name: "github", link: "http://github.com/HaoZeke"}
-
-
-- 
-  id: 66
-  name: "Rohit"
-  surname: "Goswami"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: RohitGoswami.jpg
-  website: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
+  committees:
+    - {name: program, title: "Program Subcommittee"}
+    - {name: website, title: "Website and Outreach Subcommittee"}
 
 - 
   id: 85
@@ -334,6 +307,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/yalahowy"}
     - {name: "github", link: "https://github.com/selgebali"}
+  committees: 
+    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
     
 
 
@@ -348,18 +323,9 @@
       - {name: "twitter", link: "https://twitter.com/microStevens"}
       - {name: "github", link: "https://github.com/sstevens2"}
       - {name: "twitter", link: "https://sarahlrstevens.info"}
-
--
-  id: 64
-  name: "Sarah"
-  surname: "Stevens"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: SarahStevens.jpg
-  website: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/microStevens"}
-      - {name: "github", link: "https://github.com/sstevens2"}
-      - {name: "twitter", link: "https://sarahlrstevens.info"}
+  committees: 
+    - {name: comms, title: "Content/Communications Subcommittee Co-chair"}
+    - {name: website, title: "Website and Outreach Subcommittee"}
 
 
 - 
@@ -372,17 +338,9 @@
   social: 
       - {name: "twitter", link: "https://twitter.com/perisateesh"}
       - {name: "github", link: "https://github.com/perisateesh"}
-
-- 
-  id: 51
-  name: "Sateesh"
-  surname: "Peri"
-  title: "Program Subcommittee Co-chair"
-  thumbnailUrl: SateeshPeri.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/perisateesh"}
-      - {name: "github", link: "https://github.com/perisateesh"}
+  committees: 
+    - {name: comms, title: "Content/Communications Subcommittee"}
+    - {name: program, title: "Program Subcommittee Co-chair"}
 
 - 
   id: 2
@@ -394,18 +352,9 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/serahrono"}
     - {name: "github", link: "https://github.com/serahrono"}
-
-
-- 
-  id: 65
-  name: "Serah"
-  surname: "Rono"
-  title: "Staff Liaison"
-  thumbnailUrl: SerahRono.jpg
-  website: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/serahrono"}
-    - {name: "github", link: "https://github.com/serahrono"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
+    - {name: website, title: "Staff Liaison"}
 
 -
   id: 39
@@ -418,6 +367,8 @@
     - {name: "website", link: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
     - {name: "twitter", link: "https://twitter.com/ShailyGandhi"}
     - {name: "github", link: "https://github.com/ShailyGandhi"}   
+  committees:
+    - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
 
 - 
   id: 25
@@ -429,39 +380,11 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
     - {name: "github", link: "http://github.com/sheraaronhurt"}
-- 
-  id: 0
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  staff: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-    - {name: "github", link: "http://github.com/sheraaronhurt"}
-
-- 
-  id: 13
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  accessibility: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-    - {name: "github", link: "http://github.com/sheraaronhurt"}
-
-
-- 
-  id: 55
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-      - {name: "github", link: "http://github.com/sheraaronhurt"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
+    - {name: accessibility, title: "Staff Liaison"}
+    - {name: budget, title: "Staff Liaison"}
+    - {name: program, title: "Staff Liaison"}
 
 - 
   id: 12
@@ -473,28 +396,10 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
     - {name: "github", link: "https://github.com/silviadg87"} 
-
-- 
-  id: 21
-  name: "Silvia"
-  surname: "Di Giorgio"
-  title: "Budget Subcommittee Co-chair"
-  thumbnailUrl: SilviaDiGiorgio.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
-    - {name: "github", link: "https://github.com/silviadg87"} 
-
-- 
-  id: 54
-  name: "Silvia"
-  surname: "Di Giorgio"
-  title: "Program Subcommittee"
-  thumbnailUrl: SilviaDiGiorgio.jpg
-  program: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
-    - {name: "github", link: "https://github.com/silviadg87"}
+  committees:
+    - {name: accessibility, title: "Accessibility Subcommittee"}
+    - {name: budget, title: "Budget Subcommittee Co-chair"}
+    - {name: program, title: "Program Subcommittee"}
 
 - 
   id: 100
