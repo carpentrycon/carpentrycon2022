@@ -2,7 +2,7 @@
   id: 31
   name: "Aleksandra"
   surname: "Nenadic"
-  thumbnailUrl: AleksNenadic.png
+  thumbnailUrl: AleksNenadic.jpg
   social: 
       - {name: "twitter", link: "https://twitter.com/aleks_nenadic"}
       - {name: "github", link: "https://github.com/anenadic"}
@@ -52,7 +52,7 @@
   id: 37
   name: "Cody"
   surname: "Hennesy"
-  thumbnailUrl: CodyHennesy.jpg
+  thumbnailUrl: CodyHennesy.png
   social: 
     - {name: "twitter", link: "https://twitter.com/codyhennesy"}
     - {name: "github", link: "https://github.com/chennesy"}
