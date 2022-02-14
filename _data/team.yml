@@ -138,7 +138,7 @@
     - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
     - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
   committees:
-    - {name: "organiser", title: "CarpentryCon @ Home Organiser"}
+    - {name: "cchomeorganiser", title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 83
@@ -149,7 +149,7 @@
     - {name: "twitter", link: "https://twitter.com/jlibraryist"}
     - {name: "github", link: "https://github.com/jyssy"}    
   committees:
-    - {name: "organiser", title: "CarpentryCon @ Home Organiser"}
+    - {name: "cchomeorganiser", title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 20
@@ -172,7 +172,7 @@
     - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
     - {name: "github", link: "https://github.com/MalvikaSharan"}
   committees: 
-    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
     - {name: advisor, title: "CarpentryCon 2020 Advisor"}
     - {name: coc, title: "CoC Committee Representative"}
 
@@ -208,7 +208,7 @@
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
   committees:
-    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 81
@@ -219,7 +219,7 @@
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
   committees:
-    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
 
 -
   id: 38
@@ -276,7 +276,7 @@
     - {name: "twitter", link: "https://twitter.com/yalahowy"}
     - {name: "github", link: "https://github.com/selgebali"}
   committees: 
-    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
     
 
 
@@ -361,7 +361,8 @@
   id: 100
   name: "We Need"
   surname: "You"
-  title: "CarpentryCon 2020 Volunteer"
   thumbnailUrl: Carpentries.png
-  volunteer: true 
+  committees:
+    - {name: volunteer, title: "CarpentryCon 2020 Volunteer"}
+
   
