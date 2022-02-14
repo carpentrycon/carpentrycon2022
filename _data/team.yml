@@ -119,6 +119,8 @@
   social: 
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+  committees: 
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
     
 - 
   id: 10
@@ -129,16 +131,9 @@
   accessibility: true 
   social: 
     - {name: "github", link: "https://github.com/Mooresity"}
-
-- 
-  id: 34
-  name: "Gabriel"
-  surname: "Salubi"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: GabrielSalubi.jpg
-  comms: true 
-  social: 
-    - {name: "github", link: "https://github.com/Mooresity"}
+  committees: 
+    - {name: accessibility, title: "Accessibility Subcommittee Co-chair"}
+    - {name: comms, title: "Content/Communications Subcommittee"}
 
 - 
   id: 85
@@ -150,6 +145,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
     - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
+  committees:
+    - {name: "organiser", title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 83
@@ -161,6 +158,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/jlibraryist"}
     - {name: "github", link: "https://github.com/jyssy"}    
+  committees:
+    - {name: "organiser", title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 20
@@ -171,17 +170,9 @@
   budget: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/jessicaupani"}
-
-
-- 
-  id: 52
-  name: "Jessica"
-  surname: "Upani"
-  title: "Program Subcommittee"
-  thumbnailUrl: Carpentries.png
-  program: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jessicaupani"}
+  committees:
+    - {name: budget, title: "Budget Subcommittee Co-chair"}
+    - {name: program, title: "Program Subcommittee"}
 
 
 - 
@@ -194,28 +185,10 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
     - {name: "github", link: "https://github.com/MalvikaSharan"}
-
-- 
-  id: 73
-  name: "Malvika"
-  surname: "Sharan"
-  title: "CarpentryCon 2020 Advisor"
-  thumbnailUrl: MalvikaSharan.png
-  advisor: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
-    - {name: "github", link: "https://github.com/MalvikaSharan"}
-
-- 
-  id: 70
-  name: "Malvika"
-  surname: "Sharan"
-  title: "CoC Committee Representative"
-  thumbnailUrl: MalvikaSharan.png
-  coc: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
-    - {name: "github", link: "https://github.com/MalvikaSharan"}
+  committees: 
+    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
+    - {name: coc, title: "CoC Committee Representative"}
 
 - 
   id: 36
@@ -226,17 +199,9 @@
   comms: true 
   social: 
       - {name: "github", link: "https://github.com/mchiapello"}
-
-- 
-  id: 53
-  name: "Marco"
-  surname: "Chiapello"
-  title: "Program Subcommittee"
-  thumbnailUrl: MarcoChiapello.jpg
-  program: true 
-  social: 
-      - {name: "github", link: "https://github.com/mchiapello"}
-
+  committees: 
+      - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
+      - {name: program, title: "Program Subcommittee"}
 
 - 
   id: 74
@@ -248,6 +213,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/laufers"}
     - {name: "github", link: "https://github.com/laufers"}
+  committtees:
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
     
 
 - 
@@ -260,7 +227,8 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/matkuzak"}
     - {name: "github", link: "https://github.com/mkuzak"}
-
+  committees:
+    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
 
 - 
   id: 81
@@ -272,6 +240,8 @@
   social: 
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+  committees:
+    - {name: organiser, title: "CarpentryCon @ Home Organiser"}
 
 -
   id: 38
@@ -282,16 +252,9 @@
   comms: true 
   social: 
     - {name: "github", link: "https://github.com/minazamani"}
-
--
-  id: 63
-  name: "Mina"
-  surname: "Zamani"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: Carpentries.png
-  website: true 
-  social: 
-    - {name: "github", link: "https://github.com/minazamani"}
+  committees:
+    - {name: comms, title:  "Content/Communications Subcommittee Co-Chair"}
+    - {name: website, title: "Website and Outreach Subcommittee" }
 
 - 
   id: 1
