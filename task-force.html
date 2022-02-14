@@ -18,7 +18,7 @@ modal: task-force
 {% assign coc = "" | split: ',' %}
 {% assign advisor = "" | split: ',' %}
 {% assign volunteer = "" | split: ',' %}
-{% assign members = site.data.team_test %}
+{% assign members = site.data.team %}
 
 {% for mem in members %}
 {% for com in mem.committees %}
@@ -36,14 +36,101 @@ modal: task-force
 {% endfor %}
 {% endfor %}
 
-<h1>Website</h1>
-{% for person in website %}{{ person.name }} {{ person.surname }}, {% endfor %}
 
-<h1>Comms</h1>
-{% for person in comms %}{{ person.name }} {{ person.surname }}, {% endfor %}
+<h1>Chairs</h1>
+{% for person in chairs %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "chairs" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+
+<h1>Organisers</h1>
+{% for person in cchomeorganiser %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "cchomeorganiser" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>Staff</h1>
+{% for person in staff %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "staff" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>Accessibility</h1>
+{% for person in accessibility %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "accessibility" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
 
 <h1>Budget</h1>
-{% for person in budget %}{{ person.name }} {{ person.surname }}, {% endfor %}
+{% for person in budget %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "budget" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+
+<h1>Comms</h1>
+{% for person in comms %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "comms" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>Program</h1>
+{% for person in program %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "program" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>Website</h1>
+{% for person in website %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "website" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>COC</h1>
+{% for person in coc %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "coc" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+
+
+<h1>Advisor</h1>
+{% for person in advisor %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "advisor" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+<h1>Volunteer</h1>
+{% for person in volunteer %}
+{{ person.name }} {{ person.surname }}, 
+{% for committee in person.committees %}
+{% if committee.name == "volunteer" %} {{ committee.title }}, {% endif %}
+{% endfor %}
+{% endfor %}
+
+
+<hr>{{ budget  }}<hr>
 
  {% include top-section.html %}
 
