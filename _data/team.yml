@@ -128,8 +128,8 @@
   thumbnailUrl: Carpentries.png
   cchomeorganiser: true 
   social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/dankerchner"}
+    - {name: "github", link: "https://github.com/kerchner"}
 
 
 - 
@@ -176,8 +176,8 @@
   thumbnailUrl: Carpentries.png
   advisor: true 
   social: 
-    - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
-    - {name: "github", link: "https://github.com/elizabethwilliams8"}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
     
 - 
   id: 10
