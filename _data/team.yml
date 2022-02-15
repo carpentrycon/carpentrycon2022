@@ -1,538 +1,368 @@
 - 
-  id: 0
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  staff: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-    - {name: "github", link: "http://github.com/sheraaronhurt"}
-- 
-  id: 1
-  name: "Omar"
-  surname: "Khan"
-  title: "Staff Liaison"
-  thumbnailUrl: OmarKhan.jpg
-  staff: true
-  social: 
-    - {name: "github", link: "https://github.com/kmomar"}
-- 
-  id: 2
-  name: "Serah"
-  surname: "Rono"
-  title: "Staff Liaison"
-  thumbnailUrl: SerahRono.jpg
-  staff: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/serahrono"}
-    - {name: "github", link: "https://github.com/serahrono"}
-- 
-  id: 3
-  name: "Ouso"
-  surname: "Daniel"
-  title: "Task Force Co-chair"
-  thumbnailUrl: DanielOuso.png
-  cochair: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ousodanos"}
-    - {name: "github", link: "https://github.com/ousodaniel"}
-- 
-  id: 4
-  name: "Christina"
-  surname: "Koch"
-  title: "Task Force Co-chair"
-  thumbnailUrl: ChristinaKoch.jpg
-  cochair: true 
-  social: 
-    - {name: "site", link: "http://christinalk.github.io"}
-    - {name: "github", link: "https://github.com/ChristinaLK"}
-    - {name: "twitter", link: "https://twitter.com/_christinaLK"}
-- 
-  id: 10
-  name: "Gabriel"
-  surname: "Salubi"
-  title: "Accessibility Subcommittee Co-chair"
-  thumbnailUrl: GabrielSalubi.jpg
-  accessibility: true 
-  social: 
-    - {name: "github", link: "https://github.com/Mooresity"}
-- 
-  id: 11
-  name: "Christina"
-  surname: "Koch"
-  title: "Accessibility Subcommittee Co-chair"
-  thumbnailUrl: ChristinaKoch.jpg
-  accessibility: true 
-  social: 
-    - {name: "site", link: "http://christinalk.github.io"}
-    - {name: "github", link: "https://github.com/ChristinaLK"}
-    - {name: "twitter", link: "https://twitter.com/_christinaLK"}
-- 
-  id: 12
-  name: "Silvia"
-  surname: "Di Giorgio"
-  title: "Accessibility Subcommittee"
-  thumbnailUrl: SilviaDiGiorgio.jpg
-  accessibility: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
-    - {name: "github", link: "https://github.com/silviadg87"} 
-- 
-  id: 13
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  accessibility: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-    - {name: "github", link: "http://github.com/sheraaronhurt"}
-- 
-  id: 20
-  name: "Jessica"
-  surname: "Upani"
-  title: "Budget Subcommittee Co-chair"
-  thumbnailUrl: Carpentries.png
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jessicaupani"}
-- 
-  id: 21
-  name: "Silvia"
-  surname: "Di Giorgio"
-  title: "Budget Subcommittee Co-chair"
-  thumbnailUrl: SilviaDiGiorgio.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
-    - {name: "github", link: "https://github.com/silviadg87"} 
-- 
-  id: 22
-  name: "Anne"
-  surname: "Fouilloux"
-  title: "Budget Subcommittee"
-  thumbnailUrl: AnneFouilloux.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/AnneFouilloux"}
-    - {name: "github", link: "https://github.com/annefou"}
-- 
-  id: 23
-  name: "Ouso"
-  surname: "Daniel"
-  title: "Budget Subcommittee"
-  thumbnailUrl: DanielOuso.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ousodanos"}
-    - {name: "github", link: "https://github.com/ousodaniel"}
-- 
-  id: 24
-  name: "Elizabeth"
-  surname: "Williams"
-  title: "Staff Liaison"
-  thumbnailUrl: ElizabethWilliams.jpg
-  budget: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
-    - {name: "github", link: "https://github.com/elizabethwilliams8"}
-- 
-  id: 25
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-    - {name: "github", link: "http://github.com/sheraaronhurt"}
-- 
-  id: 26
-  name: "Dan"
-  surname: "Kerchner"
-  title: "Budget Subcommittee"
-  thumbnailUrl: DanKerchner.jpg
-  budget: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/dankerchner"}
-    - {name: "github", link: "https://github.com/kerchner"}
-- 
-  id: 30
-  name: "Sarah"
-  surname: "Stevens"
-  title: "Content/Communications Subcommittee Co-chair"
-  thumbnailUrl: SarahStevens.jpg
-  comms: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/microStevens"}
-      - {name: "github", link: "https://github.com/sstevens2"}
-      - {name: "twitter", link: "https://sarahlrstevens.info"}
-- 
   id: 31
   name: "Aleksandra"
   surname: "Nenadic"
-  title: "Content/Communications Subcommittee Co-Chair"
-  thumbnailUrl: AleksNenadic.png
-  comms: true 
+  thumbnailUrl: AleksNenadic.jpg
   social: 
       - {name: "twitter", link: "https://twitter.com/aleks_nenadic"}
       - {name: "github", link: "https://github.com/anenadic"}
-- 
-  id: 32
-  name: "Ouso"
-  surname: "Daniel"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: DanielOuso.jpg
-  comms: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ousodanos"}
-    - {name: "github", link: "https://github.com/ousodaniel"}
-- 
-  id: 33
-  name: "Bianca"
-  surname: "Peterson"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: BiancaPeterson.jpg
-  comms: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
-      - {name: "github", link: "http://github.com/BinxiePeterson"}
-- 
-  id: 34
-  name: "Gabriel"
-  surname: "Salubi"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: GabrielSalubi.jpg
-  comms: true 
-  social: 
-    - {name: "github", link: "https://github.com/Mooresity"}
-- 
-  id: 35
-  name: "Sateesh"
-  surname: "Peri"
-  title: "Content/Communications Subcommittee"
-  thumbnailUrl: SateeshPeri.jpg
-  comms: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/perisateesh"}
-      - {name: "github", link: "https://github.com/perisateesh"}
-- 
-  id: 36
-  name: "Marco"
-  surname: "Chiapello"
-  title: "Content/Communications Subcommittee Co-Chair"
-  thumbnailUrl: MarcoChiapello.jpg
-  comms: true 
-  social: 
-      - {name: "github", link: "https://github.com/mchiapello"}
-- 
-  id: 37
-  name: "Cody"
-  surname: "Hennesy"
-  title: "Content/Communications Subcommittee Co-Chair"
-  thumbnailUrl: CodyHennesy.jpg
-  comms: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
-    - {name: "github", link: "https://github.com/chennesy"}
--
-  id: 38
-  name: "Mina"
-  surname: "Zamani"
-  title: "Content/Communications Subcommittee Co-Chair"
-  thumbnailUrl: Carpentries.png
-  comms: true 
-  social: 
-    - {name: "github", link: "https://github.com/minazamani"}
--
-  id: 39
-  name: "Shaily"
-  surname: "Gandhi"
-  title: "Content/Communications Subcommittee Co-Chair"
-  thumbnailUrl: ShailyGandhi.jpg
-  comms: true 
-  social: 
-    - {name: "website", link: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
-    - {name: "twitter", link: "https://twitter.com/ShailyGandhi"}
-    - {name: "github", link: "https://github.com/ShailyGandhi"}    
-- 
-  id: 50
-  name: "Bianca"
-  surname: "Peterson"
-  title: "Program Subcommittee Co-chair"
-  thumbnailUrl: BiancaPeterson.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
-      - {name: "github", link: "http://github.com/BinxiePeterson"}
-- 
-  id: 51
-  name: "Sateesh"
-  surname: "Peri"
-  title: "Program Subcommittee Co-chair"
-  thumbnailUrl: SateeshPeri.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/perisateesh"}
-      - {name: "github", link: "https://github.com/perisateesh"}
-- 
-  id: 52
-  name: "Jessica"
-  surname: "Upani"
-  title: "Program Subcommittee"
-  thumbnailUrl: Carpentries.png
-  program: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jessicaupani"}
-- 
-  id: 53
-  name: "Marco"
-  surname: "Chiapello"
-  title: "Program Subcommittee"
-  thumbnailUrl: MarcoChiapello.jpg
-  program: true 
-  social: 
-      - {name: "github", link: "https://github.com/mchiapello"}
-- 
-  id: 54
-  name: "Silvia"
-  surname: "Di Giorgio"
-  title: "Program Subcommittee"
-  thumbnailUrl: SilviaDiGiorgio.jpg
-  program: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
-    - {name: "github", link: "https://github.com/silviadg87"}
-- 
-  id: 55
-  name: "SherAaron"
-  surname: "Hurt"
-  title: "Staff Liaison"
-  thumbnailUrl: SheraaronHurt.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
-      - {name: "github", link: "http://github.com/sheraaronhurt"}
-- 
-  id: 56
-  name: "Rohit"
-  surname: "Goswami"
-  title: "Program Subcommittee"
-  thumbnailUrl: RohitGoswami.jpg
-  program: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
--
-  id: 57
-  name: "Elizabeth"
-  surname: "Wickes"
-  title: "Program Subcommittee"
-  thumbnailUrl: ElizabethWickes.jpeg
-  program: true
-  social:
-      - {name: "twitter", link: "https://twitter.com/elliewix"}
-      - {name: "github", link: "https://github.com/elliewix"}
--
-  id: 60
-  name: "Aleksandra"
-  surname: "Nenadic"
-  title: "Website and Outreach Subcommittee Co-Chair"
-  thumbnailUrl: AleksNenadic.png
-  website: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/aleks_nenadic"}
-      - {name: "github", link: "https://github.com/anenadic"}
+  committees:
+      - {name: "comms", title: "Content/Communications Subcommittee Co-Chair"}
+      - {name: "website", title: "Website and Outreach Subcommittee Co-Chair"}
+
 -
   id: 61
   name: "Anne"
   surname: "Fouilloux"
-  title: "Website and Outreach Subcommittee Co-Chair"
   thumbnailUrl: AnneFouilloux.jpg
-  website: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/AnneFouilloux"}
     - {name: "github", link: "https://github.com/annefou"}
+  committees:
+    - {name: "budget", title: "Budget Subcommittee"}
+    - {name: "website", title: "Website and Outreach Subcommittee Co-Chair"}
+
 -
   id: 62
   name: "Bianca"
   surname: "Peterson"
-  title: "Website and Outreach Subcommittee"
   thumbnailUrl: BiancaPeterson.jpg
-  website: true 
   social: 
       - {name: "twitter", link: "https://twitter.com/BinxiePeterson"}
       - {name: "github", link: "http://github.com/BinxiePeterson"}
--
-  id: 63
-  name: "Mina"
-  surname: "Zamani"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: Carpentries.png
-  website: true 
-  social: 
-    - {name: "github", link: "https://github.com/minazamani"}
--
-  id: 64
-  name: "Sarah"
-  surname: "Stevens"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: SarahStevens.jpg
-  website: true 
-  social: 
-      - {name: "twitter", link: "https://twitter.com/microStevens"}
-      - {name: "github", link: "https://github.com/sstevens2"}
-      - {name: "twitter", link: "https://sarahlrstevens.info"}
+  committees:
+      - {name: website, title: "Website and Outreach Subcommittee"}
+      - {name: program, title: "Program Subcommittee Co-chair"}
+      - {name: comms, title:  "Content/Communications Subcommittee"}
+
 - 
-  id: 65
-  name: "Serah"
-  surname: "Rono"
-  title: "Staff Liaison"
-  thumbnailUrl: SerahRono.jpg
-  website: true
+  id: 4
+  name: "Christina"
+  surname: "Koch"
+  thumbnailUrl: ChristinaKoch.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/serahrono"}
-    - {name: "github", link: "https://github.com/serahrono"}
+    - {name: "site", link: "http://christinalk.github.io"}
+    - {name: "github", link: "https://github.com/ChristinaLK"}
+    - {name: "twitter", link: "https://twitter.com/_christinaLK"}
+  committees:
+      - {name: chairs, title: "Task Force Co-chair"}
+      - {name: accessibility, title: "Accessibility Subcommittee Co-chair"}
+
 - 
-  id: 66
-  name: "Rohit"
-  surname: "Goswami"
-  title: "Website and Outreach Subcommittee"
-  thumbnailUrl: RohitGoswami.jpg
-  website: true 
+  id: 37
+  name: "Cody"
+  surname: "Hennesy"
+  thumbnailUrl: CodyHennesy.png
   social: 
-      - {name: "twitter", link: "https://twitter.com/rg0swami"}
-      - {name: "github", link: "http://github.com/HaoZeke"}
+    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
+    - {name: "github", link: "https://github.com/chennesy"}
+  committees:
+      - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
+
 - 
-  id: 70
-  name: "Malvika"
-  surname: "Sharan"
-  title: "CoC Committee Representative"
-  thumbnailUrl: MalvikaSharan.png
-  coc: true 
+  id: 26
+  name: "Dan"
+  surname: "Kerchner"
+  thumbnailUrl: DanKerchner.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
-    - {name: "github", link: "https://github.com/MalvikaSharan"}
+    - {name: "twitter", link: "https://twitter.com/dankerchner"}
+    - {name: "github", link: "https://github.com/kerchner"}
+  committees:
+    - {name: budget, title: "Budget Subcommittee"}
+    - {name: cchomeorganiser, title:  "CarpentryCon @ Home Organiser"}
+
+
 - 
   id: 71
   name: "Danielle"
   surname: "Quinn"
-  title: "CarpentryCon 2020 Advisor"
   thumbnailUrl: Carpentries.png
-  advisor: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/daniellequinn88"}
     - {name: "github", link: "https://github.com/DanielleQuinn"}
+  committees:
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
+
+
+-
+  id: 57
+  name: "Elizabeth"
+  surname: "Wickes"
+  thumbnailUrl: ElizabethWickes.jpeg
+  social:
+      - {name: "twitter", link: "https://twitter.com/elliewix"}
+      - {name: "github", link: "https://github.com/elliewix"}
+  committees:
+    - {name: program, title: "Program Subcommittee"}
+
+- 
+  id: 24
+  name: "Elizabeth"
+  surname: "Williams"
+  thumbnailUrl: ElizabethWilliams.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
+    - {name: "github", link: "https://github.com/elizabethwilliams8"}
+  committees:
+   - {name: staff, title:  "Staff Liaison"}
+
+
 - 
   id: 72
   name: "Fotis"
   surname: "Psomopoulos"
-  title: "CarpentryCon 2020 Advisor"
   thumbnailUrl: Carpentries.png
-  advisor: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/ecwilliams8"}
-    - {name: "github", link: "https://github.com/elizabethwilliams8"}
-- 
-  id: 73
-  name: "Malvika"
-  surname: "Sharan"
-  title: "CarpentryCon 2020 Advisor"
-  thumbnailUrl: MalvikaSharan.png
-  advisor: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
-    - {name: "github", link: "https://github.com/MalvikaSharan"}
-- 
-  id: 74
-  name: "Mark"
-  surname: "Laufersweiler"
-  title: "CarpentryCon 2020 Advisor"
-  thumbnailUrl: Carpentries.png
-  advisor: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/laufers"}
-    - {name: "github", link: "https://github.com/laufers"}
-    
-- 
-  id: 80
-  name: "Malvika"
-  surname: "Sharan"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: MalvikaSharan.png
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
-    - {name: "github", link: "https://github.com/MalvikaSharan"}
-- 
-  id: 81
-  name: "Mike"
-  surname: "Trizna"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
-  cchomeorganiser: true 
   social: 
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
-- 
-  id: 82
-  name: "Mateusz"
-  surname: "Kuzak"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: MateuszKuzak.jpg
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/matkuzak"}
-    - {name: "github", link: "https://github.com/mkuzak"}
-- 
-  id: 83
-  name: "Jesse"
-  surname: "Lambertson"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: JesseLambertson.jpg
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: "https://twitter.com/jlibraryist"}
-    - {name: "github", link: "https://github.com/jyssy"}    
-- 
-  id: 85
-  name: "Dan"
-  surname: "Kerchner"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: Carpentries.png
-  cchomeorganiser: true 
-  social: 
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+  committees: 
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
     
 - 
-  id: 85
-  name: "Sara"
-  surname: "El-Gebali"
-  title: "CarpentryCon @ Home Organiser"
-  thumbnailUrl: SaraElGebali.jpg
-  cchomeorganiser: true 
+  id: 10
+  name: "Gabriel"
+  surname: "Salubi"
+  thumbnailUrl: GabrielSalubi.jpg
   social: 
-    - {name: "twitter", link: "https://twitter.com/yalahowy"}
-    - {name: "github", link: "https://github.com/selgebali"}
-    
+    - {name: "github", link: "https://github.com/Mooresity"}
+  committees: 
+    - {name: accessibility, title: "Accessibility Subcommittee Co-chair"}
+    - {name: comms, title: "Content/Communications Subcommittee"}
+
 - 
   id: 85
   name: "Jason"
   surname: "Williams"
-  title: "CarpentryCon @ Home Organiser"
   thumbnailUrl: JasonWilliams.png
-  cchomeorganiser: true 
   social: 
     - {name: "twitter", link: "https://twitter.com/JasonWilliamsNY"}
     - {name: "github", link: "https://github.com/JasonJWilliamsNY"}
+  committees:
+    - {name: "cchomeorganiser", title: "CarpentryCon @ Home Organiser"}
+
+- 
+  id: 83
+  name: "Jesse"
+  surname: "Lambertson"
+  thumbnailUrl: JesseLambertson.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jlibraryist"}
+    - {name: "github", link: "https://github.com/jyssy"}    
+  committees:
+    - {name: "cchomeorganiser", title: "CarpentryCon @ Home Organiser"}
+
+- 
+  id: 20
+  name: "Jessica"
+  surname: "Upani"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/jessicaupani"}
+  committees:
+    - {name: budget, title: "Budget Subcommittee Co-chair"}
+    - {name: program, title: "Program Subcommittee"}
+
+
+- 
+  id: 80
+  name: "Malvika"
+  surname: "Sharan"
+  thumbnailUrl: MalvikaSharan.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/MalvikaSharan"}
+    - {name: "github", link: "https://github.com/MalvikaSharan"}
+  committees: 
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
+    - {name: coc, title: "CoC Committee Representative"}
+
+- 
+  id: 36
+  name: "Marco"
+  surname: "Chiapello"
+  thumbnailUrl: MarcoChiapello.jpg
+  social: 
+      - {name: "github", link: "https://github.com/mchiapello"}
+  committees: 
+      - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
+      - {name: program, title: "Program Subcommittee"}
+
+- 
+  id: 74
+  name: "Mark"
+  surname: "Laufersweiler"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/laufers"}
+    - {name: "github", link: "https://github.com/laufers"}
+  committtees:
+    - {name: advisor, title: "CarpentryCon 2020 Advisor"}
+    
+
+- 
+  id: 82
+  name: "Mateusz"
+  surname: "Kuzak"
+  thumbnailUrl: MateuszKuzak.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/matkuzak"}
+    - {name: "github", link: "https://github.com/mkuzak"}
+  committees:
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
+
+- 
+  id: 81
+  name: "Mike"
+  surname: "Trizna"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+  committees:
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
+
+-
+  id: 38
+  name: "Mina"
+  surname: "Zamani"
+  thumbnailUrl: Carpentries.png
+  social: 
+    - {name: "github", link: "https://github.com/minazamani"}
+  committees:
+    - {name: comms, title:  "Content/Communications Subcommittee Co-Chair"}
+    - {name: website, title: "Website and Outreach Subcommittee" }
+
+- 
+  id: 1
+  name: "Omar"
+  surname: "Khan"
+  thumbnailUrl: OmarKhan.jpg
+  social: 
+    - {name: "github", link: "https://github.com/kmomar"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
+
+- 
+  id: 3
+  name: "Ouso"
+  surname: "Daniel"
+  thumbnailUrl: DanielOuso.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/ousodanos"}
+    - {name: "github", link: "https://github.com/ousodaniel"}
+  committees:
+    - {name: chairs, title: "Task Force Co-chair"}
+    - {name: budget, title: "Budget Subcommittee"}
+    - {name: comms, title: "Content/Communications Subcommittee"}
+
+- 
+  id: 56
+  name: "Rohit"
+  surname: "Goswami"
+  thumbnailUrl: RohitGoswami.jpg
+  social: 
+      - {name: "twitter", link: "https://twitter.com/rg0swami"}
+      - {name: "github", link: "http://github.com/HaoZeke"}
+  committees:
+    - {name: program, title: "Program Subcommittee"}
+    - {name: website, title: "Website and Outreach Subcommittee"}
+
+- 
+  id: 85
+  name: "Sara"
+  surname: "El-Gebali"
+  thumbnailUrl: SaraElGebali.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/yalahowy"}
+    - {name: "github", link: "https://github.com/selgebali"}
+  committees: 
+    - {name: cchomeorganiser, title: "CarpentryCon @ Home Organiser"}
+    
+
+
+- 
+  id: 30
+  name: "Sarah"
+  surname: "Stevens"
+  thumbnailUrl: SarahStevens.jpg
+  social: 
+      - {name: "twitter", link: "https://twitter.com/microStevens"}
+      - {name: "github", link: "https://github.com/sstevens2"}
+      - {name: "twitter", link: "https://sarahlrstevens.info"}
+  committees: 
+    - {name: comms, title: "Content/Communications Subcommittee Co-chair"}
+    - {name: website, title: "Website and Outreach Subcommittee"}
+
+
+- 
+  id: 35
+  name: "Sateesh"
+  surname: "Peri"
+  thumbnailUrl: SateeshPeri.jpg
+  social: 
+      - {name: "twitter", link: "https://twitter.com/perisateesh"}
+      - {name: "github", link: "https://github.com/perisateesh"}
+  committees: 
+    - {name: comms, title: "Content/Communications Subcommittee"}
+    - {name: program, title: "Program Subcommittee Co-chair"}
+
+- 
+  id: 2
+  name: "Serah"
+  surname: "Rono"
+  thumbnailUrl: SerahRono.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/serahrono"}
+    - {name: "github", link: "https://github.com/serahrono"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
+    - {name: website, title: "Staff Liaison"}
+
+-
+  id: 39
+  name: "Shaily"
+  surname: "Gandhi"
+  thumbnailUrl: ShailyGandhi.jpg
+  social: 
+    - {name: "website", link: "https://www.linkedin.com/in/shaily-gandhi-ph-d-24285b85/"}
+    - {name: "twitter", link: "https://twitter.com/ShailyGandhi"}
+    - {name: "github", link: "https://github.com/ShailyGandhi"}   
+  committees:
+    - {name: comms, title: "Content/Communications Subcommittee Co-Chair"}
+
+- 
+  id: 25
+  name: "SherAaron"
+  surname: "Hurt"
+  thumbnailUrl: SheraaronHurt.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/SherAaronHurt"}
+    - {name: "github", link: "http://github.com/sheraaronhurt"}
+  committees:
+    - {name: staff, title: "Staff Liaison"}
+    - {name: accessibility, title: "Staff Liaison"}
+    - {name: budget, title: "Staff Liaison"}
+    - {name: program, title: "Staff Liaison"}
+
+- 
+  id: 12
+  name: "Silvia"
+  surname: "Di Giorgio"
+  thumbnailUrl: SilviaDiGiorgio.jpg
+  social: 
+    - {name: "twitter", link: "https://twitter.com/digiorgiosilvia"}
+    - {name: "github", link: "https://github.com/silviadg87"} 
+  committees:
+    - {name: accessibility, title: "Accessibility Subcommittee"}
+    - {name: budget, title: "Budget Subcommittee Co-chair"}
+    - {name: program, title: "Program Subcommittee"}
 
 - 
   id: 100
   name: "We Need"
   surname: "You"
-  title: "CarpentryCon 2020 Volunteer"
   thumbnailUrl: Carpentries.png
-  volunteer: true 
+  committees:
+    - {name: volunteer, title: "CarpentryCon 2020 Volunteer"}
+
   

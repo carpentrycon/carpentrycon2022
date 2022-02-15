@@ -6,6 +6,36 @@ color:  "#80395F"
 modal: task-force
 ---
 
+
+{% assign chairs = "" | split: ',' %}
+{% assign cchomeorganiser = "" | split: ',' %}
+{% assign staff = "" | split: ',' %}
+{% assign accessibility = "" | split: ',' %}
+{% assign budget = "" | split: ',' %}
+{% assign comms = "" | split: ',' %}
+{% assign program = "" | split: ',' %}
+{% assign website = "" | split: ',' %}
+{% assign coc = "" | split: ',' %}
+{% assign advisor = "" | split: ',' %}
+{% assign volunteer = "" | split: ',' %}
+{% assign members = site.data.team %}
+
+{% for mem in members %}
+{% for com in mem.committees %}
+    {% if com.name == "chairs" %}{% assign chairs = chairs | push: mem %}{% endif %}
+    {% if com.name == "cchomeorganiser" %}{% assign cchomeorganiser = cchomeorganiser | push: mem %}{% endif %}
+    {% if com.name == "staff" %}{% assign staff = staff | push: mem %}{% endif %}
+    {% if com.name == "accessibility" %}{% assign accessibility = accessibility | push: mem %}{% endif %}
+    {% if com.name == "budget" %}{% assign budget = budget | push: mem %}{% endif %}
+    {% if com.name == "comms" %}{% assign comms = comms | push: mem %}{% endif %}
+    {% if com.name == "program" %}{% assign program = program | push: mem %}{% endif %}
+    {% if com.name == "website" %}{% assign website = website | push: mem %}{% endif %}
+    {% if com.name == "coc" %}{% assign coc = coc | push: mem %}{% endif %}
+    {% if com.name == "advisor" %}{% assign advisor = advisor | push: mem %}{% endif %}
+    {% if com.name == "volunteer" %}{% assign volunteer = volunteer | push: mem %}{% endif %}
+{% endfor %}
+{% endfor %}
+
  {% include top-section.html %}
 
  {% include task-force.html %}
