@@ -18,7 +18,7 @@ modal: task-force
 {% assign coc = "" | split: ',' %}
 {% assign advisor = "" | split: ',' %}
 {% assign volunteer = "" | split: ',' %}
-{% assign members = site.data.team %}
+{% assign members = site.data.team.people %}
 
 {% for mem in members %}
 {% for com in mem.committees %}
