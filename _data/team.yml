@@ -6,7 +6,7 @@ people:
   social: 
       - {name: "twitter", link: "#"} 
   committees: 
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 - name: Agnes
@@ -25,7 +25,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 
@@ -46,7 +46,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 
@@ -76,7 +76,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name: prog, title: Committee Member }
+    - {name: program, title: Committee Member }
 
 
 
@@ -87,7 +87,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 
@@ -138,7 +138,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 
@@ -200,7 +200,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 
 - name: Mary
@@ -257,7 +257,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 - name: Sebastian
   surname:  
@@ -281,7 +281,7 @@ people:
   social: 
       - {name: "twitter", link: "#"}
   committees:  
-    - {name:  prog, title: Committee Member }
+    - {name:  program, title: Committee Member }
 
 - name: Trisha
   surname: Adamus
