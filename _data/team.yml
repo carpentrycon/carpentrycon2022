@@ -144,7 +144,7 @@ people:
 
 - name:  Jesse
   surname: Johnston
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: jesse_johnston.jpg
   social: 
       - {name: "twitter", link: "#"}
   committees:  
@@ -229,7 +229,7 @@ people:
 
 - name:  Rabea 
   surname: Müller
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: rabea_muller.jpg
   social: 
       - {name: "twitter", link: "#"}
   committees:  
@@ -285,7 +285,7 @@ people:
 
 - name: Trisha
   surname: Adamus
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: trisha_adamus.jpg
   social: 
       - {name: "twitter", link: "#"}
   committees:  
