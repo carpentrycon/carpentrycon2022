@@ -300,4 +300,8 @@ people:
   committees:  
     - {name:  website, title: Committee Member }
 
-    
+- name: "We Need"
+  surname: "You"
+  thumbnailUrl: Carpentries.png
+  committees:
+    - {name: volunteer, title: "CarpentryCon 2020 Volunteer"}
