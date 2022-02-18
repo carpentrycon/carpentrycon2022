@@ -3,8 +3,6 @@ name: build and deploy 2022.carpentrycon.org
 on:
   push:
     branches: main
-  schedule:
-    - cron: '30 */6 * * *'
 
 jobs:
   build-website:
