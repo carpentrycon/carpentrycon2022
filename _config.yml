@@ -240,10 +240,10 @@ showSessions: true
 
 # Task Force Block
 taskForceBlockTitle: "About us"
-aboutUs: "As a community conference of The Carpentries, CarpentryCon2020 is the product of the commitment, ideas and coordination of  community members that constitute our CarpentryCon 2020 Task Force."
+aboutUs: "As a community conference of The Carpentries, CarpentryCon2022 is the product of the commitment, ideas and coordination of  community members that constitute our CarpentryCon 2022 Task Force."
 
 # Programme Block
-programmeBlockTitle: "CarpentryCon 2020 Programme and 'A to Z'"
+programmeBlockTitle: "CarpentryCon 2022 Programme and 'A to Z'"
 
 # Important Dates Block
 importantDatesBlockTitle: "Important Dates"
@@ -251,7 +251,7 @@ importantDatesCallForProposalsStartDate: ""
 importantDatesCallForProposalsEndDate: ""
 importantDatesNotificationDate: ""
 importantDatesImage: "statistic.jpg"
-importantDatesBlock:
+# importantDatesBlock:
 #  - date: "Mid October 2019"
 #    info:
 #      - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSdcZbWfVKDv4U_GM8klAShR5qRCXrBmxcWPZDdGq6BhqgMIFA/viewform' target='_blank'>Call for workshops, skill-ups and breakouts</a> opens"
@@ -272,20 +272,20 @@ importantDatesBlock:
 #    info:
 #      - "<a target='_blank' href='https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform'>Call for posters and lightning talks</a> opens"
 #      - "Call for for workshops, skill-ups and breakouts closes"
-  - date: "End of March 2020"
-    info:
-    - "<a target='_blank' href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
-    - "Notification of acceptance sent to authors of workshops, skill-ups and breakouts"
-  - date: "Early April 2020"
-    info:
-      - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform' target='_blank'>Financial aid application call</a> closes"
-  - date: "End of April 2020"
-    info:
-      - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform'>Call for poster and lightning talks</a> closes"
-      - "Initial financial aid offers go out"
-  - date: "End of May 2020"
-    info:
-      - "Notification of acceptance sent to authors of posters and lightning talks"
+  # - date: "End of March 2020"
+  #   info:
+  #   - "<a target='_blank' href='https://github.com/carpentries/conversations/issues/22'>Conference t-shirt design competition</a> closes"
+  #   - "Notification of acceptance sent to authors of workshops, skill-ups and breakouts"
+  # - date: "Early April 2020"
+  #   info:
+  #     - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform' target='_blank'>Financial aid application call</a> closes"
+  # - date: "End of April 2020"
+  #   info:
+  #     - "<a href='https://docs.google.com/forms/d/e/1FAIpQLSeEXTCSQFsPlHdK8ekSPZHxiyrZ3Y18GCjwfXIEt_9li9Jj9A/viewform'>Call for poster and lightning talks</a> closes"
+  #     - "Initial financial aid offers go out"
+  # - date: "End of May 2020"
+  #   info:
+  #     - "Notification of acceptance sent to authors of posters and lightning talks"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

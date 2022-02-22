@@ -2,31 +2,17 @@
 <section id="team" class="team">
     <div class="content-wrapper">
 
-        <h5>Check back for our Task Force for CarpentryCon 2022!</h5>
-        <h5>In the meantime, you can revisit the Task Force from CarpentryCon 2020 below.</h5>
-
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.taskForceBlockTitle }}</h3>
             <p class="text-left animated hiding" data-animation="fadeInUp" data-delay="0">{{ site.aboutUs }}</p>
         </div>
 
         <!-- CarpentryCon2020 Task Force Co-chairs -->
-        {% assign verbose_name = "The CarpentryCon2020 Task Force Co-chairs" %}
+        {% assign verbose_name = "The CarpentryCon2022 Task Force Co-chairs" %}
         {% assign task_force_var = chairs %}
         {% assign task_force_string = "chairs" %}
         {% include task_force_block.html %}
 
-        <!-- CarpentryCon@Home committee -->
-        {% assign verbose_name = "CarpentryCon @ Home Planning Committee" %}
-        {% assign task_force_var = cchomeorganiser %}
-        {% assign task_force_string = "cchomeorganiser" %}
-        {% include task_force_block.html %}
-
-        <!--staff liaisons-->
-        {% assign verbose_name = "Staff Liaisons" %}
-        {% assign task_force_var = staff %}
-        {% assign task_force_string = "staff" %}
-        {% include task_force_block.html %}
 
         <!-- accessibility subcommittee -->
         {% assign verbose_name = "Accessibility Subcommittee" %}
@@ -34,15 +20,10 @@
         {% assign task_force_string = "accessibility" %}
         {% include task_force_block.html %}
 
-        <!-- budget subcommittee -->
-        {% assign verbose_name = "Budget Subcommittee" %}
-        {% assign task_force_var = budget %}
-        {% assign task_force_string = "budget" %}
-        {% include task_force_block.html %}
 
         <!-- communications/content subcommittee -->
         
-        {% assign verbose_name = "Content/Communications Subcommittee" %}
+        {% assign verbose_name = "Communications Subcommittee" %}
         {% assign task_force_var = comms %}
         {% assign task_force_string = "comms" %}
         {% include task_force_block.html %}
@@ -59,23 +40,6 @@
         {% assign task_force_string = "website" %}
         {% include task_force_block.html %}
 
-        <!-- Carpentries Code of Conduct Committee Representative -->
-        {% assign verbose_name = "Code of Conduct Committee Representative" %}
-        {% assign task_force_var = coc %}
-        {% assign task_force_string = "coc" %}
-        {% include task_force_block.html %}
-
-        <!-- advisors -->
-        {% assign verbose_name = "Advisors from CarpentryCon 2018 Task Force" %}
-        {% assign task_force_var = advisor %}
-        {% assign task_force_string = "advisor" %}
-        {% include task_force_block.html %}
-
-        <!-- volunteers -->
-        {% assign verbose_name = "Volunteer with us!" %}
-        {% assign task_force_var = volunteer %}
-        {% assign task_force_string = "volunteer" %}
-        {% include task_force_block.html %}
     </div>
     
 </section>
