@@ -4,7 +4,7 @@ people:
   surname: Ayodele Adeyinka
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"} 
+      # - {name: "twitter", link: "#"} 
   committees: 
     - {name:  program, title: Committee Member }
 
@@ -13,7 +13,7 @@ people:
   surname: Cameron
   thumbnailUrl:  Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name: website, title: Committee Member }
 
@@ -23,7 +23,7 @@ people:
   surname: Cappello
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -33,7 +33,7 @@ people:
   surname: Alim Rasel
   thumbnailUrl: annajiat_alim_rasel.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name: chairs, title: Task Force Co-chair }
 
@@ -44,7 +44,7 @@ people:
   surname: Fadeke
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -54,7 +54,7 @@ people:
   surname: Brown
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -64,7 +64,7 @@ people:
   surname: Schacher
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -74,7 +74,7 @@ people:
   surname: Wawrzyniak
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name: program, title: Committee Member }
 
@@ -85,7 +85,7 @@ people:
   surname:  Cukier
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -95,7 +95,7 @@ people:
   surname: Rodrigues Nunes
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -105,7 +105,7 @@ people:
   surname: 
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  , title: Committee Member }
 
@@ -115,7 +115,7 @@ people:
   surname: Momcheva
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -126,7 +126,7 @@ people:
   surname: Mukherjee
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -136,7 +136,7 @@ people:
   surname: Oliver
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -146,7 +146,7 @@ people:
   surname: Johnston
   thumbnailUrl: jesse_johnston.jpg
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  chairs, title: Task Force Co-chair }
 
@@ -156,7 +156,7 @@ people:
   surname: Liu
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name: website, title: Committee Member }
 
@@ -168,7 +168,7 @@ people:
   surname: Koziar
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -178,7 +178,7 @@ people:
   surname: Wissel
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -188,7 +188,7 @@ people:
   surname: Bjornen
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name: accessibility, title: Committee Member }
 
@@ -198,7 +198,7 @@ people:
   surname: Lamba
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -207,7 +207,7 @@ people:
   surname: Murphy
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -215,7 +215,7 @@ people:
   surname: LaPorte
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -223,7 +223,7 @@ people:
   surname: Fatima
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  website, title: Committee Member }
 
@@ -240,7 +240,7 @@ people:
   surname: Otsuji
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -248,7 +248,7 @@ people:
   surname: Goswami
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  website, title: Committee Member }
 
@@ -256,7 +256,7 @@ people:
   surname: Fuloria
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -264,7 +264,7 @@ people:
   surname:  
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  website, title: Committee Member }
 
@@ -272,7 +272,7 @@ people:
   surname:  
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  accessibility, title: Committee Member }
 
@@ -280,7 +280,7 @@ people:
   surname: Griffin
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -298,7 +298,7 @@ people:
   surname: Shao
   thumbnailUrl: Carpentries.png
   social: 
-      - {name: "twitter", link: "#"}
+      # - {name: "twitter", link: "#"}
   committees:  
     - {name:  website, title: Committee Member }
 
