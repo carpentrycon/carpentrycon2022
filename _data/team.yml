@@ -147,7 +147,7 @@ people:
   thumbnailUrl: jesse_johnston.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/jesseajohnston"}
-    _ {name: "github", link: "https://github.com/morskyjezek/"}
+    - {name: "github", link: "https://github.com/morskyjezek/"}
   committees:  
     - {name:  chairs, title: Task Force Co-chair }
 
