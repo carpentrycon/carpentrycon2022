@@ -1,5 +1,5 @@
 # CarpentryCon 2022
-This repo will build the forthcoming website for CarpentryCon 2022.
+This repo builds the website for CarpentryCon 2022 at https://2022.carpentrycon.org/.
 
 Check out CarpentryCon 2020 at http://2020.carpentrycon.org/.
 
@@ -18,7 +18,7 @@ The CarpentryCon Task Force has been created within the carpentries to help orga
 
 All the plans, progress and resources of TF are reported within this repository.
 
-Details about the previous Task Force meetings are available [in this Etherpad](http://pad.software-carpentry.org/2020carpentrycontaskforce) and minutes are [regularly published here](https://github.com/carpentries/carpentrycon/tree/master/Minutes). 
+Details about the Task Force meetings are available [in this Etherpad](https://pad.carpentries.org/carpentrycon2022) and minutes are [regularly published here](https://github.com/carpentries/carpentrycon/tree/master/Minutes). 
 
 You can follow [CarpentryCon on Twitter](https://twitter.com/carpentrycon) for regular updates.
 
