@@ -1,6 +1,6 @@
 
 
-When contributing to this CarpentryCon 2020 Website repository, please first discuss the change you wish to make with other website subcommittee members via [this repository's issue tracker](/issues), or [email](carpentrycon-website_outreach@lists.carpentries.org), or at least [via the CarpentryCon 2020 Task Force mailing list](carpentrycon@lists.carpentries.org) before making a change.
+When contributing to this CarpentryCon 2020 Website repository, please first discuss the change you wish to make with other website subcommittee members via [this repository's issue tracker](/issues), or [email](carpentrycon-website_outreach@lists.carpentries.org), or at least [via the CarpentryCon 2020 Task Force mailing list](carpentrycon_tfchairs-staff@lists.carpentries.org) before making a change.
 
 # About the Code Base
 
