@@ -70,17 +70,6 @@ people:
 
 
 
-- name:  Elizabeth
-  surname: Wawrzyniak
-  thumbnailUrl: Carpentries.png
-  social: 
-      # - {name: "twitter", link: "#"}
-  committees:  
-    - {name: program, title: Committee Member }
-
-
-
-
 - name: Emily
   surname:  Cukier
   thumbnailUrl: Carpentries.png
