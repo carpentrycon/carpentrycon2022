@@ -13,7 +13,7 @@ sass: compact
 # Site Settings
 title: "CarpentryCon @ Home"
 email: "carpentrycon@carpentries.org"
-description: "Biennial community conference for The Carpentries global community, online in 2020"
+description: "Biennial community conference for The Carpentries global community, online in 2022"
 baseurl: ""
 url: "https://2022.carpentrycon.org"
 url2020: "https://2020.carpentrycon.org"
