@@ -286,9 +286,10 @@ people:
 
 - name: Zongru (Doris) 
   surname: Shao
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: zongru_shao.jpg
   social: 
-      # - {name: "twitter", link: "#"}
+      - {name: "twitter", link: "https://twitter.com/drssth"}
+      - {name: "github", link: "https://github.com/drssth"}
   committees:  
     - {name:  website, title: Committee Member }
 
