@@ -16,7 +16,7 @@ Stay tuned to the following channels to hear about our keynote speakers and othe
 - [CC@Home Slack](https://app.slack.com/accept-shared-channel/T0E80GCKS/I039V9V3JAU/enQtMzMzNTMzNTEyMDM2OC0xZmYyZGQ3MWU0ZjdkNGNjODU0YzQ5NWQ2MjYwYzk4Yjk1NDA2NmRlMjk5N2ZmYWY5MmZjNTU0M2NkYWQyMWUw)
 - [CC@Home Blog](https://2022.carpentrycon.org/blog/)
 - [The Carpentries Newsletter](https://carpentries.org/newsletter/)
-- [#CarpentryConatHome](https://twitter.com/search?q=%23CarpentryConAtHome)
+- [#{{ site.twitterHashTag }}](https://twitter.com/search?q=%23{{ site.twitterHashTag }})
 
 Happening from **1&ndash;12 August**, CarpentryCon@Home 2022 will be filled with events which will allow participants to network, build community, and enhance their technical skills all at once.
 The 2022 CarpentryCon theme will be "Expanding Data Frontiers." More information and opportunities to contribute will be posted here on the blog and circulated via these channels in the next few months as we lead up to CarpentryCon 2022. 
