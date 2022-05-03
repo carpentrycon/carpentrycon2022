@@ -3,6 +3,7 @@ layout: post
 title:  "CarpentryCon Proposal Submission is Now Open!"
 date:   2022-05-03 09:00:00
 isStaticPost: false
+image: cc2020-network.jpg
 tags: announcements
 ---
 
