@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Keeping up with CapentryCon2022"
+title:  "Keeping up with CarpentryCon2022"
 date:   2022-04-30 09:00:00
 isStaticPost: false
 tags: announcements
 image: cc2020-pebbles.jpg
 ---
 
-CapentryCon news and updates will be circulated on various channels. Here's a quick guide on dates to save and sources to watch. 
+CarpentryCon news and updates will be circulated on various channels. Here's a quick guide on dates to save and sources to watch. 
 We're very excited for the conference, and details about proposal submission, keynote speakers, and registration will be available soon! 
 
 Stay tuned to the following channels to hear about our keynote speakers and other updates:
