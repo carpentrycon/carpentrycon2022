@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the CarpentryCon 2022 Blog"
+title:  "Welcome to CarpentryCon 2022!"
 date:   2022-03-25 09:00:00
 isStaticPost: false
 tags: announcements
