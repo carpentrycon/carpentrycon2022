@@ -73,7 +73,8 @@ heroButtons:
 #  - {link: "https://www.eventbrite.com/e/carpentrycon-2020-tickets-88906089507", text: "Register To Attend"}
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
 #  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
-- {link: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8", text: "Watch Session Recordings from 2020 CarpentryCon @ Home"}
+#  - {link: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8", text: "Watch Session Recordings from 2020 CarpentryCon @ Home"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfo3mOA2atW3WN7Z0NKW9sJLPuH7jtIm67RNAYoM5UCDGk53g/viewform", text: "Propose a Session!"}
 heroTheme: "Expanding Data Frontiers"
 
 
