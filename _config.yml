@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', 'vendor']
 sass: compact
 
 # Site Settings
-title: "CarpentryCon @ Home"
+title: "CarpentryCon 2022"
 email: "carpentrycon@carpentries.org"
 description: "Biennial community conference for The Carpentries global community, online in 2022"
 baseurl: ""
@@ -61,7 +61,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "cc2018.jpg"
-heroTitle: "CarpentryCon @ Home"
+heroTitle: "CarpentryCon 2022"
 heroSubTitle: ""
 eventDate: "August 1-12, 2022"
 #typeoutTextValues: '""'
