@@ -30,5 +30,9 @@ We are excited that you are keen on contributing to this repository! [Start here
 The underlying code used for this website is a fork of [Project Zeppelin](https://github.com/gdg-x/zeppelin). It is published under the [MIT license](https://github.com/gdg-x/zeppelin/LICENSE.txt). 
 
 ## How To Run It Locally
-Clone this repository in your shell and then from the root directory of the project run:
-```bundle exec jekyll serve```
+Clone this repository in your shell. From the root directory of the project run:
+
+* `bundle exec jekyll clean` to remove all generated files
+* `bundle exec jekyll serve` to build the site and serve it locally
+
+View additional commands in [the Jekyll documentation](https://jekyllrb.com/docs/usage/).
