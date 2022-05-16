@@ -153,17 +153,6 @@ people:
 
 
 
-
-- name: Katherine (Kat) 
-  surname: Koziar
-  thumbnailUrl: Carpentries.png
-  social: 
-      # - {name: "twitter", link: "#"}
-  committees:  
-    - {name:  comms, title: Committee Member }
-
-
-
 - name: Katie
   surname: Wissel
   thumbnailUrl: Carpentries.png
