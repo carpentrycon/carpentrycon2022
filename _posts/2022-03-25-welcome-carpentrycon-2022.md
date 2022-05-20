@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to CarpentryCon 2022!"
 date:   2022-03-25 09:00:00
 isStaticPost: false
+image: cchome-2022-golden.jpg
 tags: announcements
 ---
 
