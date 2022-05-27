@@ -152,9 +152,9 @@ venueFeatures: ["Sandwiched between two freshwater lakes", "A short trip from se
 accommodationBlockTitle: "Accommodation"
 
 # Tweets Feed Block
-tweetsFeedImage: "/img/sections-background/twitter-banner.jpg"
-tweetsFeedImageCreditText: "Photo by Mish Vizesi on Unsplash"
-tweetsFeedImageImageLink: "https://www.wisc.edu/"
+tweetsFeedImage: "/img/sections-background/cchome-2022-gray.jpg"
+tweetsFeedImageCreditText: ""
+tweetsFeedImageImageLink: ""
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "CarpentryCon2022"
 twitterFeed: "https://twitter.com/carpentrycon"
