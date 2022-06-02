@@ -34,7 +34,7 @@ Members of the community, through our Community Discussions, have also provided 
 - Pain points in different languages and reflections on non-English-speaking workshops
 - More pedagogy, teaching about teaching
 - How to plan your workshop with diversity, equity, inclusion and accessibility in mind
-- Moving beyond Python and R to Julia, Matlab, Scala, etc.
+- Expanding programming lessons to include Julia, Matlab, Scala, etc.
 - How to develop content/lessons, particularly in a Team Science approach 
 - Adding high performance computing (HPC) skillsets or using cloud hosting platforms (e.g., Google Cloud, AWS, Azure) for researchers
 - Professional development content about systems change (e.g. https://www.ashoka.org/en-gb/systems-change)
