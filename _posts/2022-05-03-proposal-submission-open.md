@@ -56,7 +56,7 @@ To propose a session, please use the [online submission form](https://docs.googl
 - Last date for proposal submissions will be **12 June**.
 - We will start reviewing the submitted proposals as they are received.
 - Notification of accepted proposals will be sent to participants no later than **17 June**.
-- Event registration will open **1 June**; _registration will be free_.
+- Event registration will open **27 June**; _registration will be free_.
 - See the "[Keeping Up with CarpentryCon]({% post_url 2022-04-30-keeping-up-with-carpentrycon2022 %})" post for more channels to follow for CarpentryCon information.
 - You can add this event to your calendar [here](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGhyNW50YmhscXEyNnQzMGpzMnBhMGZnbW4gb3NldXVvaHQwdHZqYm9rZ2czbm9oOGM0N2dAZw&tmsrc=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 
