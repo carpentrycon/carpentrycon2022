@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ideas for CarpentryCon 2022 Proposals"
-date:   2022-05-16 09:00:00
+date:   2022-06-08 09:00:00
 isStaticPost: false
 image: cchome-2022-golden.jpg
 tags: announcements
