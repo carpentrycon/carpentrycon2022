@@ -13,7 +13,7 @@ We're sending out a reminder that [we are currently accepting CarpentryCon
 session proposals]({% post_url 2022-05-03-proposal-submission-open %}). The deadline is in less than a week, **12 June 2022**. 
 We welcome sessions led in any language or time zone. 
 There are a range of session types to choose from, and here are a few ideas
-from Alycia Crall, the The Carpentries Director of Community:
+from Alycia Crall, The Carpentries Director of Community:
 
 * Are you a yoga instructor? Propose a social event/informal meetup session to teach a class.
 * Limited by time? Propose a 5-minute lightning talk that you can pre-record before the event.
