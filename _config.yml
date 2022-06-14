@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "cchome-2022-midnight.jpg"
 heroTitle: "CarpentryCon 2022"
-heroSubTitle: "Submit proposals by 12 June!"
+heroSubTitle: #"Submit proposals by 12 June!"
 eventDate: "August 1-12, 2022"
 #typeoutTextValues: '""'
 #typeoutFallback: ""
@@ -74,7 +74,7 @@ heroButtons:
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
 #  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 #  - {link: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8", text: "Watch Session Recordings from 2020 CarpentryCon @ Home"}
-  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfo3mOA2atW3WN7Z0NKW9sJLPuH7jtIm67RNAYoM5UCDGk53g/viewform", text: "Propose a Session!"}
+#  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfo3mOA2atW3WN7Z0NKW9sJLPuH7jtIm67RNAYoM5UCDGk53g/viewform", text: "Propose a Session!"}
 heroTheme: "Expanding Data Frontiers"
 
 
