@@ -72,9 +72,9 @@ people:
 
 - name: Emily
   surname:  Cukier
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: emily_cukier.png
   social: 
-      # - {name: "twitter", link: "#"}
+    - {name: "twitter", link: "https://twitter.com/ecukier"}
   committees:  
     - {name:  program, title: Committee Member }
 
@@ -113,9 +113,10 @@ people:
 
 - name: Jeet 
   surname: Mukherjee
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: jeet_mukherjee.png
   social: 
       # - {name: "twitter", link: "#"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jeet-mukherjee/"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -146,7 +147,7 @@ people:
   surname: Liu
   thumbnailUrl: Carpentries.png
   social: 
-      # - {name: "twitter", link: "#"}
+    - {name: "twitter", link: https://twitter.com/frank0434"}
   committees:  
     - {name: website, title: Committee Member }
 
@@ -175,18 +176,18 @@ people:
 
 - name: Manika
   surname: Lamba
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: manika_lamba.png
   social: 
-      # - {name: "twitter", link: "#"}
+    - {name: "twitter", link: "https://twitter.com/lamba_manika"}
   committees:  
     - {name:  program, title: Committee Member }
 
 
 - name: Mary
   surname: Murphy
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: mary_murphy.png
   social: 
-      # - {name: "twitter", link: "#"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mary-murphy-ms-ed-mlis-3051b825/"}
   committees:  
     - {name:  comms, title: Committee Member }
 
@@ -217,7 +218,7 @@ people:
 
 - name: Reid
   surname: Otsuji
-  thumbnailUrl: Carpentries.png
+  thumbnailUrl: reid-otsuji.png
   social: 
       # - {name: "twitter", link: "#"}
   committees:  
