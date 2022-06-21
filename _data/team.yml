@@ -115,7 +115,6 @@ people:
   surname: Mukherjee
   thumbnailUrl: jeet_mukherjee.png
   social: 
-      # - {name: "twitter", link: "#"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/jeet-mukherjee/"}
   committees:  
     - {name:  comms, title: Committee Member }
