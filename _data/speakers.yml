@@ -29,12 +29,12 @@
   id: 102
   name: "Yanina Bellini"
   surname: "Saibene"
-  company: ""
-  title: "Professor, UNAB, and Project Lead, R-Ladies"
-  bio: "Co-founder of MetaDocencia, LatinR, and R-Ladies Santa Rosa.Member, The Carpentries Executive Council, R-Ladies Global and Leadership Team, RForwards Core Team, R Consortium Infrastructure Steering Committee, R4DS_ES, useR! Working Group, MiR, Argentine Society of Informatics (SADIO). Teaching Tech Together and R4DS translator."
+  company: "rOpenSci"
+  title: "Community Manager"
+  bio: "Co-founder of MetaDocencia, LatinR, and R-Ladies Santa Rosa. Member, The Carpentries Executive Council, R-Ladies Global and Leadership Team, RForwards Core Team, R Consortium Infrastructure Steering Committee, R4DS_ES, useR! Working Group, MiR, Argentine Society of Informatics (SADIO). Teaching Tech Together and R4DS translator."
   thumbnailUrl: yanina_bellini_saibene.jpeg
   ribbon: 
-    - {abbr: "Keynote", title: "UNAB & R-Ladies", url: "https://yabellini.netlify.app/"}
+    - {abbr: "Keynote", title: "rOpenSci", url: "https://yabellini.netlify.app/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/yabellini"}
     - {name: "github", link: "https://github.com/yabellini"}
