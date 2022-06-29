@@ -113,7 +113,7 @@ people:
 
 - name: Jeet 
   surname: Mukherjee
-  thumbnailUrl: jeet_mukherjee.png
+  thumbnailUrl: jeet_mukherjee.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/jeet-mukherjee/"}
   committees:  
@@ -184,7 +184,7 @@ people:
 
 - name: Mary
   surname: Murphy
-  thumbnailUrl: mary_murphy.png
+  thumbnailUrl: mary_murphy.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/mary-murphy-ms-ed-mlis-3051b825/"}
   committees:  
@@ -217,7 +217,7 @@ people:
 
 - name: Reid
   surname: Otsuji
-  thumbnailUrl: reid-otsuji.png
+  thumbnailUrl: reid-otsuji.jpg
   social: 
       # - {name: "twitter", link: "#"}
   committees:  
@@ -275,7 +275,7 @@ people:
 
 - name: Zongru (Doris) 
   surname: Shao
-  thumbnailUrl: zongru_shao.jpg
+  thumbnailUrl: Carpenries.png
   social: 
       - {name: "twitter", link: "https://twitter.com/drssth"}
       - {name: "github", link: "https://github.com/drssth"}
