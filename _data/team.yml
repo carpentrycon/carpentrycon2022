@@ -72,7 +72,7 @@ people:
 
 - name: Emily
   surname:  Cukier
-  thumbnailUrl: emily_cukier.png
+  thumbnailUrl: emily_cukier.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/ecukier"}
   committees:  
@@ -175,7 +175,7 @@ people:
 
 - name: Manika
   surname: Lamba
-  thumbnailUrl: manika_lamba.png
+  thumbnailUrl: manika_lamba.jpg
   social: 
     - {name: "twitter", link: "https://twitter.com/lamba_manika"}
   committees:  
@@ -275,7 +275,7 @@ people:
 
 - name: Zongru (Doris) 
   surname: Shao
-  thumbnailUrl: Carpenries.png
+  thumbnailUrl: Carpentries.png
   social: 
       - {name: "twitter", link: "https://twitter.com/drssth"}
       - {name: "github", link: "https://github.com/drssth"}
