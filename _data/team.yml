@@ -146,7 +146,7 @@ people:
   surname: Liu
   thumbnailUrl: Carpentries.png
   social: 
-    - {name: "twitter", link: https://twitter.com/frank0434"}
+    - {name: "twitter", link: "https://twitter.com/frank0434"}
   committees:  
     - {name: website, title: Committee Member }
 
