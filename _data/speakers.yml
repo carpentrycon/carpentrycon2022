@@ -31,7 +31,7 @@
   surname: "Saibene"
   company: "rOpenSci"
   title: "Community Manager"
-  bio: "Co-founder of MetaDocencia, LatinR, and R-Ladies Santa Rosa. Member, The Carpentries Executive Council, R-Ladies Global and Leadership Team, RForwards Core Team, R Consortium Infrastructure Steering Committee, R4DS_ES, useR! Working Group, MiR, Argentine Society of Informatics (SADIO). Teaching Tech Together and R4DS translator."
+  bio: "Professor at UNAB, Project Lead for R-Ladies, Co-founder of MetaDocencia, LatinR, and R-Ladies Santa Rosa. Member, The Carpentries Executive Council, R-Ladies Global and Leadership Team, RForwards Core Team, R Consortium Infrastructure Steering Committee, R4DS_ES, useR! Working Group, MiR, Argentine Society of Informatics (SADIO). Teaching Tech Together and R4DS translator."
   thumbnailUrl: yanina_bellini_saibene.jpeg
   ribbon: 
     - {abbr: "Keynote", title: "rOpenSci", url: "https://yabellini.netlify.app/"}
