@@ -1,12 +1,12 @@
 <!-- Begin Speakers List 2022-->
 <section id="speakers">
     <div class="content-wrapper">
-      <h6>Tip: Click on each speaker to see their bio. Session information and links will be posted prior to the conference.</h6>
+      <h4>Keynote Speakers</h4>
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
 
-            {% assign speaker_list = site.data.speakers | sort: "surname" %}
+            {% assign keynote_list = site.data.speakers | where: "speaker_type", "keynote" | sort: "surname" %}
 
-            {% for speaker in speaker_list %}
+            {% for speaker in keynote_list %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
@@ -40,6 +40,20 @@
                 </div>
             </div>
             {% endfor %}
+
+
+            <h4>Session Presenters</h4>
+
+            {% assign speaker_list = site.data.speakers | sort: "surname" %}
+            <ul style="list-style-type:none;">
+                {% for speaker in speaker_list %}
+                {% unless speaker.speaker_type == 'keynote' %}
+                <li class="name"><h6>{{ speaker.name }} {{ speaker.surname }}</h6> </li>
+                {% endunless %} {% endfor %}
+            </ul>
+        
+
+
         </div>
         
         <!-- hide "help wanted" button until this is ready for 2022
