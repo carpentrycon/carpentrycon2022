@@ -1,5 +1,8 @@
 <!-- Begin Schedule Section -->
+
+
 <section id="schedule" class="schedule">
+
     <div class="content-wrapper">
 
         <hr />
@@ -17,11 +20,11 @@
         var timezone = jstz.determine();
         const frame = document.createElement('iframe');
         frame.style = 'border-width: 0';
-        frame.width = '800';
-        frame.height = '600';
+        frame.width = '1000';
+        frame.height = '800';
         frame.frameborder = '0';
-        frame.scrolling = 'no';
-        frame.src = 'https://calendar.google.com/calendar/embed?title=CarpentryCon%202022&mode=WEEK&dates=20220801/20220805&src=c_tmtrkf328gjtcs1u05mhfbn7qc%40group.calendar.google.com&ctz=' + timezone.name();
+        frame.scrolling = 'yes';
+        frame.src = 'https://calendar.google.com/calendar/embed?title=CarpentryCon%202022&mode=AGENDA&dates=20220801/20220805&src=c_tmtrkf328gjtcs1u05mhfbn7qc%40group.calendar.google.com&ctz=' + timezone.name();
         document.getElementById('calendar').appendChild(frame);
         </script>
 
