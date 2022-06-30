@@ -51,3 +51,770 @@
     - {abbr: "Keynote", title: "", url: ""}
   social: 
     # - {name: "", link: ""}
+
+-
+  id: 201
+  name: "Ben"
+  surname: "Chiewphasa"
+  company: "University of Notre Dame"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/BenDataLib"}
+
+-
+  id: 202
+  name: "Naomi"
+  surname: "Alterman"
+  company: "Data Science Fellow and Technical Education Specialist at the University of Washington eScience Institute"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/uhohnaomi"}
+
+-
+  id: 203
+  name: "Toby"
+  surname: "Hodges"
+  company: "The Carpentries"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/tbyhdgs"}
+
+-
+  id: 204
+  name: "Angelique"
+  surname: "Trusler"
+  company: "The Carpentries"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/AngeliquePhd"}
+
+-
+  id: 205
+  name: "Chris"
+  surname: "eEezue"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/lanfrica"}
+
+-
+  id: 206
+  name: "Rayvn"
+  surname: "Manuel"
+  company: "Smithsonian National Museum of African American History & Culture"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 207
+  name: "Jannetta S."
+  surname: "Steyn"
+  company: "Newcastle University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/jannettas"}
+
+-
+  id: 208
+  name: "Grace"
+  surname: "Fishbein"
+  company: "ACENET at Memorial University of Newfoundland"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 209
+  name: "Juan De Dios"
+  surname: "Santos"
+  company: "Bitly"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/jdiossantos"}
+
+-
+  id: 210
+  name: "Richard"
+  surname: "McCue"
+  company: "Manager Digital Scholarship Common; Sessional Instructor Faculty of Education"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/richmccue"}
+
+-
+  id: 211
+  name: "Cody"
+  surname: "Hennesy"
+  company: "University of Minnesota"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/PhilReedData"}
+
+-
+  id: 212
+  name: "Phil"
+  surname: "Reed"
+  company: "University of Manchester"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/codyhennesy"}
+
+-
+  id: 213
+  name: "Greg"
+  surname: "Janée"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 214
+  name: "Renata"
+  surname: "Curty"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 215
+  name: "Amanda"
+  surname: "Ho"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 216
+  name: "Ryan"
+  surname: "Horne"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 217
+  name: "Jon"
+  surname: "Jablonski"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 218
+  name: "Kristi"
+  surname: "Liu"
+  company: "UC Santa Barbara Library"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 219
+  name: "Denisse Fierro"
+  surname: "Arcos"
+  company: "R-Ladies Galapagos"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/rladiesgps"}
+
+-
+  id: 220
+  name: "Linda Cabrera"
+  surname: "Orellana"
+  company: "R-Ladies Guayaquil"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/rladiesgye"}
+
+-
+  id: 221
+  name: "Ameet"
+  surname: "Doshi"
+  company: "Princeton University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/AmeetDoshi"}
+
+-
+  id: 222
+  name: "Saranjeet Kaur"
+  surname: "Bhogal"
+  company: "RSE Asia Association"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/qwertyquesting"}
+
+-
+  id: 223
+  name: "Heather"
+  surname: "Turner"
+  company: "University of Warwick"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/HeathrTurnr"}
+
+-
+  id: 224
+  name: "David"
+  surname: "Palmquist"
+  company: "Cal State University Fullerton"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 225
+  name: "Benson"
+  surname: "Muite"
+  company: "Kichakato Kizito"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 226
+  name: "Liezl"
+  surname: "Ball"
+  company: "University of Pretoria"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 227
+  name: "Nkem"
+  surname: "Osuigwe"
+  company: "African Library and Information Associations and Institutions (AfLIA)"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 228
+  name: "Tuelo"
+  surname: "Ntoltlang"
+  company: "Botswana International University of Science and Technology"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 229
+  name: "Victor"
+  surname: "Ibeto"
+  company: "Ashesi University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 230
+  name: "Robert "Bob""
+  surname: "Turner"
+  company: "University of Sheffield"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/bobatron"}
+
+-
+  id: 231
+  name: "SherAaron"
+  surname: "Hurt"
+  company: "The Carpentries"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/sheraaronhurt"}
+
+-
+  id: 232
+  name: "Colin"
+  surname: "Sauze"
+  company: "Aberystwyth University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 233
+  name: "Peter"
+  surname: "Steinbach"
+  company: "Helmholtz-Zentrum"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 234
+  name: "Alan"
+  surname: "O'Cais"
+  company: "CECAM"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/hpccarpentry"}
+
+-
+  id: 235
+  name: "Andrew"
+  surname: "Reid"
+  company: "NIST"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 236
+  name: "Annajiat Alim"
+  surname: "Rasel"
+  company: "BRAC University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 237
+  name: "Rohit"
+  surname: "Goswami"
+  company: "Quansight Labs & Science Institute of the University of Iceland"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 238
+  name: "Trevor"
+  surname: "Keller"
+  company: "NIST"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 239
+  name: "Wirawan"
+  surname: "Purwanto"
+  company: "Old Dominion University"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 240
+  name: "Jamie"
+  surname: "Studenroth"
+  company: "Understood"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/understoodorg"}
+
+-
+  id: 241
+  name: "James"
+  surname: "Emmett"
+  company: "Understood"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 242
+  name: "Sarah"
+  surname: "Stevens"
+  company: "University of Wisconsin-Madison"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/microstevens"}
+
+-
+  id: 243
+  name: "Zhian"
+  surname: "Kamvar"
+  company: "The Carpentries"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/ZKamvar"}
+
+-
+  id: 244
+  name: "Olaitan"
+  surname: "Awe"
+  company: "Jackson Laboratory for Genomic Medicine"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 245
+  name: "Reid"
+  surname: "Otsuji"
+  company: "UC San Diego"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 246
+  name: "Kim"
+  surname: "Thomas"
+  company: "UC San Diego"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 247
+  name: "Sophia"
+  surname: "Batchelor"
+  company: "The Alan Turing Institute"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/turingway"}
+
+-
+  id: 248
+  name: "Esther"
+  surname: "Plomp"
+  company: "TU Delft"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 249
+  name: "Hari"
+  surname: "Sood"
+  company: "The Alan Turing Institute"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 250
+  name: "Anne Lee"
+  surname: "Steele"
+  company: "The Alan Turing Institute"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 251
+  name: "Jordan"
+  surname: "Pedersen"
+  company: "University of Toronto"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 252
+  name: "Frances"
+  surname: "Wong"
+  company: "University of Toronto"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 253
+  name: "Johnny"
+  surname: "Dubois"
+  company: "University of Toronto"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 254
+  name: "Lorena"
+  surname: "Almaraz"
+  company: "University of Toronto"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 255
+  name: "Damien"
+  surname: "Irving"
+  company: "Regional Coordinator for Australia"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/DrClimate"}
+
+-
+  id: 256
+  name: "Nisha"
+  surname: "Ghatak"
+  company: "Regional Coordinator for New Zealand"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/NeSI_NZ"}
+
+-
+  id: 257
+  name: "Joel"
+  surname: "Nitta"
+  company: "The University of Tokyo"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/joel_nitta"}
+
+-
+  id: 258
+  name: "Alycia"
+  surname: "Crall"
+  company: "The Carpentries"
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    # - {name: "", link: ""}
+
+-
+  id: 259
+  name: "Daniel"
+  surname: "Chen"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: Carpentries.png
+  ribbon:
+    - {abbr: "Speaker", title: "", url: ""}
+  social:
+    - {name: "twitter", link: "https://twitter.com/chendaniely"}
