@@ -2,10 +2,29 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
 
-        <h5>Schedule will be posted after proposal submission closes.</h5>
-        <h5>Check back soon!</h5>
         <hr />
-        <h5>In the meantime, you can <a href="{{ site.url2020 }}/schedule">revisit the schedule from CarpentryCon 2020</a>.</h5>
+
+
+        <div id='calendar' markdown="0"></div>
+
+        <hr>
+        
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+        
+        <script type="text/javascript">
+        var timezone = jstz.determine();
+        const frame = document.createElement('iframe');
+        frame.style = 'border-width: 0';
+        frame.width = '800';
+        frame.height = '600';
+        frame.frameborder = '0';
+        frame.scrolling = 'no';
+        frame.src = 'https://calendar.google.com/calendar/embed?title=CarpentryCon%202022&mode=WEEK&dates=20220801/20220805&src=c_tmtrkf328gjtcs1u05mhfbn7qc%40group.calendar.google.com&ctz=' + timezone.name();
+        document.getElementById('calendar').appendChild(frame);
+        </script>
+
 
 </div>
 </section>
