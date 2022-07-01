@@ -49,6 +49,7 @@
   company: "ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences"
   title: "Professor for Data and Information Literacy"
   bio: "Konrad Förstner holds a joint professorship for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences. The research of his group covers a broad spectrum of applications of bioinformatics and data science in the life sciences."
+  speaker_type: keynote
   thumbnailUrl: Konrad_Foerstner.jpg
   ribbon: 
     - {abbr: "Keynote", title: "ZB MED and TH Köln", url: "https://konrad.foerstner.org/"}
