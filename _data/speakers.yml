@@ -5,6 +5,7 @@
   company: "The Carpentries"
   title: "Executive Director"
   bio: "Dr. Kari L. Jordan is the Executive Director of The Carpentries, a non-profit project that teaches foundational coding and data science skills. In this role, she advocates for The Carpentries' mission, vision, and values through strategic relationships and championing people first, access for all, and community collaboration. Dr. Kari holds a Ph.D. in Engineering Education and an MA in Education from The Ohio State University, as well as an MS and BS in Mechanical Engineering from Michigan Technological University. Dr. Kari is an Adjunct Professor at Embry-Riddle Aeronautical University in the Department of Engineering and Technology, and Chair of the Board for Code for Science & Society. In her free time she enjoys teaching Zumba Fitness Classes."
+  speaker_type: keynote
   thumbnailUrl: kari_jordan.jpeg
   ribbon: 
     - {abbr: "Keynote", title: "Carpentries Core Team", url: "https://carpentries.org/team/"}
@@ -19,6 +20,7 @@
   company: "University of Arizona"
   title: "Assistant Professor, Public Health and American Indian Studies"
   bio: "Stephanie Carroll is a citizen of the Native Village of Kluti-Kaah in Alaska and of Sicilian-descent. At the University of Arizona, she is Assistant Professor of Public Health, Associate Director for the Native Nations Institute, and Acting Director/Assistant Research Professor at the Udall Center. Her research group, the Collaboratory for Indigenous Data Governance, develops research, policy, and practice innovations for Indigenous data sovereignty. Stephanie chairs the Global Indigenous Data Alliance, the International Indigenous Data Sovereignty Interest Group at the Research Data Alliance, and the Indigenous Data Working Group for the IEEE P2890 Recommended Practice for Provenance of Indigenous Peoples' Data."
+  speaker_type: keynote
   thumbnailUrl: stephanie_russo_carroll.png
   ribbon: 
     - {abbr: "Keynote", title: "University of Arizona", url: "https://igp.arizona.edu/person/stephanie-russo-carroll-drph-mph"}
@@ -32,6 +34,7 @@
   company: "rOpenSci"
   title: "Community Manager"
   bio: "Professor at UNAB, Project Lead for R-Ladies, Co-founder of MetaDocencia, LatinR, and R-Ladies Santa Rosa. Member, The Carpentries Executive Council, R-Ladies Global and Leadership Team, RForwards Core Team, R Consortium Infrastructure Steering Committee, R4DS_ES, useR! Working Group, MiR, Argentine Society of Informatics (SADIO). Teaching Tech Together and R4DS translator."
+  speaker_type: keynote
   thumbnailUrl: yanina_bellini_saibene.jpeg
   ribbon: 
     - {abbr: "Keynote", title: "rOpenSci", url: "https://yabellini.netlify.app/"}
@@ -47,7 +50,7 @@
   title: "Professor for Data and Information Literacy"
   bio: "Konrad Förstner holds a joint professorship for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences. The research of his group covers a broad spectrum of applications of bioinformatics and data science in the life sciences."
   thumbnailUrl: Konrad_Foerstner.jpg
-  ribbon: 
+ribbon: 
     - {abbr: "Keynote", title: "ZB MED and TH Köln", url: "https://konrad.foerstner.org/"}
   social: 
     - {name: "twitter", link: "https://twitter.com/konradfoerstner"}
