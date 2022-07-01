@@ -50,7 +50,7 @@ navigationLinks:
 #  - {permalink: "/sponsorship/", text: "Sponsorship"}
 #  - {permalink: "/programme/", text: "Programme"}
 #  - {permalink: "/venue/", text: "Venue & Travel"}
-#  - {permalink: "/accessibility/", text: "Accessibility"}
+  - {permalink: "/accessibility/", text: "Accessibility"}
 #  - {permalink: "/accommodation/", text: "Accommodation"}
 #  - {permalink: "https://github.com/carpentries/carpentrycon/blob/master/AtoZ_of_CarpentryCon.md", text: "'A to Z'"}
   - {permalink: "/task-force/", text: "Task Force"}
@@ -230,6 +230,7 @@ footerBlocks:
   title: "Important Information"
   links:
    - {link: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html", text: "Conference Code of Conduct"}
+   - {link: "/accessibility/", text: "Accessibility at the Conference"}
 
 # Blog
 blogTitle: "News & Blog"

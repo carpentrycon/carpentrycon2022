@@ -46,15 +46,15 @@
   id: 103
   name: "Konrad"
   surname: "Förstner"
-  company: ""
-  title: ""
-  bio: ""
-  speaker_type: keynote
-  thumbnailUrl: Carpentries.png
-  ribbon: 
-    - {abbr: "Keynote", title: "", url: ""}
+  company: "ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences"
+  title: "Professor for Data and Information Literacy"
+  bio: "Konrad Förstner holds a joint professorship for Data and Information Literacy at ZB MED - Information Center for Life Sciences and TH Köln - University of Applied Sciences. The research of his group covers a broad spectrum of applications of bioinformatics and data science in the life sciences."
+  thumbnailUrl: Konrad_Foerstner.jpg
+ribbon: 
+    - {abbr: "Keynote", title: "ZB MED and TH Köln", url: "https://konrad.foerstner.org/"}
   social: 
-    # - {name: "", link: ""}
+    - {name: "twitter", link: "https://twitter.com/konradfoerstner"}
+    - {name: "github", link: "https://github.com/konrad"}
 
 -
   id: 201
