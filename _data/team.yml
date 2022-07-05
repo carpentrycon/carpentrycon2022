@@ -272,16 +272,6 @@ people:
   committees:  
     - {name:  chairs, title:  Task Force Co-chair }
 
-
-- name: Zongru (Doris) 
-  surname: Shao
-  thumbnailUrl: Carpentries.png
-  social: 
-      - {name: "twitter", link: "https://twitter.com/drssth"}
-      - {name: "github", link: "https://github.com/drssth"}
-  committees:  
-    - {name:  website, title: Committee Member }
-
 - name: "We Need"
   surname: "You"
   thumbnailUrl: Carpentries.png
