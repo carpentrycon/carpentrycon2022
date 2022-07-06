@@ -170,8 +170,8 @@ partnersC4sponsorsButton: "Become a Sponsor"
 # Sponsors Block
 sponsorsBlockTitle: "Sponsors"
 sponsorsBlock:
- - {title: "Alfred P. Sloan Foundation", image: "sloan-foundation.png", about: ""}
- - {title: "Gordon and Betty Moore Foundation", image: "moore-logo-color.jpeg", about: ""}
+ - {title: "Alfred P. Sloan Foundation", image: "sloan-foundation.png", url: "https://sloan.org/"}
+ - {title: "Gordon and Betty Moore Foundation", image: "moore-logo-color.jpeg", url: "https://www.moore.org/"}
 
 # Subscribe Block
 subscribeTitle: "Subscribe to receive CarpentryCon updates"
