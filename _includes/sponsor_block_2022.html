@@ -1,0 +1,25 @@
+<!-- 2022 Sponsors Section -->
+<section id="sponsors" class="about">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            <h3>{{ site.sponsorsBlockTitle }}</h3>
+            <div class="row about-details">
+                {% assign animationDelay = 0 %}
+                {% for sponsor in site.sponsorsBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ sponsor.title }}</h5>
+                        <img class="img-responsive center" src="{{ site.baseurl }}/img/sponsor/{{ sponsor.image }}" height="128" width="128" alt="{{ sponsor.title }} logo image">
+                        <p>{{ sponsor.about }}</p>
+                    </div>
+                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Sponsors Section -->

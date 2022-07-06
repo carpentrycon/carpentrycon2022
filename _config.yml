@@ -79,11 +79,14 @@ heroTheme: "Expanding Data Frontiers"
 
 
 # About Block
-aboutTitle: " CarpentryCon Conference Format"
-aboutBlock:
-  - {title: "Conference", image: "conference.jpg", text: "The biggest annual Carpentries related event, carefully crafted for community building, networking and collaboration!" }
-  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and share your knowledge and learn something new!" }
-  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon / unconference! Great opportunity to collaborate with others in the global Carpentries community!" }
+#aboutTitle: "CarpentryCon Conference Format"
+#aboutBlock:
+#  - {title: "Conference", image: "conference.jpg", text: "The biggest annual Carpentries related event, carefully crafted for community building, networking and collaboration!" }
+#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and share your knowledge and learn something new!" }
+#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon / unconference! Great opportunity to collaborate with others in the global Carpentries community!" }
+
+# Sponsors Block
+sponsorsTitle: ""
 
 # Statistic Block
 statisticBlockImage: "data-stats.jpg"
@@ -96,7 +99,7 @@ statisticBlock:
   - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "Plus the evergreen hallway track"}
  
  # Why Block
-aboutTitle: " Why Attend CarpentryCon?"
+aboutTitle: "Why Attend CarpentryCon?"
 aboutBlock:
   - {title: "Workshops", image: "cc2020-workshop-small.jpg", creditText: "Image by bebatut from Flickr, CC BY-SA 2.0", creditLink: "https://www.flickr.com/photos/134305289@N03/27646032497/in/album-72157667641880727/", text: "We will offer a series of practical, hands-on skill-ups, workshops and breakout sessions to teach essential skills around coding, leading projects, community organisation, curriculum development and other professional development 'must-haves'." }
   - {title: "Networking", image: "network-2.jpg", creditText: "Image by Gerd Altmann from Pixabay", creditLink: "https://pixabay.com/illustrations/network-earth-block-chain-globe-3537401/", text: "There will be a series of social and other events to foster networking, especially among instructors who might want to share workshop and teaching tips. Attendees will have lots of opportunities to come together informally to share stories about challenges and successes." }
@@ -163,6 +166,12 @@ twitterFeed: "https://twitter.com/carpentrycon"
 organisersTitle: "Organisers & Sponsors"
 # partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a Sponsor"
+
+# Sponsors Block
+sponsorsBlockTitle: "Sponsors"
+sponsorsBlock:
+ - {title: "Alfred P. Sloan Foundation", image: "sloan-foundation.png", about: ""}
+ - {title: "Gordon and Betty Moore Foundation", image: "moore-logo-color.jpeg", about: ""}
 
 # Subscribe Block
 subscribeTitle: "Subscribe to receive CarpentryCon updates"
