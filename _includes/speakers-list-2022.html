@@ -42,24 +42,25 @@
             {% endfor %}
 
 
-            <h4>Session Presenters</h4>
 
-            {% assign speaker_list = site.data.speakers | sort: "surname" %}
-            <ul style="list-style-type:none;">
-                {% for speaker in speaker_list %}
-                {% unless speaker.speaker_type == 'keynote' %}
-                <li class="name"><h6>{{ speaker.name }} {{ speaker.surname }}</h6> </li>
-                {% endunless %} {% endfor %}
-            </ul>
         
 
 
         </div>
         
-        <!-- hide "help wanted" button until this is ready for 2022
-        <a href="{{ site.helpwanted }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Help Wanted: See which speakers need your help</a>         
-        -->
 
-    </div>
+    </div>  <!--  content-wrapper -->
+
+
+
+    <h4>Session Presenters</h4>
+
+    {% assign speaker_list = site.data.speakers | sort: "surname" %}
+    <ul style="list-style-type:none;">
+        {% for speaker in speaker_list %}
+        {% unless speaker.speaker_type == 'keynote' %}
+        <li class="name"><h6>{{ speaker.name }} {{ speaker.surname }}</h6> </li>
+        {% endunless %} {% endfor %}
+    </ul>
 </section>
 <!-- End Speakers List 2022 -->
