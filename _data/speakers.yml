@@ -57,6 +57,23 @@
     - {name: "twitter", link: "https://twitter.com/konradfoerstner"}
     - {name: "github", link: "https://github.com/konrad"}
 
+
+- 
+  id: 104
+  name: "Joslynn"
+  surname: "Lee"
+  company: "Fort Lewis College, Durango, CO"
+  title: "Assistant Professor of Biochemistry"
+  bio: " Joslynn is of the Diné (Navajo), K’awaika (Laguna Pueblo) and Haak’u (Acoma Pueblo) people. Joslynn is currently an Assistant Professor of Biochemistry at Fort Lewis College, Durango, CO. Prior to her current appointment at FLC, she was a Data Science Educator at Cold Spring Harbor Laboratory’s DNA Learning Center and Science Education Fellow at Howard Hughes Medical Institute. Her teaching experience in the areas of computational chemistry/biology and data science skills has encouraged her to train bench scientists to better analyze their data. Joslynn cares about training more American Indian/Alaska Native students and their communities in genomics in a culturally appropriate way. Joslynn sits on the Carpentries Equity Council and is in the process of collaborative projects for new lessons."
+  speaker_type: keynote
+  thumbnailUrl: joslynn_lee.jpeg
+  ribbon: 
+    - {abbr: "Keynote", title: "Fort Lewis College", url: ""}
+  social: 
+
+
+
+
 -
   id: 201
   name: "Ben"
