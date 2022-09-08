@@ -70,7 +70,7 @@ heroButtons:
 #  - {link: "https://github.com/carpentrycon/carpentryconhome-proposals/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22", text: "Help Wanted: See which sessions need your help"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSexQKsVHsvTBsH6OVwvO2J8ZhfDxei98Ot_vxA3TbXG2RuIEw/viewform", text: "Register for CarpentryCon@Home Sessions"}
 #  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf3vWlTy79TXAboT6VPElllq6ggYsSEb5QairmhU01kOHD_Dg/viewform", text: "Apply For Financial Aid To Attend"}
-  - {link: "https://carpentrycon2022.eventbrite.com/", text: "Register To Attend"}
+#  - {link: "https://carpentrycon2022.eventbrite.com/", text: "Register To Attend"}
 #  - {link: "https://github.com/carpentries/conversations/issues/22", text: "Design a t-shirt"}
 #  - {link: "https://carpentries.typeform.com/to/hqoY3I", text: "Become a Sponsor"}
 #  - {link: "https://www.youtube.com/playlist?list=PLXLapl_LKb4fx-t_4MBSPiefTraj5KdJ8", text: "Watch Session Recordings from 2020 CarpentryCon @ Home"}
